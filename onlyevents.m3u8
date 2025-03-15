@@ -4379,18 +4379,6 @@ https://ddy6new.iosplayer.ru/ddy6/premium170/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.iosplayer.ru/wind/premium171/mono.m3u8
 
-#EXTINF:-1 tvg-id="Korea Republic - K League 1 - Gangwon vs Seoul" tvg-name="Korea Republic - K League 1 : Gangwon vs Seoul 15/03/25 - 08:30" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Astro Football
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://windnew.iosplayer.ru/wind/premium124/mono.m3u8
-
-#EXTINF:-1 tvg-id="Korea Republic - K League 2 - Suwon Bluewings vs Chungnam Asan" tvg-name="Korea Republic - K League 2 : Suwon Bluewings vs Chungnam Asan 15/03/25 - 08:30" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Astro Football
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://windnew.iosplayer.ru/wind/premium124/mono.m3u8
-
 #EXTINF:-1 tvg-id="Australia - A-League Women - Western Sydney Wanderers vs Melbourne Victory" tvg-name="Australia - A-League Women : Western Sydney Wanderers vs Melbourne Victory 15/03/25 - 06:40" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TNT Sports 4 UK
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -4402,6 +4390,18 @@ https://nfsnew.iosplayer.ru/nfs/premium34/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://nfsnew.iosplayer.ru/nfs/premium32/mono.m3u8
+
+#EXTINF:-1 tvg-id="Korea Republic - K League 1 - Gangwon vs Seoul" tvg-name="Korea Republic - K League 1 : Gangwon vs Seoul 15/03/25 - 08:30" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Astro Football
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.iosplayer.ru/wind/premium124/mono.m3u8
+
+#EXTINF:-1 tvg-id="Korea Republic - K League 2 - Suwon Bluewings vs Chungnam Asan" tvg-name="Korea Republic - K League 2 : Suwon Bluewings vs Chungnam Asan 15/03/25 - 08:30" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Astro Football
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.iosplayer.ru/wind/premium124/mono.m3u8
 
 #EXTINF:-1 tvg-id="Australia - A-League - Western Sydney Wanderers vs Melbourne Victory" tvg-name="Australia - A-League : Western Sydney Wanderers vs Melbourne Victory 15/03/25 - 09:30" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TNT Sports 6 UK
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -7733,7 +7733,7 @@ https://nfsnew.iosplayer.ru/nfs/premium928/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://dokko1new.iosplayer.ru/dokko1/premium392/mono.m3u8
 
-#EXTINF:-1 tvg-id="NWSL Soccer - Bay FC at Utah Royals FC" tvg-name="NWSL Soccer : Bay FC at Utah Royals FC 15/03/25 - 00:30" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ION USA
+#EXTINF:-1 tvg-id="NWSL Soccer - Bay FC vs Utah Royals FC" tvg-name="NWSL Soccer : Bay FC vs Utah Royals FC 15/03/25 - 00:30" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ION USA
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
