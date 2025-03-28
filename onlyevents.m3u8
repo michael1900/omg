@@ -1859,6 +1859,12 @@ https://windnew.iosplayer.ru/wind/premium456/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://top2new.iosplayer.ru/top2/premium403/mono.m3u8
 
+#EXTINF:-1 tvg-id="Germany - Bundesliga 2 - Hamburger SV vs Elversberg" tvg-name="18:30 Germany - Bundesliga 2 : Hamburger SV vs Elversberg - 28/03/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Match! Football 3 Russia
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium138/mono.m3u8
+
 #EXTINF:-1 tvg-id="Germany - Bundesliga 2 - Hamburger SV vs Elversberg" tvg-name="18:30 Germany - Bundesliga 2 : Hamburger SV vs Elversberg - 28/03/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Nova Sports 6 Greece
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -2212,6 +2218,12 @@ https://nfsnew.iosplayer.ru/nfs/premium14/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium127/mono.m3u8
+
+#EXTINF:-1 tvg-id="Bundesliga - Bayer Leverkusen vs Bochum" tvg-name="20:30 Bundesliga : Bayer Leverkusen vs Bochum - 28/03/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Match! Football 3 Russia
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium138/mono.m3u8
 
 #EXTINF:-1 tvg-id="Bundesliga - Bayer Leverkusen vs Bochum" tvg-name="20:30 Bundesliga : Bayer Leverkusen vs Bochum - 28/03/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Nova Sports 3 Greece
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
