@@ -5272,6 +5272,31 @@
                 ]
             },
             {
+                "time": "16:00",
+                "event": "Trinidad & Tobago - T10 Blast : MT Irvine Surfers vs Pigeon Point Skiers",
+                "channels": []
+            },
+            {
+                "time": "18:30",
+                "event": "Trinidad & Tobago - T10 Blast : Store Bay Snorkelers vs Kings Bay Royals",
+                "channels": []
+            },
+            {
+                "time": "21:30",
+                "event": "New Zealand - Plunket Shield : Central Stags vs Auckland Aces",
+                "channels": []
+            },
+            {
+                "time": "21:30",
+                "event": "New Zealand - Plunket Shield : Otago Volts vs Northern Knights",
+                "channels": []
+            },
+            {
+                "time": "21:30",
+                "event": "New Zealand - Plunket Shield : Wellington Firebirds vs Canterbury Kings",
+                "channels": []
+            },
+            {
                 "time": "21:30",
                 "event": "1st ODI : New Zealand vs Pakistan",
                 "channels": [
@@ -5577,8 +5602,78 @@
                 "channels": []
             },
             {
+                "time": "14:00",
+                "event": "Challenger - Concepcion (CHL) : Guido Ivan Justo vs Nicolas Kicker",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "Challenger - Girona (SPA) : Marin Cilic vs Pablo Carreno-Busta",
+                "channels": []
+            },
+            {
+                "time": "15:30",
+                "event": "UTR (M) - Manzanillo (MEX) : Rodolfo Jauregui Sainz vs Mauricio Echazu",
+                "channels": []
+            },
+            {
+                "time": "15:30",
+                "event": "Challenger - Concepcion (CHL) : Roman Andres Burruchaga vs Matias Soto",
+                "channels": []
+            },
+            {
                 "time": "15:52",
                 "event": "ITF (F) - Bujumbura (BDI) - Double : C.Fontenel/K.Zaytseva vs E.Kazionova/A.L.Y.Foon",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "Challenger - Concepcion (CHL) : Genaro Alberto Olivieri vs Daniel Elahi Galan",
+                "channels": []
+            },
+            {
+                "time": "16:10",
+                "event": "Challenger - Girona (SPA) - Double : G.Jacq/O.Luz vs R.Arneodo/A.Mies",
+                "channels": []
+            },
+            {
+                "time": "16:40",
+                "event": "UTR (M) - Manzanillo (MEX) : Alafia Damina Ayeni vs Andres Delgadillo",
+                "channels": []
+            },
+            {
+                "time": "16:40",
+                "event": "Challenger - Concepcion (CHL) : Emilio Nava vs Joao Lucas Reis Silva",
+                "channels": []
+            },
+            {
+                "time": "16:40",
+                "event": "UTR (M) - Manzanillo (MEX) : Juan Sebastian Gomez vs Maikel De Boes",
+                "channels": []
+            },
+            {
+                "time": "18:30",
+                "event": "UTR (M) - Manzanillo (MEX) : Juan Sebastian Osorio vs Lefteri Apostolou",
+                "channels": []
+            },
+            {
+                "time": "19:00",
+                "event": "ATP - Miami (USA) : Novak Djokovic vs Grigor Dimitrov",
+                "channels": []
+            },
+            {
+                "time": "21:00",
+                "event": "Challenger - Morelia (MEX) : Marc Andrea Huesler vs Beibit Zhukayev",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "ATP - Miami (USA) : Jakub Mensik vs Taylor Fritz",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "Challenger - Morelia (MEX) : James Duckworth vs J.A.Hernandez Serrano",
                 "channels": []
             }
         ],
