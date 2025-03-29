@@ -4916,6 +4916,20 @@
                 ]
             }
         ],
+        "Tennis ATP - MIAMI</span>": [
+            {
+                "time": "16:30",
+                "event": "ATP - MIAMI : Arevalo M./Pavic M. vs Cash J./Glasspool L.",
+                "channels": []
+            }
+        ],
+        "Tennis WTA - MIAMI</span>": [
+            {
+                "time": "19:00",
+                "event": "WTA - MIAMI : Sabalenka A. vs Pegula J.",
+                "channels": []
+            }
+        ],
         "Tennis</span>": [
             {
                 "time": "16:30",
@@ -5792,7 +5806,7 @@
                 ]
             },
             {
-                "time": "14:19",
+                "time": "15:39",
                 "event": "2:30 PGA Tour Texas Children's Hospital Open Third Round",
                 "channels": [
                     {
