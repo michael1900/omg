@@ -5177,7 +5177,7 @@ https://zekonew.iosplayer.ru/zeko/premium140/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://nfsnew.iosplayer.ru/nfs/premium8/mono.m3u8
 
-#EXTINF:-1 tvg-id="Bundesliga - Eintracht Frankfurt vs Stuttgart Tactical" tvg-name="18:30 Bundesliga : Eintracht Frankfurt vs Stuttgart Tactical - 29/03/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Bundesliga 3
+#EXTINF:-1 tvg-id="Bundesliga - Eintracht Frankfurt vs Stuttgart Tactical Feed" tvg-name="18:30 Bundesliga : Eintracht Frankfurt vs Stuttgart Tactical Feed - 29/03/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Bundesliga 3
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
@@ -7097,17 +7097,17 @@ https://zekonew.iosplayer.ru/zeko/premium145/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.iosplayer.ru/wind/premium77/mono.m3u8
 
-#EXTINF:-1 tvg-id="HEXAGONE MMA 25 - HEXAGONE MMA 25" tvg-name="20:30 HEXAGONE MMA 25 - 29/03/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="MMA", beIN Sports MAX 4 France
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://ddy6new.iosplayer.ru/ddy6/premium494/mono.m3u8
-
 #EXTINF:-1 tvg-id="HEXAGONE MMA 25 - HEXAGONE MMA 25" tvg-name="20:30 HEXAGONE MMA 25 - 29/03/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="MMA", Hexagon PPV
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://dokko1new.iosplayer.ru/dokko1/premium86/mono.m3u8
+
+#EXTINF:-1 tvg-id="HEXAGONE MMA 25 - HEXAGONE MMA 25" tvg-name="20:30 HEXAGONE MMA 25 - 29/03/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="MMA", beIN Sports MAX 4 France
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium494/mono.m3u8
 
 #EXTINF:-1 tvg-id="HEXAGONE MMA 25 - HEXAGONE MMA 25" tvg-name="20:30 HEXAGONE MMA 25 - 29/03/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="MMA", RMC Sport 1 France
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
