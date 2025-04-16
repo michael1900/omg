@@ -1,19 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="UEFA Champions League - Aston Villa vs PSG" tvg-name="20:00 UEFA Champions League : Aston Villa vs PSG - 15/04/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport 253 IT
+#EXTINF:-1 tvg-id="England - Premier League - Newcastle United vs Crystal Palace" tvg-name="19:30 England - Premier League : Newcastle United vs Crystal Palace - 16/04/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Calcio IT
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
-https://nfsnew.newkso.ru/nfs/premium24/mono.m3u8
+https://windnew.newkso.ru/wind/premium870/mono.m3u8
 
-#EXTINF:-1 tvg-id="UEFA Champions League - Borussia Dortmund vs Barcelona" tvg-name="20:00 UEFA Champions League : Borussia Dortmund vs Barcelona - 15/04/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Max IT
+#EXTINF:-1 tvg-id="UEFA Champions League - Internazionale vs Bayern München" tvg-name="20:00 UEFA Champions League : Internazionale vs Bayern München - 16/04/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Amazon Prime Video IT
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
-https://dokko1new.newkso.ru/dokko1/premium460/mono.m3u8
+https://windnew.newkso.ru/wind/premium76/mono.m3u8
 
-#EXTINF:-1 tvg-id="UEFA Champions League - Borussia Dortmund vs Barcelona" tvg-name="20:00 UEFA Champions League : Borussia Dortmund vs Barcelona - 15/04/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport 252 IT
+#EXTINF:-1 tvg-id="UEFA Champions League - Real Madrid vs Arsenal" tvg-name="20:00 UEFA Champions League : Real Madrid vs Arsenal - 16/04/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TV8 IT
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
-https://nfsnew.newkso.ru/nfs/premium25/mono.m3u8
+https://nfsnew.newkso.ru/nfs/premium12/mono.m3u8
+
+#EXTINF:-1 tvg-id="Serie A1 Women - Conegliano W vs Monza W" tvg-name="19:30 Serie A1 Women : Conegliano W vs Monza W - 16/04/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Rai Sport 1 Italy
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://webxzplay.cfd
+https://ddy6new.newkso.ru/ddy6/premium882/mono.m3u8
 
