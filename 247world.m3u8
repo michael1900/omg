@@ -1086,6 +1086,12 @@ https://windnew.newkso.ru/wind/premium456/mono.m3u8
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 https://windnew.newkso.ru/wind/premium457/mono.m3u8
 
+#EXTINF:-1 tvg-id="unknown" tvg-name="Eleven Sports 4 Portugal" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Eleven Sports 4 Portugal
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://webxzplay.cfd
+https://windnew.newkso.ru/wind/premium458/mono.m3u8
+
 #EXTINF:-1 tvg-id="unknown" tvg-name="Eleven Sports 5 Portugal" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Eleven Sports 5 Portugal
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
@@ -2154,6 +2160,12 @@ https://windnew.newkso.ru/wind/premium129/mono.m3u8
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 https://windnew.newkso.ru/wind/premium443/mono.m3u8
 
+#EXTINF:-1 tvg-id="unknown" tvg-name="Polsat Film Poland" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Polsat Film Poland
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://webxzplay.cfd
+https://dokko1new.newkso.ru/dokko1/premium564/mono.m3u8
+
 #EXTINF:-1 tvg-id="unknown" tvg-name="Porto Canal Portugal" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Porto Canal Portugal
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
@@ -2670,6 +2682,12 @@ https://zekonew.newkso.ru/zeko/premium413/mono.m3u8
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 https://ddy6new.newkso.ru/ddy6/premium415/mono.m3u8
 
+#EXTINF:-1 tvg-id="unknown" tvg-name="SuperSport Variety 1" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", SuperSport Variety 1
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://webxzplay.cfd
+https://zekonew.newkso.ru/zeko/premium416/mono.m3u8
+
 #EXTINF:-1 tvg-id="unknown" tvg-name="SuperSport Variety 3" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", SuperSport Variety 3
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
@@ -2693,6 +2711,12 @@ https://windnew.newkso.ru/wind/premium420/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 https://zekonew.newkso.ru/zeko/premium421/mono.m3u8
+
+#EXTINF:-1 tvg-id="unknown" tvg-name="SuperSport Golf" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", SuperSport Golf
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://webxzplay.cfd
+https://zekonew.newkso.ru/zeko/premium422/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="SuperSport Tennis" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", SuperSport Tennis
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
