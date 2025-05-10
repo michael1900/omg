@@ -533,6 +533,12 @@ https://dokko1new.newkso.ru/dokko1/premium96/mono.m3u8
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 https://nfsnew.newkso.ru/nfs/premium5/mono.m3u8
 
+#EXTINF:-1 tvg-id="Bundesliga - Holstein Kiel vs Freiburg" tvg-name="15:30 Bundesliga : Holstein Kiel vs Freiburg - 10/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN+ USA
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium172/mono.m3u8
+
 #EXTINF:-1 tvg-id="Bundesliga - Holstein Kiel vs Freiburg" tvg-name="15:30 Bundesliga : Holstein Kiel vs Freiburg - 10/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Tivibu Spor 2 Turkey
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -826,6 +832,12 @@ https://zekonew.newkso.ru/zeko/premium81/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium149/mono.m3u8
+
+#EXTINF:-1 tvg-id="England - Premier League - Southampton vs Manchester City" tvg-name="16:00 England - Premier League : Southampton vs Manchester City - 10/05/25" tvg-logo="https://guardacalcio.stream/uploads/posts/2025-05/1746866737_southampton-x-manchester-city.png" group-title="Soccer", SuperSport Premier League
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium414/mono.m3u8
 
 #EXTINF:-1 tvg-id="England - Premier League - Southampton vs Manchester City" tvg-name="16:00 England - Premier League : Southampton vs Manchester City - 10/05/25" tvg-logo="https://guardacalcio.stream/uploads/posts/2025-05/1746866737_southampton-x-manchester-city.png" group-title="Soccer", beIN Sports MENA English 1
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
@@ -1330,6 +1342,12 @@ https://zekonew.newkso.ru/zeko/premium81/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium149/mono.m3u8
+
+#EXTINF:-1 tvg-id="England - Premier League - Bournemouth vs Aston Villa" tvg-name="18:30 England - Premier League : Bournemouth vs Aston Villa - 10/05/25" tvg-logo="https://guardacalcio.stream/uploads/posts/2025-05/1746866495_bournemouth-x-aston-villa.png" group-title="Soccer", SuperSport Premier League
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium414/mono.m3u8
 
 #EXTINF:-1 tvg-id="England - Premier League - Bournemouth vs Aston Villa" tvg-name="18:30 England - Premier League : Bournemouth vs Aston Villa - 10/05/25" tvg-logo="https://guardacalcio.stream/uploads/posts/2025-05/1746866495_bournemouth-x-aston-villa.png" group-title="Soccer", beIN Sports MENA 2
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
