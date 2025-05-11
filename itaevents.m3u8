@@ -137,6 +137,12 @@ https://nfsnew.newkso.ru/nfs/premium31/mono.m3u8
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 https://nfsnew.newkso.ru/nfs/premium343/mono.m3u8
 
+#EXTINF:-1 tvg-id="England - Premier League - Newcastle vs Chelsea" tvg-name="13:00 England - Premier League : Newcastle vs Chelsea - 11/05/25" tvg-logo="https://guardacalcio.stream/uploads/posts/2025-05/1746949803_newcastle-x-chelsea.png" group-title="Soccer", Hub Premier
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium165/mono.m3u8
+
 #EXTINF:-1 tvg-id="England - Premier League - Newcastle vs Chelsea" tvg-name="13:00 England - Premier League : Newcastle vs Chelsea - 11/05/25" tvg-logo="https://guardacalcio.stream/uploads/posts/2025-05/1746949803_newcastle-x-chelsea.png" group-title="Soccer", NBC UNIVERSO USA
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -820,6 +826,12 @@ https://nfsnew.newkso.ru/nfs/premium25/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 https://nfsnew.newkso.ru/nfs/premium343/mono.m3u8
+
+#EXTINF:-1 tvg-id="England - Premier League - Tottenham vs Crystal Palace" tvg-name="15:15 England - Premier League : Tottenham vs Crystal Palace - 11/05/25" tvg-logo="https://guardacalcio.stream/uploads/posts/2025-05/1746949578_tottenham-x-crystal-palace.png" group-title="Soccer", Hub Premier
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+https://windnew.newkso.ru/wind/premium168/mono.m3u8
 
 #EXTINF:-1 tvg-id="England - Premier League - Tottenham vs Crystal Palace" tvg-name="15:15 England - Premier League : Tottenham vs Crystal Palace - 11/05/25" tvg-logo="https://guardacalcio.stream/uploads/posts/2025-05/1746949578_tottenham-x-crystal-palace.png" group-title="Soccer", Sky Sports Main Event UK
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
