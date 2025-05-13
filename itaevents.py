@@ -24,7 +24,7 @@ GUARCAL = "stream"
 LOGO_CACHE = {}
 
 # Define keywords for filtering channels
-EVENT_KEYWORDS = ["italy", "atp", "tennis", "formula uno", "f1", "motogp", "moto gp", "volley", "serie a", "serie b", "serie c", "uefa champions", "uefa europa",
+EVENT_KEYWORDS = ["italy", "atp", "tennis", "basketball", "formula uno", "f1", "motogp", "moto gp", "volley", "serie a", "serie b", "serie c", "uefa champions", "uefa europa",
                  "conference league", "coppa italia", "premier league", "bundesliga", "la liga", "ligue 1"]
 
 # Headers for requests
