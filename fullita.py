@@ -15,7 +15,8 @@ NUM_CHANNELS = 10000
 DADDY_JSON_FILE = "daddyliveSchedule.json"
 M3U8_OUTPUT_FILE = "fullita.m3u8"
 LOGO = "https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png"
-
+REFERER = "forcedtoplay.xyz"
+ORIGIN = "forcedtoplay.xyz"
 # Define keywords for filtering channels
 EVENT_KEYWORDS = ["italy", "atp", "tennis", "formula uno", "f1", "motogp", "moto gp", "volley", "serie a", "serie b", "serie c", "uefa champions", "uefa europa",
                  "conference league", "coppa italia"]
@@ -424,9 +425,9 @@ def process_events():
                                     tvg_name = f"{time_only} {event_details} - {day_num}/{month_num}/{year_short}"
 
                                     file.write(f'#EXTINF:-1 tvg-id="{event_name} - {event_details.split(":", 1)[1].strip() if ":" in event_details else event_details}" tvg-name="{tvg_name}" tvg-logo="{LOGO}" group-title="{clean_sport_key}", {channel["channel_name"]}\n')
-                                    file.write('#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz/\n')
+                                    file.write(f'#EXTVLCOPT:http-referrer=https://{REFERER}/\n')
                                     file.write('#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36\n')
-                                    file.write('#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz\n')
+                                    file.write(f'#EXTVLCOPT:http-origin=https://{ORIGIN}\n')
                                     file.write(f"{stream_url_dynamic}\n\n")
 
                                 processed_channels += 1
