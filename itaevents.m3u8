@@ -29,6 +29,12 @@ https://zekonew.newkso.ru/zeko/premium433/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium110/mono.m3u8
 
+#EXTINF:-1 tvg-id="Italy - Serie C - Foggia vs Messina" tvg-name="15:00 Italy - Serie C : Foggia vs Messina - 17/05/25" tvg-logo="https://skystreaming.email/content/thumbs/a0e10019f3368cfc7649662bc9e32185." group-title="Soccer", Sky Sport 251 Italia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium162/mono.m3u8
+
 #EXTINF:-1 tvg-id="Russia - Premier League - Khimki vs Rubin Kazan'" tvg-name="15:30 Russia - Premier League : Khimki vs Rubin Kazan' - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Match Premier Russia
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -77,6 +83,12 @@ https://nfsnew.newkso.ru/nfs/premium104/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://nfsnew.newkso.ru/nfs/premium17/mono.m3u8
 
+#EXTINF:-1 tvg-id="Bundesliga - RB Leipzig vs Stuttgart" tvg-name="15:30 Bundesliga : RB Leipzig vs Stuttgart - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN+ USA
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium177/mono.m3u8
+
 #EXTINF:-1 tvg-id="Bundesliga - RB Leipzig vs Stuttgart" tvg-name="15:30 Bundesliga : RB Leipzig vs Stuttgart - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports MAX 7 France
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -95,61 +107,79 @@ https://dokko1new.newkso.ru/dokko1/premium634/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://nfsnew.newkso.ru/nfs/premium942/mono.m3u8
 
-#EXTINF:-1 tvg-id="Bundesliga - Borussia Dortmund vs Holstein Kiel" tvg-name="15:30 Bundesliga : Borussia Dortmund vs Holstein Kiel - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Bundesliga 3
+#EXTINF:-1 tvg-id="Bundesliga - RB Leipzig vs Stuttgart" tvg-name="15:30 Bundesliga : RB Leipzig vs Stuttgart - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport Klub 8 Croatia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium171/mono.m3u8
+
+#EXTINF:-1 tvg-id="Bundesliga - Borussia Dortmund vs Holstein Kiel" tvg-name="15:30 Bundesliga : Borussia Dortmund vs Holstein Kiel - 17/05/25" tvg-logo="https://guardacalcio.stream/uploads/posts/2025-05/1747478823_borussia-dortmund-x-holstein-kiel.png" group-title="Soccer", Sky Sport Bundesliga 3
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://nfsnew.newkso.ru/nfs/premium18/mono.m3u8
 
-#EXTINF:-1 tvg-id="Bundesliga - Borussia Dortmund vs Holstein Kiel" tvg-name="15:30 Bundesliga : Borussia Dortmund vs Holstein Kiel - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Tivibu Spor 2 Turkey
+#EXTINF:-1 tvg-id="Bundesliga - Borussia Dortmund vs Holstein Kiel" tvg-name="15:30 Bundesliga : Borussia Dortmund vs Holstein Kiel - 17/05/25" tvg-logo="https://guardacalcio.stream/uploads/posts/2025-05/1747478823_borussia-dortmund-x-holstein-kiel.png" group-title="Soccer", ESPN+ USA
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium178/mono.m3u8
+
+#EXTINF:-1 tvg-id="Bundesliga - Borussia Dortmund vs Holstein Kiel" tvg-name="15:30 Bundesliga : Borussia Dortmund vs Holstein Kiel - 17/05/25" tvg-logo="https://guardacalcio.stream/uploads/posts/2025-05/1747478823_borussia-dortmund-x-holstein-kiel.png" group-title="Soccer", Tivibu Spor 2 Turkey
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://nfsnew.newkso.ru/nfs/premium26/mono.m3u8
 
-#EXTINF:-1 tvg-id="Bundesliga - Borussia Dortmund vs Holstein Kiel" tvg-name="15:30 Bundesliga : Borussia Dortmund vs Holstein Kiel - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN Eleven 3 Portugal
+#EXTINF:-1 tvg-id="Bundesliga - Borussia Dortmund vs Holstein Kiel" tvg-name="15:30 Bundesliga : Borussia Dortmund vs Holstein Kiel - 17/05/25" tvg-logo="https://guardacalcio.stream/uploads/posts/2025-05/1747478823_borussia-dortmund-x-holstein-kiel.png" group-title="Soccer", DAZN Eleven 3 Portugal
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://windnew.newkso.ru/wind/premium457/mono.m3u8
 
-#EXTINF:-1 tvg-id="Bundesliga - Borussia Dortmund vs Holstein Kiel" tvg-name="15:30 Bundesliga : Borussia Dortmund vs Holstein Kiel - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Match Football 3 Russia
+#EXTINF:-1 tvg-id="Bundesliga - Borussia Dortmund vs Holstein Kiel" tvg-name="15:30 Bundesliga : Borussia Dortmund vs Holstein Kiel - 17/05/25" tvg-logo="https://guardacalcio.stream/uploads/posts/2025-05/1747478823_borussia-dortmund-x-holstein-kiel.png" group-title="Soccer", Match Football 3 Russia
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium137/mono.m3u8
 
-#EXTINF:-1 tvg-id="Bundesliga - Borussia Dortmund vs Holstein Kiel" tvg-name="15:30 Bundesliga : Borussia Dortmund vs Holstein Kiel - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Sport 4 Serbia
+#EXTINF:-1 tvg-id="Bundesliga - Borussia Dortmund vs Holstein Kiel" tvg-name="15:30 Bundesliga : Borussia Dortmund vs Holstein Kiel - 17/05/25" tvg-logo="https://guardacalcio.stream/uploads/posts/2025-05/1747478823_borussia-dortmund-x-holstein-kiel.png" group-title="Soccer", Arena Sport 4 Serbia
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://windnew.newkso.ru/wind/premium581/mono.m3u8
 
-#EXTINF:-1 tvg-id="Bundesliga - Borussia Dortmund vs Holstein Kiel" tvg-name="15:30 Bundesliga : Borussia Dortmund vs Holstein Kiel - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports MAX 4 France
+#EXTINF:-1 tvg-id="Bundesliga - Borussia Dortmund vs Holstein Kiel" tvg-name="15:30 Bundesliga : Borussia Dortmund vs Holstein Kiel - 17/05/25" tvg-logo="https://guardacalcio.stream/uploads/posts/2025-05/1747478823_borussia-dortmund-x-holstein-kiel.png" group-title="Soccer", beIN Sports MAX 4 France
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium494/mono.m3u8
 
-#EXTINF:-1 tvg-id="Bundesliga - Borussia Dortmund vs Holstein Kiel" tvg-name="15:30 Bundesliga : Borussia Dortmund vs Holstein Kiel - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Digi Sport 1 Romania
+#EXTINF:-1 tvg-id="Bundesliga - Borussia Dortmund vs Holstein Kiel" tvg-name="15:30 Bundesliga : Borussia Dortmund vs Holstein Kiel - 17/05/25" tvg-logo="https://guardacalcio.stream/uploads/posts/2025-05/1747478823_borussia-dortmund-x-holstein-kiel.png" group-title="Soccer", Digi Sport 1 Romania
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://nfsnew.newkso.ru/nfs/premium400/mono.m3u8
 
-#EXTINF:-1 tvg-id="Bundesliga - Borussia Dortmund vs Holstein Kiel" tvg-name="15:30 Bundesliga : Borussia Dortmund vs Holstein Kiel - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Nova Sports 5 Greece
+#EXTINF:-1 tvg-id="Bundesliga - Borussia Dortmund vs Holstein Kiel" tvg-name="15:30 Bundesliga : Borussia Dortmund vs Holstein Kiel - 17/05/25" tvg-logo="https://guardacalcio.stream/uploads/posts/2025-05/1747478823_borussia-dortmund-x-holstein-kiel.png" group-title="Soccer", Nova Sports 5 Greece
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://dokko1new.newkso.ru/dokko1/premium635/mono.m3u8
 
-#EXTINF:-1 tvg-id="Bundesliga - Borussia Dortmund vs Holstein Kiel" tvg-name="15:30 Bundesliga : Borussia Dortmund vs Holstein Kiel - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN2 Argentina
+#EXTINF:-1 tvg-id="Bundesliga - Borussia Dortmund vs Holstein Kiel" tvg-name="15:30 Bundesliga : Borussia Dortmund vs Holstein Kiel - 17/05/25" tvg-logo="https://guardacalcio.stream/uploads/posts/2025-05/1747478823_borussia-dortmund-x-holstein-kiel.png" group-title="Soccer", ESPN2 Argentina
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://windnew.newkso.ru/wind/premium150/mono.m3u8
 
-#EXTINF:-1 tvg-id="Bundesliga - Borussia Dortmund vs Holstein Kiel" tvg-name="15:30 Bundesliga : Borussia Dortmund vs Holstein Kiel - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport 3 Israel
+#EXTINF:-1 tvg-id="Bundesliga - Borussia Dortmund vs Holstein Kiel" tvg-name="15:30 Bundesliga : Borussia Dortmund vs Holstein Kiel - 17/05/25" tvg-logo="https://guardacalcio.stream/uploads/posts/2025-05/1747478823_borussia-dortmund-x-holstein-kiel.png" group-title="Soccer", Sport Klub 5 Croatia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium175/mono.m3u8
+
+#EXTINF:-1 tvg-id="Bundesliga - Borussia Dortmund vs Holstein Kiel" tvg-name="15:30 Bundesliga : Borussia Dortmund vs Holstein Kiel - 17/05/25" tvg-logo="https://guardacalcio.stream/uploads/posts/2025-05/1747478823_borussia-dortmund-x-holstein-kiel.png" group-title="Soccer", Sport 3 Israel
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
@@ -239,6 +269,12 @@ https://zekonew.newkso.ru/zeko/premium141/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://nfsnew.newkso.ru/nfs/premium20/mono.m3u8
 
+#EXTINF:-1 tvg-id="Bundesliga - Heidenheim vs Werder Bremen" tvg-name="15:30 Bundesliga : Heidenheim vs Werder Bremen - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN+ USA
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium179/mono.m3u8
+
 #EXTINF:-1 tvg-id="Bundesliga - Heidenheim vs Werder Bremen" tvg-name="15:30 Bundesliga : Heidenheim vs Werder Bremen - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Tivibu Spor 4 Turkey
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -250,6 +286,12 @@ https://nfsnew.newkso.ru/nfs/premium28/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://nfsnew.newkso.ru/nfs/premium21/mono.m3u8
+
+#EXTINF:-1 tvg-id="Bundesliga - Freiburg vs Eintracht Frankfurt" tvg-name="15:30 Bundesliga : Freiburg vs Eintracht Frankfurt - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN+ USA
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium180/mono.m3u8
 
 #EXTINF:-1 tvg-id="Bundesliga - Freiburg vs Eintracht Frankfurt" tvg-name="15:30 Bundesliga : Freiburg vs Eintracht Frankfurt - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Match Football 1 Russia
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
@@ -281,6 +323,12 @@ https://nfsnew.newkso.ru/nfs/premium943/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium496/mono.m3u8
 
+#EXTINF:-1 tvg-id="Bundesliga - Freiburg vs Eintracht Frankfurt" tvg-name="15:30 Bundesliga : Freiburg vs Eintracht Frankfurt - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport Klub 6 Croatia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium172/mono.m3u8
+
 #EXTINF:-1 tvg-id="Bundesliga - Freiburg vs Eintracht Frankfurt" tvg-name="15:30 Bundesliga : Freiburg vs Eintracht Frankfurt - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Digi Sport 3 Romania
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -299,55 +347,73 @@ https://dokko1new.newkso.ru/dokko1/premium92/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://nfsnew.newkso.ru/nfs/premium22/mono.m3u8
 
+#EXTINF:-1 tvg-id="Bundesliga - Augsburg vs Union Berlin" tvg-name="15:30 Bundesliga : Augsburg vs Union Berlin - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN+ USA
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium181/mono.m3u8
+
 #EXTINF:-1 tvg-id="Bundesliga - Augsburg vs Union Berlin" tvg-name="15:30 Bundesliga : Augsburg vs Union Berlin - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Nova Sports Start Greece
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://dokko1new.newkso.ru/dokko1/premium637/mono.m3u8
 
-#EXTINF:-1 tvg-id="Bundesliga - Mainz 05 vs Bayer Leverkusen" tvg-name="15:30 Bundesliga : Mainz 05 vs Bayer Leverkusen - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Bundesliga 5
+#EXTINF:-1 tvg-id="Bundesliga - Mainz 05 vs Bayer Leverkusen" tvg-name="15:30 Bundesliga : Mainz 05 vs Bayer Leverkusen - 17/05/25" tvg-logo="https://guardacalcio.stream/uploads/posts/2025-05/1747478902_mainz-05-x-bayer-leverkusen.png" group-title="Soccer", Sky Sport Bundesliga 5
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://nfsnew.newkso.ru/nfs/premium23/mono.m3u8
 
-#EXTINF:-1 tvg-id="Bundesliga - Mainz 05 vs Bayer Leverkusen" tvg-name="15:30 Bundesliga : Mainz 05 vs Bayer Leverkusen - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN Eleven 2 Portugal
+#EXTINF:-1 tvg-id="Bundesliga - Mainz 05 vs Bayer Leverkusen" tvg-name="15:30 Bundesliga : Mainz 05 vs Bayer Leverkusen - 17/05/25" tvg-logo="https://guardacalcio.stream/uploads/posts/2025-05/1747478902_mainz-05-x-bayer-leverkusen.png" group-title="Soccer", ESPN+ USA
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium182/mono.m3u8
+
+#EXTINF:-1 tvg-id="Bundesliga - Mainz 05 vs Bayer Leverkusen" tvg-name="15:30 Bundesliga : Mainz 05 vs Bayer Leverkusen - 17/05/25" tvg-logo="https://guardacalcio.stream/uploads/posts/2025-05/1747478902_mainz-05-x-bayer-leverkusen.png" group-title="Soccer", DAZN Eleven 2 Portugal
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://windnew.newkso.ru/wind/premium456/mono.m3u8
 
-#EXTINF:-1 tvg-id="Bundesliga - Mainz 05 vs Bayer Leverkusen" tvg-name="15:30 Bundesliga : Mainz 05 vs Bayer Leverkusen - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports MAX 5 France
+#EXTINF:-1 tvg-id="Bundesliga - Mainz 05 vs Bayer Leverkusen" tvg-name="15:30 Bundesliga : Mainz 05 vs Bayer Leverkusen - 17/05/25" tvg-logo="https://guardacalcio.stream/uploads/posts/2025-05/1747478902_mainz-05-x-bayer-leverkusen.png" group-title="Soccer", beIN Sports MAX 5 France
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium495/mono.m3u8
 
-#EXTINF:-1 tvg-id="Bundesliga - Mainz 05 vs Bayer Leverkusen" tvg-name="15:30 Bundesliga : Mainz 05 vs Bayer Leverkusen - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Sport 1 Serbia
+#EXTINF:-1 tvg-id="Bundesliga - Mainz 05 vs Bayer Leverkusen" tvg-name="15:30 Bundesliga : Mainz 05 vs Bayer Leverkusen - 17/05/25" tvg-logo="https://guardacalcio.stream/uploads/posts/2025-05/1747478902_mainz-05-x-bayer-leverkusen.png" group-title="Soccer", Arena Sport 1 Serbia
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://windnew.newkso.ru/wind/premium429/mono.m3u8
 
-#EXTINF:-1 tvg-id="Bundesliga - Mainz 05 vs Bayer Leverkusen" tvg-name="15:30 Bundesliga : Mainz 05 vs Bayer Leverkusen - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Nova Sports 3 Greece
+#EXTINF:-1 tvg-id="Bundesliga - Mainz 05 vs Bayer Leverkusen" tvg-name="15:30 Bundesliga : Mainz 05 vs Bayer Leverkusen - 17/05/25" tvg-logo="https://guardacalcio.stream/uploads/posts/2025-05/1747478902_mainz-05-x-bayer-leverkusen.png" group-title="Soccer", Nova Sports 3 Greece
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://dokko1new.newkso.ru/dokko1/premium633/mono.m3u8
 
-#EXTINF:-1 tvg-id="Bundesliga - Mainz 05 vs Bayer Leverkusen" tvg-name="15:30 Bundesliga : Mainz 05 vs Bayer Leverkusen - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TV3 Sport Denmark
+#EXTINF:-1 tvg-id="Bundesliga - Mainz 05 vs Bayer Leverkusen" tvg-name="15:30 Bundesliga : Mainz 05 vs Bayer Leverkusen - 17/05/25" tvg-logo="https://guardacalcio.stream/uploads/posts/2025-05/1747478902_mainz-05-x-bayer-leverkusen.png" group-title="Soccer", TV3 Sport Denmark
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium809/mono.m3u8
 
-#EXTINF:-1 tvg-id="Bundesliga - Mainz 05 vs Bayer Leverkusen" tvg-name="15:30 Bundesliga : Mainz 05 vs Bayer Leverkusen - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Diema Sport 2 Bulgaria
+#EXTINF:-1 tvg-id="Bundesliga - Mainz 05 vs Bayer Leverkusen" tvg-name="15:30 Bundesliga : Mainz 05 vs Bayer Leverkusen - 17/05/25" tvg-logo="https://guardacalcio.stream/uploads/posts/2025-05/1747478902_mainz-05-x-bayer-leverkusen.png" group-title="Soccer", Sport Klub 9 Croatia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium174/mono.m3u8
+
+#EXTINF:-1 tvg-id="Bundesliga - Mainz 05 vs Bayer Leverkusen" tvg-name="15:30 Bundesliga : Mainz 05 vs Bayer Leverkusen - 17/05/25" tvg-logo="https://guardacalcio.stream/uploads/posts/2025-05/1747478902_mainz-05-x-bayer-leverkusen.png" group-title="Soccer", Diema Sport 2 Bulgaria
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://windnew.newkso.ru/wind/premium466/mono.m3u8
 
-#EXTINF:-1 tvg-id="Bundesliga - Mainz 05 vs Bayer Leverkusen" tvg-name="15:30 Bundesliga : Mainz 05 vs Bayer Leverkusen - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports MENA 6
+#EXTINF:-1 tvg-id="Bundesliga - Mainz 05 vs Bayer Leverkusen" tvg-name="15:30 Bundesliga : Mainz 05 vs Bayer Leverkusen - 17/05/25" tvg-logo="https://guardacalcio.stream/uploads/posts/2025-05/1747478902_mainz-05-x-bayer-leverkusen.png" group-title="Soccer", beIN Sports MENA 6
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
@@ -358,6 +424,12 @@ https://dokko1new.newkso.ru/dokko1/premium96/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://nfsnew.newkso.ru/nfs/premium24/mono.m3u8
+
+#EXTINF:-1 tvg-id="Bundesliga - Borussia M'gladbach vs Wolfsburg" tvg-name="15:30 Bundesliga : Borussia M'gladbach vs Wolfsburg - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN+ USA
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium183/mono.m3u8
 
 #EXTINF:-1 tvg-id="Bundesliga - Borussia M'gladbach vs Wolfsburg" tvg-name="15:30 Bundesliga : Borussia M'gladbach vs Wolfsburg - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SporTV2 BR
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
@@ -371,11 +443,23 @@ https://ddy6new.newkso.ru/ddy6/premium79/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://nfsnew.newkso.ru/nfs/premium25/mono.m3u8
 
+#EXTINF:-1 tvg-id="Bundesliga - St. Pauli vs Bochum" tvg-name="15:30 Bundesliga : St. Pauli vs Bochum - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN+ USA
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium184/mono.m3u8
+
 #EXTINF:-1 tvg-id="Bundesliga - St. Pauli vs Bochum" tvg-name="15:30 Bundesliga : St. Pauli vs Bochum - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Sport 9 Serbia
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://nfsnew.newkso.ru/nfs/premium944/mono.m3u8
+
+#EXTINF:-1 tvg-id="Bundesliga - St. Pauli vs Bochum" tvg-name="15:30 Bundesliga : St. Pauli vs Bochum - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport Klub 10 Croatia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium173/mono.m3u8
 
 #EXTINF:-1 tvg-id="Egypt - Premier League - Petrojet vs Pyramids FC" tvg-name="16:00 Egypt - Premier League : Petrojet vs Pyramids FC - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ON Time Sports Egypt
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
@@ -407,19 +491,31 @@ https://nfsnew.newkso.ru/nfs/premium5/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://nfsnew.newkso.ru/nfs/premium6/mono.m3u8
 
-#EXTINF:-1 tvg-id="Italy - Serie B - Catanzaro vs Cesena" tvg-name="17:15 Italy - Serie B : Catanzaro vs Cesena - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", FOX Soccer Plus
+#EXTINF:-1 tvg-id="Italy - Serie B - Catanzaro vs Cesena" tvg-name="17:15 Italy - Serie B : Catanzaro vs Cesena - 17/05/25" tvg-logo="https://skystreaming.email/content/thumbs/a02b761423925732de31fb4a8c90c741." group-title="Soccer", FOX Soccer Plus
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium756/mono.m3u8
 
-#EXTINF:-1 tvg-id="Italy - Serie B - Catanzaro vs Cesena" tvg-name="17:15 Italy - Serie B : Catanzaro vs Cesena - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", 5 Plus Israel
+#EXTINF:-1 tvg-id="Italy - Serie B - Catanzaro vs Cesena" tvg-name="17:15 Italy - Serie B : Catanzaro vs Cesena - 17/05/25" tvg-logo="https://skystreaming.email/content/thumbs/a02b761423925732de31fb4a8c90c741." group-title="Soccer", DAZN Italia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium185/mono.m3u8
+
+#EXTINF:-1 tvg-id="Italy - Serie B - Catanzaro vs Cesena" tvg-name="17:15 Italy - Serie B : Catanzaro vs Cesena - 17/05/25" tvg-logo="https://skystreaming.email/content/thumbs/a02b761423925732de31fb4a8c90c741." group-title="Soccer", 5 Plus Israel
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://zekonew.newkso.ru/zeko/premium145/mono.m3u8
 
-#EXTINF:-1 tvg-id="Italy - Serie C - Pro Vercelli vs Pro Patria" tvg-name="17:30 Italy - Serie C : Pro Vercelli vs Pro Patria - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Calcio IT
+#EXTINF:-1 tvg-id="Italy - Serie C - Pro Vercelli vs Pro Patria" tvg-name="17:30 Italy - Serie C : Pro Vercelli vs Pro Patria - 17/05/25" tvg-logo="https://skystreaming.email/content/thumbs/063b17238105f68c28bf7662771bf3e2." group-title="Soccer", Sky Sport 251 Italia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium162/mono.m3u8
+
+#EXTINF:-1 tvg-id="Italy - Serie C - Pro Vercelli vs Pro Patria" tvg-name="17:30 Italy - Serie C : Pro Vercelli vs Pro Patria - 17/05/25" tvg-logo="https://skystreaming.email/content/thumbs/063b17238105f68c28bf7662771bf3e2." group-title="Soccer", Sky Sport Calcio IT
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
@@ -443,127 +539,145 @@ https://ddy6new.newkso.ru/ddy6/premium573/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://nfsnew.newkso.ru/nfs/premium30/mono.m3u8
 
-#EXTINF:-1 tvg-id="Italy - Serie B - Juve Stabia vs Palermo" tvg-name="19:30 Italy - Serie B : Juve Stabia vs Palermo - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", FOX Soccer Plus
+#EXTINF:-1 tvg-id="Italy - Serie B - Juve Stabia vs Palermo" tvg-name="19:30 Italy - Serie B : Juve Stabia vs Palermo - 17/05/25" tvg-logo="https://skystreaming.email/content/thumbs/4abc025564d2306b3a0bc74eb0c2282c." group-title="Soccer", FOX Soccer Plus
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium756/mono.m3u8
 
-#EXTINF:-1 tvg-id="Italy - Serie B - Juve Stabia vs Palermo" tvg-name="19:30 Italy - Serie B : Juve Stabia vs Palermo - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", 5 Plus Israel
+#EXTINF:-1 tvg-id="Italy - Serie B - Juve Stabia vs Palermo" tvg-name="19:30 Italy - Serie B : Juve Stabia vs Palermo - 17/05/25" tvg-logo="https://skystreaming.email/content/thumbs/4abc025564d2306b3a0bc74eb0c2282c." group-title="Soccer", DAZN Italia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium177/mono.m3u8
+
+#EXTINF:-1 tvg-id="Italy - Serie B - Juve Stabia vs Palermo" tvg-name="19:30 Italy - Serie B : Juve Stabia vs Palermo - 17/05/25" tvg-logo="https://skystreaming.email/content/thumbs/4abc025564d2306b3a0bc74eb0c2282c." group-title="Soccer", 5 Plus Israel
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://zekonew.newkso.ru/zeko/premium145/mono.m3u8
 
-#EXTINF:-1 tvg-id="Italy - Serie C - Triestina vs Caldiero Terme" tvg-name="20:00 Italy - Serie C : Triestina vs Caldiero Terme - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport 252 Italia
+#EXTINF:-1 tvg-id="Italy - Serie C - Triestina vs Caldiero Terme" tvg-name="20:00 Italy - Serie C : Triestina vs Caldiero Terme - 17/05/25" tvg-logo="https://skystreaming.email/content/thumbs/54f7b85face51c0c32e88e1233d0f578." group-title="Soccer", Sky Sport 252 Italia
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://nfsnew.newkso.ru/nfs/premium23/mono.m3u8
 
-#EXTINF:-1 tvg-id="Italy - Serie C - SPAL vs Milan II" tvg-name="20:00 Italy - Serie C : SPAL vs Milan II - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Calcio IT
+#EXTINF:-1 tvg-id="Italy - Serie C - SPAL vs Milan II" tvg-name="20:00 Italy - Serie C : SPAL vs Milan II - 17/05/25" tvg-logo="https://skystreaming.email/content/thumbs/5d56f2a3a9d46622b32179d1f2d69c9c." group-title="Soccer", Sky Sport 251 Italia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium162/mono.m3u8
+
+#EXTINF:-1 tvg-id="Italy - Serie C - SPAL vs Milan II" tvg-name="20:00 Italy - Serie C : SPAL vs Milan II - 17/05/25" tvg-logo="https://skystreaming.email/content/thumbs/5d56f2a3a9d46622b32179d1f2d69c9c." group-title="Soccer", Sky Sport Calcio IT
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://windnew.newkso.ru/wind/premium870/mono.m3u8
 
-#EXTINF:-1 tvg-id="Italy - Serie C - Lucchese vs Sestri Levante" tvg-name="20:00 Italy - Serie C : Lucchese vs Sestri Levante - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport 253 Italia
+#EXTINF:-1 tvg-id="Italy - Serie C - Lucchese vs Sestri Levante" tvg-name="20:00 Italy - Serie C : Lucchese vs Sestri Levante - 17/05/25" tvg-logo="https://skystreaming.email/content/thumbs/08c51049cf51041869e27598101edbec." group-title="Soccer", Sky Sport 253 Italia
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://nfsnew.newkso.ru/nfs/premium24/mono.m3u8
 
-#EXTINF:-1 tvg-id="Italy - Serie C - Calcio Padova vs Virtus Entella" tvg-name="20:30 Italy - Serie C : Calcio Padova vs Virtus Entella - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport 254 Italia
+#EXTINF:-1 tvg-id="Italy - Serie C - Calcio Padova vs Virtus Entella" tvg-name="20:30 Italy - Serie C : Calcio Padova vs Virtus Entella - 17/05/25" tvg-logo="https://skystreaming.email/content/thumbs/0f8e7c3eed5a9f22f15d69c371574b5d." group-title="Soccer", Sky Sport 254 Italia
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://nfsnew.newkso.ru/nfs/premium25/mono.m3u8
 
-#EXTINF:-1 tvg-id="Italy - Serie C - Calcio Padova vs Virtus Entella" tvg-name="20:30 Italy - Serie C : Calcio Padova vs Virtus Entella - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", RAI Sport 1 IT
+#EXTINF:-1 tvg-id="Italy - Serie C - Calcio Padova vs Virtus Entella" tvg-name="20:30 Italy - Serie C : Calcio Padova vs Virtus Entella - 17/05/25" tvg-logo="https://skystreaming.email/content/thumbs/0f8e7c3eed5a9f22f15d69c371574b5d." group-title="Soccer", RAI Sport 1 IT
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium882/mono.m3u8
 
-#EXTINF:-1 tvg-id="Italy - Serie A - Genoa vs Atalanta" tvg-name="20:45 Italy - Serie A : Genoa vs Atalanta - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN Zona IT
+#EXTINF:-1 tvg-id="Italy - Serie A - Genoa vs Atalanta" tvg-name="20:45 Italy - Serie A : Genoa vs Atalanta - 17/05/25" tvg-logo="https://guardacalcio.stream/uploads/posts/2025-05/1747478801_genoa-x-atalanta.png" group-title="Soccer", DAZN Zona IT
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://nfsnew.newkso.ru/nfs/premium877/mono.m3u8
 
-#EXTINF:-1 tvg-id="Italy - Serie A - Genoa vs Atalanta" tvg-name="20:45 Italy - Serie A : Genoa vs Atalanta - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", CBS Sports Golazo
+#EXTINF:-1 tvg-id="Italy - Serie A - Genoa vs Atalanta" tvg-name="20:45 Italy - Serie A : Genoa vs Atalanta - 17/05/25" tvg-logo="https://guardacalcio.stream/uploads/posts/2025-05/1747478801_genoa-x-atalanta.png" group-title="Soccer", Paramount+
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium178/mono.m3u8
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Genoa vs Atalanta" tvg-name="20:45 Italy - Serie A : Genoa vs Atalanta - 17/05/25" tvg-logo="https://guardacalcio.stream/uploads/posts/2025-05/1747478801_genoa-x-atalanta.png" group-title="Soccer", CBS Sports Golazo
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://zekonew.newkso.ru/zeko/premium910/mono.m3u8
 
-#EXTINF:-1 tvg-id="Italy - Serie A - Genoa vs Atalanta" tvg-name="20:45 Italy - Serie A : Genoa vs Atalanta - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Abu Dhabi Sports Premium 1
+#EXTINF:-1 tvg-id="Italy - Serie A - Genoa vs Atalanta" tvg-name="20:45 Italy - Serie A : Genoa vs Atalanta - 17/05/25" tvg-logo="https://guardacalcio.stream/uploads/posts/2025-05/1747478801_genoa-x-atalanta.png" group-title="Soccer", Abu Dhabi Sports Premium 1
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://dokko1new.newkso.ru/dokko1/premium609/mono.m3u8
 
-#EXTINF:-1 tvg-id="Italy - Serie A - Genoa vs Atalanta" tvg-name="20:45 Italy - Serie A : Genoa vs Atalanta - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN SPORTS Australia 2
+#EXTINF:-1 tvg-id="Italy - Serie A - Genoa vs Atalanta" tvg-name="20:45 Italy - Serie A : Genoa vs Atalanta - 17/05/25" tvg-logo="https://guardacalcio.stream/uploads/posts/2025-05/1747478801_genoa-x-atalanta.png" group-title="Soccer", beIN SPORTS Australia 2
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium492/mono.m3u8
 
-#EXTINF:-1 tvg-id="Italy - Serie A - Genoa vs Atalanta" tvg-name="20:45 Italy - Serie A : Genoa vs Atalanta - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", FOX Deportes
+#EXTINF:-1 tvg-id="Italy - Serie A - Genoa vs Atalanta" tvg-name="20:45 Italy - Serie A : Genoa vs Atalanta - 17/05/25" tvg-logo="https://guardacalcio.stream/uploads/posts/2025-05/1747478801_genoa-x-atalanta.png" group-title="Soccer", FOX Deportes
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://dokko1new.newkso.ru/dokko1/premium643/mono.m3u8
 
-#EXTINF:-1 tvg-id="Italy - Serie A - Genoa vs Atalanta" tvg-name="20:45 Italy - Serie A : Genoa vs Atalanta - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Cytavision Sports 4 Cyprus
+#EXTINF:-1 tvg-id="Italy - Serie A - Genoa vs Atalanta" tvg-name="20:45 Italy - Serie A : Genoa vs Atalanta - 17/05/25" tvg-logo="https://guardacalcio.stream/uploads/posts/2025-05/1747478801_genoa-x-atalanta.png" group-title="Soccer", Cytavision Sports 4 Cyprus
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://windnew.newkso.ru/wind/premium914/mono.m3u8
 
-#EXTINF:-1 tvg-id="Italy - Serie A - Genoa vs Atalanta" tvg-name="20:45 Italy - Serie A : Genoa vs Atalanta - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena 3 Premium Serbia
+#EXTINF:-1 tvg-id="Italy - Serie A - Genoa vs Atalanta" tvg-name="20:45 Italy - Serie A : Genoa vs Atalanta - 17/05/25" tvg-logo="https://guardacalcio.stream/uploads/posts/2025-05/1747478801_genoa-x-atalanta.png" group-title="Soccer", Arena 3 Premium Serbia
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium139/mono.m3u8
 
-#EXTINF:-1 tvg-id="Italy - Serie A - Genoa vs Atalanta" tvg-name="20:45 Italy - Serie A : Genoa vs Atalanta - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Sport 4 Croatia
+#EXTINF:-1 tvg-id="Italy - Serie A - Genoa vs Atalanta" tvg-name="20:45 Italy - Serie A : Genoa vs Atalanta - 17/05/25" tvg-logo="https://guardacalcio.stream/uploads/posts/2025-05/1747478801_genoa-x-atalanta.png" group-title="Soccer", Arena Sport 4 Croatia
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://windnew.newkso.ru/wind/premium580/mono.m3u8
 
-#EXTINF:-1 tvg-id="Italy - Serie A - Genoa vs Atalanta" tvg-name="20:45 Italy - Serie A : Genoa vs Atalanta - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TV4 Football Sweden
+#EXTINF:-1 tvg-id="Italy - Serie A - Genoa vs Atalanta" tvg-name="20:45 Italy - Serie A : Genoa vs Atalanta - 17/05/25" tvg-logo="https://guardacalcio.stream/uploads/posts/2025-05/1747478801_genoa-x-atalanta.png" group-title="Soccer", TV4 Football Sweden
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://nfsnew.newkso.ru/nfs/premium747/mono.m3u8
 
-#EXTINF:-1 tvg-id="Italy - Serie A - Genoa vs Atalanta" tvg-name="20:45 Italy - Serie A : Genoa vs Atalanta - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Digi Sport 2 Romania
+#EXTINF:-1 tvg-id="Italy - Serie A - Genoa vs Atalanta" tvg-name="20:45 Italy - Serie A : Genoa vs Atalanta - 17/05/25" tvg-logo="https://guardacalcio.stream/uploads/posts/2025-05/1747478801_genoa-x-atalanta.png" group-title="Soccer", Digi Sport 2 Romania
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://nfsnew.newkso.ru/nfs/premium401/mono.m3u8
 
-#EXTINF:-1 tvg-id="Italy - Serie A - Genoa vs Atalanta" tvg-name="20:45 Italy - Serie A : Genoa vs Atalanta - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Cosmote Sport 2 Greece
+#EXTINF:-1 tvg-id="Italy - Serie A - Genoa vs Atalanta" tvg-name="20:45 Italy - Serie A : Genoa vs Atalanta - 17/05/25" tvg-logo="https://guardacalcio.stream/uploads/posts/2025-05/1747478801_genoa-x-atalanta.png" group-title="Soccer", Cosmote Sport 2 Greece
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://dokko1new.newkso.ru/dokko1/premium623/mono.m3u8
 
-#EXTINF:-1 tvg-id="Italy - Serie A - Genoa vs Atalanta" tvg-name="20:45 Italy - Serie A : Genoa vs Atalanta - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", MAX Sport 3 Bulgaria
+#EXTINF:-1 tvg-id="Italy - Serie A - Genoa vs Atalanta" tvg-name="20:45 Italy - Serie A : Genoa vs Atalanta - 17/05/25" tvg-logo="https://guardacalcio.stream/uploads/posts/2025-05/1747478801_genoa-x-atalanta.png" group-title="Soccer", MAX Sport 3 Bulgaria
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium474/mono.m3u8
 
-#EXTINF:-1 tvg-id="Italy - Serie A - Genoa vs Atalanta" tvg-name="20:45 Italy - Serie A : Genoa vs Atalanta - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN Brazil
+#EXTINF:-1 tvg-id="Italy - Serie A - Genoa vs Atalanta" tvg-name="20:45 Italy - Serie A : Genoa vs Atalanta - 17/05/25" tvg-logo="https://guardacalcio.stream/uploads/posts/2025-05/1747478801_genoa-x-atalanta.png" group-title="Soccer", ESPN Brazil
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://zekonew.newkso.ru/zeko/premium81/mono.m3u8
 
-#EXTINF:-1 tvg-id="Italy - Serie A - Genoa vs Atalanta" tvg-name="20:45 Italy - Serie A : Genoa vs Atalanta - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport 3 Israel
+#EXTINF:-1 tvg-id="Italy - Serie A - Genoa vs Atalanta" tvg-name="20:45 Italy - Serie A : Genoa vs Atalanta - 17/05/25" tvg-logo="https://guardacalcio.stream/uploads/posts/2025-05/1747478801_genoa-x-atalanta.png" group-title="Soccer", Sport 3 Israel
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
@@ -575,35 +689,41 @@ https://zekonew.newkso.ru/zeko/premium142/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://windnew.newkso.ru/wind/premium68/mono.m3u8
 
-#EXTINF:-1 tvg-id="France - Ligue 1 - Olympique Marseille vs Rennes" tvg-name="21:00 France - Ligue 1 : Olympique Marseille vs Rennes - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports 1 France
+#EXTINF:-1 tvg-id="France - Ligue 1 - Olympique Marseille vs Rennes" tvg-name="21:00 France - Ligue 1 : Olympique Marseille vs Rennes - 17/05/25" tvg-logo="https://guardacalcio.stream/uploads/posts/2025-05/1747478716_olympique-marseille-x-rennes.png" group-title="Soccer", beIN Sports 1 France
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://zekonew.newkso.ru/zeko/premium116/mono.m3u8
 
-#EXTINF:-1 tvg-id="France - Ligue 1 - Olympique Marseille vs Rennes" tvg-name="21:00 France - Ligue 1 : Olympique Marseille vs Rennes - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN2 DE
+#EXTINF:-1 tvg-id="France - Ligue 1 - Olympique Marseille vs Rennes" tvg-name="21:00 France - Ligue 1 : Olympique Marseille vs Rennes - 17/05/25" tvg-logo="https://guardacalcio.stream/uploads/posts/2025-05/1747478716_olympique-marseille-x-rennes.png" group-title="Soccer", DAZN2 DE
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium427/mono.m3u8
 
-#EXTINF:-1 tvg-id="France - Ligue 1 - Olympique Marseille vs Rennes" tvg-name="21:00 France - Ligue 1 : Olympique Marseille vs Rennes - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport TV5 Portugal
+#EXTINF:-1 tvg-id="France - Ligue 1 - Olympique Marseille vs Rennes" tvg-name="21:00 France - Ligue 1 : Olympique Marseille vs Rennes - 17/05/25" tvg-logo="https://guardacalcio.stream/uploads/posts/2025-05/1747478716_olympique-marseille-x-rennes.png" group-title="Soccer", Sport TV5 Portugal
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium290/mono.m3u8
 
-#EXTINF:-1 tvg-id="France - Ligue 1 - Olympique Marseille vs Rennes" tvg-name="21:00 France - Ligue 1 : Olympique Marseille vs Rennes - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Sport 2 Serbia
+#EXTINF:-1 tvg-id="France - Ligue 1 - Olympique Marseille vs Rennes" tvg-name="21:00 France - Ligue 1 : Olympique Marseille vs Rennes - 17/05/25" tvg-logo="https://guardacalcio.stream/uploads/posts/2025-05/1747478716_olympique-marseille-x-rennes.png" group-title="Soccer", Arena Sport 2 Serbia
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://zekonew.newkso.ru/zeko/premium430/mono.m3u8
 
-#EXTINF:-1 tvg-id="France - Ligue 1 - Olympique Marseille vs Rennes" tvg-name="21:00 France - Ligue 1 : Olympique Marseille vs Rennes - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Sport 3 Croatia
+#EXTINF:-1 tvg-id="France - Ligue 1 - Olympique Marseille vs Rennes" tvg-name="21:00 France - Ligue 1 : Olympique Marseille vs Rennes - 17/05/25" tvg-logo="https://guardacalcio.stream/uploads/posts/2025-05/1747478716_olympique-marseille-x-rennes.png" group-title="Soccer", Arena Sport 3 Croatia
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium434/mono.m3u8
+
+#EXTINF:-1 tvg-id="France - Ligue 1 - Olympique Lyonnais vs Angers SCO" tvg-name="21:00 France - Ligue 1 : Olympique Lyonnais vs Angers SCO - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN France
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium69/mono.m3u8
 
 #EXTINF:-1 tvg-id="France - Ligue 1 - Olympique Lyonnais vs Angers SCO" tvg-name="21:00 France - Ligue 1 : Olympique Lyonnais vs Angers SCO - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN SPORTS USA
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
@@ -629,13 +749,13 @@ https://nfsnew.newkso.ru/nfs/premium941/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium98/mono.m3u8
 
-#EXTINF:-1 tvg-id="France - Ligue 1 - Nice vs Brest" tvg-name="21:00 France - Ligue 1 : Nice vs Brest - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN France
+#EXTINF:-1 tvg-id="France - Ligue 1 - Nice vs Brest" tvg-name="21:00 France - Ligue 1 : Nice vs Brest - 17/05/25" tvg-logo="https://skystreaming.email/content/thumbs/c05d0e11fce9150ebaf8ee530342af3d." group-title="Soccer", DAZN France
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://windnew.newkso.ru/wind/premium76/mono.m3u8
 
-#EXTINF:-1 tvg-id="France - Ligue 1 - Nice vs Brest" tvg-name="21:00 France - Ligue 1 : Nice vs Brest - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", V Sport Football
+#EXTINF:-1 tvg-id="France - Ligue 1 - Nice vs Brest" tvg-name="21:00 France - Ligue 1 : Nice vs Brest - 17/05/25" tvg-logo="https://skystreaming.email/content/thumbs/c05d0e11fce9150ebaf8ee530342af3d." group-title="Soccer", V Sport Football
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
@@ -653,25 +773,25 @@ https://nfsnew.newkso.ru/nfs/premium77/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://zekonew.newkso.ru/zeko/premium146/mono.m3u8
 
-#EXTINF:-1 tvg-id="France - Ligue 1 - Lille vs Reims" tvg-name="21:00 France - Ligue 1 : Lille vs Reims - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN France
+#EXTINF:-1 tvg-id="France - Ligue 1 - Lille vs Reims" tvg-name="21:00 France - Ligue 1 : Lille vs Reims - 17/05/25" tvg-logo="https://skystreaming.email/content/thumbs/6923c1c35b9042a0bb80e5e7d186b6ee." group-title="Soccer", DAZN France
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://dokko1new.newkso.ru/dokko1/premium86/mono.m3u8
 
-#EXTINF:-1 tvg-id="France - Ligue 1 - Lille vs Reims" tvg-name="21:00 France - Ligue 1 : Lille vs Reims - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Sport 3 Serbia
+#EXTINF:-1 tvg-id="France - Ligue 1 - Lille vs Reims" tvg-name="21:00 France - Ligue 1 : Lille vs Reims - 17/05/25" tvg-logo="https://skystreaming.email/content/thumbs/6923c1c35b9042a0bb80e5e7d186b6ee." group-title="Soccer", Arena Sport 3 Serbia
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://windnew.newkso.ru/wind/premium431/mono.m3u8
 
-#EXTINF:-1 tvg-id="France - Ligue 1 - Lille vs Reims" tvg-name="21:00 France - Ligue 1 : Lille vs Reims - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports MENA 6
+#EXTINF:-1 tvg-id="France - Ligue 1 - Lille vs Reims" tvg-name="21:00 France - Ligue 1 : Lille vs Reims - 17/05/25" tvg-logo="https://skystreaming.email/content/thumbs/6923c1c35b9042a0bb80e5e7d186b6ee." group-title="Soccer", beIN Sports MENA 6
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://dokko1new.newkso.ru/dokko1/premium96/mono.m3u8
 
-#EXTINF:-1 tvg-id="France - Ligue 1 - Lille vs Reims" tvg-name="21:00 France - Ligue 1 : Lille vs Reims - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", 5 Stars Israel
+#EXTINF:-1 tvg-id="France - Ligue 1 - Lille vs Reims" tvg-name="21:00 France - Ligue 1 : Lille vs Reims - 17/05/25" tvg-logo="https://skystreaming.email/content/thumbs/6923c1c35b9042a0bb80e5e7d186b6ee." group-title="Soccer", 5 Stars Israel
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
@@ -695,49 +815,49 @@ https://nfsnew.newkso.ru/nfs/premium940/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium106/mono.m3u8
 
-#EXTINF:-1 tvg-id="France - Ligue 1 - Lens vs Monaco" tvg-name="21:00 France - Ligue 1 : Lens vs Monaco - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN France
+#EXTINF:-1 tvg-id="France - Ligue 1 - Lens vs Monaco" tvg-name="21:00 France - Ligue 1 : Lens vs Monaco - 17/05/25" tvg-logo="https://skystreaming.email/content/thumbs/370b78fa23d09b792e20441b9095e9b2." group-title="Soccer", DAZN France
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium107/mono.m3u8
 
-#EXTINF:-1 tvg-id="France - Ligue 1 - Lens vs Monaco" tvg-name="21:00 France - Ligue 1 : Lens vs Monaco - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Sport 4 Serbia
+#EXTINF:-1 tvg-id="France - Ligue 1 - Lens vs Monaco" tvg-name="21:00 France - Ligue 1 : Lens vs Monaco - 17/05/25" tvg-logo="https://skystreaming.email/content/thumbs/370b78fa23d09b792e20441b9095e9b2." group-title="Soccer", Arena Sport 4 Serbia
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://windnew.newkso.ru/wind/premium581/mono.m3u8
 
-#EXTINF:-1 tvg-id="France - Ligue 1 - Lens vs Monaco" tvg-name="21:00 France - Ligue 1 : Lens vs Monaco - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports MENA 5
+#EXTINF:-1 tvg-id="France - Ligue 1 - Lens vs Monaco" tvg-name="21:00 France - Ligue 1 : Lens vs Monaco - 17/05/25" tvg-logo="https://skystreaming.email/content/thumbs/370b78fa23d09b792e20441b9095e9b2." group-title="Soccer", beIN Sports MENA 5
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://dokko1new.newkso.ru/dokko1/premium95/mono.m3u8
 
-#EXTINF:-1 tvg-id="France - Ligue 1 - PSG vs Auxerre" tvg-name="21:00 France - Ligue 1 : PSG vs Auxerre - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN France
+#EXTINF:-1 tvg-id="France - Ligue 1 - PSG vs Auxerre" tvg-name="21:00 France - Ligue 1 : PSG vs Auxerre - 17/05/25" tvg-logo="https://skystreaming.email/content/thumbs/aa22ca28c5b0ab6773d49c430037774a." group-title="Soccer", DAZN France
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium108/mono.m3u8
 
-#EXTINF:-1 tvg-id="France - Ligue 1 - PSG vs Auxerre" tvg-name="21:00 France - Ligue 1 : PSG vs Auxerre - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena 2 Premium Serbia
+#EXTINF:-1 tvg-id="France - Ligue 1 - PSG vs Auxerre" tvg-name="21:00 France - Ligue 1 : PSG vs Auxerre - 17/05/25" tvg-logo="https://skystreaming.email/content/thumbs/aa22ca28c5b0ab6773d49c430037774a." group-title="Soccer", Arena 2 Premium Serbia
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium135/mono.m3u8
 
-#EXTINF:-1 tvg-id="France - Ligue 1 - PSG vs Auxerre" tvg-name="21:00 France - Ligue 1 : PSG vs Auxerre - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN Argentina
+#EXTINF:-1 tvg-id="France - Ligue 1 - PSG vs Auxerre" tvg-name="21:00 France - Ligue 1 : PSG vs Auxerre - 17/05/25" tvg-logo="https://skystreaming.email/content/thumbs/aa22ca28c5b0ab6773d49c430037774a." group-title="Soccer", ESPN Argentina
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium149/mono.m3u8
 
-#EXTINF:-1 tvg-id="France - Ligue 1 - PSG vs Auxerre" tvg-name="21:00 France - Ligue 1 : PSG vs Auxerre - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports MENA 2
+#EXTINF:-1 tvg-id="France - Ligue 1 - PSG vs Auxerre" tvg-name="21:00 France - Ligue 1 : PSG vs Auxerre - 17/05/25" tvg-logo="https://skystreaming.email/content/thumbs/aa22ca28c5b0ab6773d49c430037774a." group-title="Soccer", beIN Sports MENA 2
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://dokko1new.newkso.ru/dokko1/premium92/mono.m3u8
 
-#EXTINF:-1 tvg-id="France - Ligue 1 - PSG vs Auxerre" tvg-name="21:00 France - Ligue 1 : PSG vs Auxerre - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports MENA English 1
+#EXTINF:-1 tvg-id="France - Ligue 1 - PSG vs Auxerre" tvg-name="21:00 France - Ligue 1 : PSG vs Auxerre - 17/05/25" tvg-logo="https://skystreaming.email/content/thumbs/aa22ca28c5b0ab6773d49c430037774a." group-title="Soccer", beIN Sports MENA English 1
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
@@ -868,6 +988,12 @@ https://zekonew.newkso.ru/zeko/premium438/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://dokko1new.newkso.ru/dokko1/premium526/mono.m3u8
+
+#EXTINF:-1 tvg-id="ATP and WTA 1000 Rome Doubles Semifinals - ATP and WTA 1000 Rome Doubles Semifinals" tvg-name="11:00 ATP and WTA 1000 Rome Doubles Semifinals - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Cytavision Sports 5 Cyprus
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium915/mono.m3u8
 
 #EXTINF:-1 tvg-id="ATP and WTA 1000 Rome Doubles Semifinals - ATP and WTA 1000 Rome Doubles Semifinals" tvg-name="11:00 ATP and WTA 1000 Rome Doubles Semifinals - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Cosmote Sport 6
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
@@ -1013,6 +1139,12 @@ https://zekonew.newkso.ru/zeko/premium438/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://dokko1new.newkso.ru/dokko1/premium526/mono.m3u8
 
+#EXTINF:-1 tvg-id="ATP and WTA 1000 Rome WTA Singles Final - ATP and WTA 1000 Rome WTA Singles Final" tvg-name="17:00 ATP and WTA 1000 Rome WTA Singles Final - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Cytavision Sports 5 Cyprus
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium915/mono.m3u8
+
 #EXTINF:-1 tvg-id="ATP and WTA 1000 Rome WTA Singles Final - ATP and WTA 1000 Rome WTA Singles Final" tvg-name="17:00 ATP and WTA 1000 Rome WTA Singles Final - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Cosmote Sport 6
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -1103,6 +1235,12 @@ https://dokko1new.newkso.ru/dokko1/premium537/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://nfsnew.newkso.ru/nfs/premium577/mono.m3u8
 
+#EXTINF:-1 tvg-id="Formula 3 - AWS Emilia Romagna GP - Sprint Race" tvg-name="10:00 Formula 3 : AWS Emilia Romagna GP - Sprint Race - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", ANT+ F1 Greece
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium774/mono.m3u8
+
 #EXTINF:-1 tvg-id="Formula 1 - AWS Emilia Romagna GP - Practice 3" tvg-name="12:30 Formula 1 : AWS Emilia Romagna GP - Practice 3 - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sports F1 UK
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -1126,6 +1264,12 @@ https://dokko1new.newkso.ru/dokko1/premium537/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://nfsnew.newkso.ru/nfs/premium577/mono.m3u8
+
+#EXTINF:-1 tvg-id="Formula 1 - AWS Emilia Romagna GP - Practice 3" tvg-name="12:30 Formula 1 : AWS Emilia Romagna GP - Practice 3 - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", ANT+ F1 Greece
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium774/mono.m3u8
 
 #EXTINF:-1 tvg-id="Formula 2 - AWS Emilia Romagna GP - Sprint Race" tvg-name="14:10 Formula 2 : AWS Emilia Romagna GP - Sprint Race - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sports F1 UK
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
@@ -1151,6 +1295,12 @@ https://dokko1new.newkso.ru/dokko1/premium537/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://nfsnew.newkso.ru/nfs/premium577/mono.m3u8
 
+#EXTINF:-1 tvg-id="Formula 2 - AWS Emilia Romagna GP - Sprint Race" tvg-name="14:10 Formula 2 : AWS Emilia Romagna GP - Sprint Race - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", ANT+ F1 Greece
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium774/mono.m3u8
+
 #EXTINF:-1 tvg-id="Formula 1 - AWS Emilia Romagna GP - Qualifying" tvg-name="16:00 Formula 1 : AWS Emilia Romagna GP - Qualifying - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sports F1 UK
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -1174,6 +1324,12 @@ https://dokko1new.newkso.ru/dokko1/premium537/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://nfsnew.newkso.ru/nfs/premium577/mono.m3u8
+
+#EXTINF:-1 tvg-id="Formula 1 - AWS Emilia Romagna GP - Qualifying" tvg-name="16:00 Formula 1 : AWS Emilia Romagna GP - Qualifying - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", ANT+ F1 Greece
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium774/mono.m3u8
 
 #EXTINF:-1 tvg-id="IndyCar Series Season Qualifying - Indianapolis Motor Speedway - IndyCar Series Season Qualifying - Indianapolis Motor Speedway" tvg-name="19:30 IndyCar Series Season Qualifying - Indianapolis Motor Speedway - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sports F1 UK
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
@@ -1253,11 +1409,23 @@ https://zekonew.newkso.ru/zeko/premium404/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://dokko1new.newkso.ru/dokko1/premium153/mono.m3u8
 
+#EXTINF:-1 tvg-id="Greek League - Olympiacos vs AEK" tvg-name="15:00 Greek League : Olympiacos vs AEK - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ERT 3 Greece
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium154/mono.m3u8
+
 #EXTINF:-1 tvg-id="Greek League - Olympiacos vs AEK" tvg-name="15:00 Greek League : Olympiacos vs AEK - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena Sport 3 Serbia
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://windnew.newkso.ru/wind/premium431/mono.m3u8
+
+#EXTINF:-1 tvg-id="Slovakia Extraliga Playoffs - Astrum Levice vs. BK Inter Bratislava" tvg-name="17:00 Slovakia Extraliga Playoffs : Astrum Levice vs. BK Inter Bratislava - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", JOJ Sport Slovakia 2 HD
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium192/mono.m3u8
 
 #EXTINF:-1 tvg-id="MTS Streetball Winter League - Kragujevac" tvg-name="17:00 MTS Streetball Winter League : Kragujevac - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena Sport 10 Serbia
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
@@ -1283,6 +1451,12 @@ https://windnew.newkso.ru/wind/premium431/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://dokko1new.newkso.ru/dokko1/premium625/mono.m3u8
 
+#EXTINF:-1 tvg-id="Bundesliga - Playoffs - 1/4 Finals (G1) : Chemnitz vs Heidelberg" tvg-name="17:00 Bundesliga: Playoffs - 1/4 Finals (G1) : Chemnitz vs Heidelberg - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport Klub 6 Croatia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium172/mono.m3u8
+
 #EXTINF:-1 tvg-id="Hungary NB I Playoffs - Falco KC Szombathely vs. Szolnoki Olaj Kk" tvg-name="17:30 Hungary NB I Playoffs : Falco KC Szombathely vs. Szolnoki Olaj Kk - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", M4 Sport Hungary
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -1301,11 +1475,41 @@ https://zekonew.newkso.ru/zeko/premium404/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://windnew.newkso.ru/wind/premium47/mono.m3u8
 
+#EXTINF:-1 tvg-id="SB League - Fribourg Olympic vs Geneva Lions" tvg-name="17:30 SB League : Fribourg Olympic vs Geneva Lions - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", RTS Deux Switzerland
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium155/mono.m3u8
+
 #EXTINF:-1 tvg-id="LNB - Lyon-Villeurbanne vs Dijon" tvg-name="17:45 LNB : Lyon-Villeurbanne vs Dijon - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", DAZN 3 France
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium167/mono.m3u8
+
+#EXTINF:-1 tvg-id="LNB - Nancy vs Paris" tvg-name="17:45 LNB : Nancy vs Paris - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", DAZN 1 France
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium168/mono.m3u8
+
+#EXTINF:-1 tvg-id="LNB - Nancy vs Paris" tvg-name="17:45 LNB : Nancy vs Paris - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport Klub 5 Croatia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium175/mono.m3u8
+
+#EXTINF:-1 tvg-id="LNB - Chalon/Saone vs Monaco" tvg-name="17:45 LNB : Chalon/Saone vs Monaco - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", DAZN 4 France
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium170/mono.m3u8
+
+#EXTINF:-1 tvg-id="LNB - Chalon/Saone vs Monaco" tvg-name="17:45 LNB : Chalon/Saone vs Monaco - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport Klub 8 Croatia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium171/mono.m3u8
 
 #EXTINF:-1 tvg-id="LNB - Chalon/Saone vs Monaco" tvg-name="17:45 LNB : Chalon/Saone vs Monaco - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 5 Stars Israel
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
@@ -1385,6 +1589,12 @@ https://ddy6new.newkso.ru/ddy6/premium101/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://windnew.newkso.ru/wind/premium47/mono.m3u8
 
+#EXTINF:-1 tvg-id="German League - Playoffs - 1/4 Final (G1) : Ulm vs Alba" tvg-name="18:30 German League: Playoffs - 1/4 Final (G1) : Ulm vs Alba - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport Klub 10 Croatia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium173/mono.m3u8
+
 #EXTINF:-1 tvg-id="National Camp - Oliveirense x Ovarense" tvg-name="19:00 National Camp : Oliveirense x Ovarense - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", DAZN Eleven 4 Portugal
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -1439,6 +1649,12 @@ https://zekonew.newkso.ru/zeko/premium707/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://dokko1new.newkso.ru/dokko1/premium526/mono.m3u8
 
+#EXTINF:-1 tvg-id="Basket League 2024-25 - Basket League 2024-25" tvg-name="19:15 Basket League 2024-25 - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ERT 3 Greece
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium154/mono.m3u8
+
 #EXTINF:-1 tvg-id="Süper Ligi - Anadolu Efes SK vs. Buyukcekmece Basketbol" tvg-name="19:30 Süper Ligi : Anadolu Efes SK vs. Buyukcekmece Basketbol - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", beIN SPORTS 5 Turkey
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -1450,6 +1666,12 @@ https://dokko1new.newkso.ru/dokko1/premium153/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://nfsnew.newkso.ru/nfs/premium944/mono.m3u8
+
+#EXTINF:-1 tvg-id="German League - Playoffs - 1/4 Final (G1) : Bayern vs Mitteldeutscher/Oldenburg" tvg-name="20:00 German League: Playoffs - 1/4 Final (G1) : Bayern vs Mitteldeutscher/Oldenburg - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport Klub 7 Croatia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium176/mono.m3u8
 
 #EXTINF:-1 tvg-id="ACB - CB Gran Canaria vs. Club Joventut Badalona" tvg-name="20:45 ACB : CB Gran Canaria vs. Club Joventut Badalona - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Movistar Deportes Spain
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
