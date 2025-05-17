@@ -3,9 +3,6 @@
 https://toastremio-prx.hf.space/proxy/resolve?url=https://daddylive.dad/stream/stream-881.php
 
 #EXTINF:-1 tvg-id="eurosport 1" tvg-name="EuroSport 1 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport", EuroSport 1  (D)
-#EXTVLCOPT:http-referrer=https://alldownplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://alldownplay.xyz
 https://toastremio-prx.hf.space/proxy/resolve?url=https://windnew.newkso.ru/wind/premium878/mono.m3u8
 
 #EXTINF:-1 tvg-id="eurosport 2" tvg-name="EuroSport 2 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/euros.png" group-title="Sport", EuroSport 2  (D)
