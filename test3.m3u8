@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Resolved Stream" tvg-name="Resolved Stream" tvg-logo="" group-title="Resolved", Resolved Stream
+https://toastremio-prx.hf.space/proxy/resolve?url=https://daddylive.dad/stream/stream-881.php
