@@ -1,9 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="Resolved Stream" tvg-name="Resolved Stream" tvg-logo="" group-title="Resolved", Resolved Stream
-https://toastremio-prx.hf.space/proxy/resolve?url=https://daddylive.dad/stream/stream-881.php
-
-#EXTINF:-1 tvg-id="eurosport 1" tvg-name="EuroSport 1 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport", EuroSport 1  (D)
-https://toastremio-prx.hf.space/proxy/resolve?url=https://windnew.newkso.ru/wind/premium878/mono.m3u8
-
-#EXTINF:-1 tvg-id="eurosport 2" tvg-name="EuroSport 2 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/euros.png" group-title="Sport", EuroSport 2  (D)
-https://toastremio-prx.hf.space/proxy/resolve?url=https://windnew.newkso.ru/wind/premium878/mono.m3u8&h_User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%2BSafari/537.36&h_Referer=https%3A//alldownplay.xyz/&h_Origin=https%3A//alldownplay.xyz
