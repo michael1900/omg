@@ -1229,6 +1229,12 @@ https://zekonew.newkso.ru/zeko/premium404/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://zekonew.newkso.ru/zeko/premium145/mono.m3u8
 
+#EXTINF:-1 tvg-id="NBA - Minnesota Timberwolves vs Oklahoma City Thunder" tvg-name="02:30 NBA : Minnesota Timberwolves vs Oklahoma City Thunder - 20/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Home Feed
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium16/mono.m3u8
+
 #EXTINF:-1 tvg-id="NBA - Minnesota Timberwolves vs Oklahoma City Thunder" tvg-name="02:30 NBA : Minnesota Timberwolves vs Oklahoma City Thunder - 20/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Away Feed
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
