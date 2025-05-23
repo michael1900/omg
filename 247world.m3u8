@@ -1020,6 +1020,12 @@ https://dokko1new.newkso.ru/dokko1/premium607/mono.m3u8
 #EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
 https://dokko1new.newkso.ru/dokko1/premium608/mono.m3u8
 
+#EXTINF:-1 tvg-id="unknown" tvg-name="DSTV kykNET & kie" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", DSTV kykNET & kie
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium828/mono.m3u8
+
 #EXTINF:-1 tvg-id="unknown" tvg-name="Discovery Life Channel" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Discovery Life Channel
 #EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
@@ -4229,6 +4235,12 @@ https://wikinew.newkso.ru/wiki/premium843/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
 #EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium287/mono.m3u8
+
+#EXTINF:-1 tvg-id="unknown" tvg-name="PBS USA USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", PBS USA USA
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium210/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="Rally Tv" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Rally Tv
 #EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz/
