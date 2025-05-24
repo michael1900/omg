@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="- Germany Amateur A-Junioren-Bundesliga Playoffs - Werder Bremen vs. Karlsruher SC - - Germany Amateur A-Junioren-Bundesliga Playoffs - Werder Bremen vs. Karlsruher SC" tvg-name="18:00 - Germany Amateur A-Junioren-Bundesliga Playoffs - Werder Bremen vs. Karlsruher SC - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Mix DE
+#EXTINF:-1 tvg-id="Germany Amateur A-Junioren-Bundesliga Playoffs - Werder Bremen vs. Karlsruher SC - Germany Amateur A-Junioren-Bundesliga Playoffs - Werder Bremen vs. Karlsruher SC" tvg-name="18:00 Germany Amateur A-Junioren-Bundesliga Playoffs - Werder Bremen vs. Karlsruher SC - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Mix DE
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium557/mono.m3u8
 
-#EXTINF:-1 tvg-id="- Germany Amateur A-Junioren-Bundesliga Playoffs - Werder Bremen vs. Karlsruher SC - - Germany Amateur A-Junioren-Bundesliga Playoffs - Werder Bremen vs. Karlsruher SC" tvg-name="18:00 - Germany Amateur A-Junioren-Bundesliga Playoffs - Werder Bremen vs. Karlsruher SC - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Top Event DE
+#EXTINF:-1 tvg-id="Germany Amateur A-Junioren-Bundesliga Playoffs - Werder Bremen vs. Karlsruher SC - Germany Amateur A-Junioren-Bundesliga Playoffs - Werder Bremen vs. Karlsruher SC" tvg-name="18:00 Germany Amateur A-Junioren-Bundesliga Playoffs - Werder Bremen vs. Karlsruher SC - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Top Event DE
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
@@ -119,11 +119,11 @@ https://ddy6new.newkso.ru/ddy6/premium393/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium55/mono.m3u8
 
-#EXTINF:-1 tvg-id="Italy - Serie A - Como vs Internazionale" tvg-name="20:45 Italy - Serie A : Como vs Internazionale - 23/05/25" tvg-logo="https://skystreaming.help/content/thumbs/6adf59a343d353585559b83e21ab1309." group-title="Soccer", TNT Sports 1 UK
+#EXTINF:-1 tvg-id="Italy - Serie A - Como vs Internazionale" tvg-name="20:45 Italy - Serie A : Como vs Internazionale - 23/05/25" tvg-logo="https://skystreaming.help/content/thumbs/6adf59a343d353585559b83e21ab1309." group-title="Soccer", TNT Sports 2 UK
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium31/mono.m3u8
+https://nfsnew.newkso.ru/nfs/premium32/mono.m3u8
 
 #EXTINF:-1 tvg-id="Italy - Serie A - Como vs Internazionale" tvg-name="20:45 Italy - Serie A : Como vs Internazionale - 23/05/25" tvg-logo="https://skystreaming.help/content/thumbs/6adf59a343d353585559b83e21ab1309." group-title="Soccer", Sport TV2 Portugal
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
@@ -197,6 +197,12 @@ https://windnew.newkso.ru/wind/premium472/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium434/mono.m3u8
 
+#EXTINF:-1 tvg-id="Italy - Serie A - Como vs Internazionale" tvg-name="20:45 Italy - Serie A : Como vs Internazionale - 23/05/25" tvg-logo="https://skystreaming.help/content/thumbs/6adf59a343d353585559b83e21ab1309." group-title="Soccer", SuperSport Football
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium56/mono.m3u8
+
 #EXTINF:-1 tvg-id="Italy - Serie A - Como vs Internazionale" tvg-name="20:45 Italy - Serie A : Como vs Internazionale - 23/05/25" tvg-logo="https://skystreaming.help/content/thumbs/6adf59a343d353585559b83e21ab1309." group-title="Soccer", Sport 1 Israel
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -214,6 +220,12 @@ https://windnew.newkso.ru/wind/premium59/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium152/mono.m3u8
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Napoli vs Cagliari" tvg-name="20:45 Italy - Serie A : Napoli vs Cagliari - 23/05/25" tvg-logo="https://skystreaming.help/content/thumbs/c84a30f8ee7424e0965f8ece54e26a47." group-title="Soccer", TNT Sports 1 UK
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium31/mono.m3u8
 
 #EXTINF:-1 tvg-id="Italy - Serie A - Napoli vs Cagliari" tvg-name="20:45 Italy - Serie A : Napoli vs Cagliari - 23/05/25" tvg-logo="https://skystreaming.help/content/thumbs/c84a30f8ee7424e0965f8ece54e26a47." group-title="Soccer", Eleven Sports 3 Poland
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
@@ -1330,4 +1342,1822 @@ https://ddy6new.newkso.ru/ddy6/premium882/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://zekonew.newkso.ru/zeko/premium308/mono.m3u8
+
+#EXTINF:-1 tvg-id="Russia - Premier League - Simulcast" tvg-name="15:30 Russia - Premier League : Simulcast - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", MATCH TV Russia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium127/mono.m3u8
+
+#EXTINF:-1 tvg-id="Russia - Premier League - Zenit vs Akhmat Grozny" tvg-name="15:30 Russia - Premier League : Zenit vs Akhmat Grozny - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", MATCH! Strana Russia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium4/mono.m3u8
+
+#EXTINF:-1 tvg-id="Russia - Premier League - Zenit vs Akhmat Grozny" tvg-name="15:30 Russia - Premier League : Zenit vs Akhmat Grozny - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Sport 7 Serbia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium942/mono.m3u8
+
+#EXTINF:-1 tvg-id="Russia - Premier League - Spartak Moskva vs Khimki" tvg-name="15:30 Russia - Premier League : Spartak Moskva vs Khimki - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", MATCH! Futbol 1 Russia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium136/mono.m3u8
+
+#EXTINF:-1 tvg-id="Russia - Premier League - Krasnodar vs Dinamo Moskva" tvg-name="15:30 Russia - Premier League : Krasnodar vs Dinamo Moskva - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Match Premier Russia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium573/mono.m3u8
+
+#EXTINF:-1 tvg-id="Russia - Premier League - Krasnodar vs Dinamo Moskva" tvg-name="15:30 Russia - Premier League : Krasnodar vs Dinamo Moskva - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Sport 6 Serbia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium941/mono.m3u8
+
+#EXTINF:-1 tvg-id="Russia - Premier League - Krasnodar vs Dinamo Moskva" tvg-name="15:30 Russia - Premier League : Krasnodar vs Dinamo Moskva - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Sport 3 Croatia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium434/mono.m3u8
+
+#EXTINF:-1 tvg-id="Russia - Premier League - Fakel vs Krylya Sovetov" tvg-name="15:30 Russia - Premier League : Fakel vs Krylya Sovetov - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", MATCH! Arena Russia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium55/mono.m3u8
+
+#EXTINF:-1 tvg-id="Russia - Premier League - Rubin Kazan' vs Orenburg" tvg-name="15:30 Russia - Premier League : Rubin Kazan' vs Orenburg - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", MATCH! Igra Russia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium5/mono.m3u8
+
+#EXTINF:-1 tvg-id="Russia - Premier League - Dynamo Makhachkala vs Rostov" tvg-name="15:30 Russia - Premier League : Dynamo Makhachkala vs Rostov - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", МАТЧ! БОЕЦ Russia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium395/mono.m3u8
+
+#EXTINF:-1 tvg-id="Russia - Premier League - Akron vs Lokomotiv Moskva" tvg-name="15:30 Russia - Premier League : Akron vs Lokomotiv Moskva - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", MATCH! Futbol 3 Russia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium138/mono.m3u8
+
+#EXTINF:-1 tvg-id="Russia - Premier League - CSKA Moskva vs Olimpiyets" tvg-name="15:30 Russia - Premier League : CSKA Moskva vs Olimpiyets - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", MATCH! Futbol 2 Russia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium137/mono.m3u8
+
+#EXTINF:-1 tvg-id="England - Championship - Sheffield United vs Sunderland" tvg-name="16:00 England - Championship : Sheffield United vs Sunderland - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sports Premier League DE
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium16/mono.m3u8
+
+#EXTINF:-1 tvg-id="England - Championship - Sheffield United vs Sunderland" tvg-name="16:00 England - Championship : Sheffield United vs Sunderland - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport Premier League
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium414/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Real Madrid vs Real Sociedad" tvg-name="16:15 Spain - La Liga : Real Madrid vs Real Sociedad - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN LaLiga
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium538/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Real Madrid vs Real Sociedad" tvg-name="16:15 Spain - La Liga : Real Madrid vs Real Sociedad - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", LaLigaTV UK
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium276/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Real Madrid vs Real Sociedad" tvg-name="16:15 Spain - La Liga : Real Madrid vs Real Sociedad - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TSN2
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium112/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Real Madrid vs Real Sociedad" tvg-name="16:15 Spain - La Liga : Real Madrid vs Real Sociedad - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN Eleven 2 Portugal
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium456/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Real Madrid vs Real Sociedad" tvg-name="16:15 Spain - La Liga : Real Madrid vs Real Sociedad - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN1 DE
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium426/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Real Madrid vs Real Sociedad" tvg-name="16:15 Spain - La Liga : Real Madrid vs Real Sociedad - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", CANAL+ Premium Poland
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium566/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Real Madrid vs Real Sociedad" tvg-name="16:15 Spain - La Liga : Real Madrid vs Real Sociedad - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports 2 France
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium117/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Real Madrid vs Real Sociedad" tvg-name="16:15 Spain - La Liga : Real Madrid vs Real Sociedad - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Digi Sport 2 Romania
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium401/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Real Madrid vs Real Sociedad" tvg-name="16:15 Spain - La Liga : Real Madrid vs Real Sociedad - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Cytavision Sports 3 Cyprus
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium913/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Real Madrid vs Real Sociedad" tvg-name="16:15 Spain - La Liga : Real Madrid vs Real Sociedad - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN Deportes
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium375/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Real Madrid vs Real Sociedad" tvg-name="16:15 Spain - La Liga : Real Madrid vs Real Sociedad - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Ziggo Sport 2 NL
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium398/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Real Madrid vs Real Sociedad" tvg-name="16:15 Spain - La Liga : Real Madrid vs Real Sociedad - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Nova Sports 1 Greece
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium631/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Real Madrid vs Real Sociedad" tvg-name="16:15 Spain - La Liga : Real Madrid vs Real Sociedad - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Premium 1 Serbia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium134/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Real Madrid vs Real Sociedad" tvg-name="16:15 Spain - La Liga : Real Madrid vs Real Sociedad - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TV4 Sportkanalen
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium707/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Real Madrid vs Real Sociedad" tvg-name="16:15 Spain - La Liga : Real Madrid vs Real Sociedad - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports 3 Malaysia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium714/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Real Madrid vs Real Sociedad" tvg-name="16:15 Spain - La Liga : Real Madrid vs Real Sociedad - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", MAX Sport 4 Bulgaria
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium475/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Real Madrid vs Real Sociedad" tvg-name="16:15 Spain - La Liga : Real Madrid vs Real Sociedad - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN Brazil
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium81/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Real Madrid vs Real Sociedad" tvg-name="16:15 Spain - La Liga : Real Madrid vs Real Sociedad - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport Laliga
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium415/mono.m3u8
+
+#EXTINF:-1 tvg-id="Austria - Football Bundesliga - Simulcast" tvg-name="17:00 Austria - Football Bundesliga : Simulcast - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Austria 1
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium559/mono.m3u8
+
+#EXTINF:-1 tvg-id="Austria - Football Bundesliga - Salzburg vs Rapid Wien" tvg-name="17:00 Austria - Football Bundesliga : Salzburg vs Rapid Wien - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Austria 4
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium9/mono.m3u8
+
+#EXTINF:-1 tvg-id="Austria - Football Bundesliga - Salzburg vs Rapid Wien" tvg-name="17:00 Austria - Football Bundesliga : Salzburg vs Rapid Wien - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", 5 Live Israel
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium146/mono.m3u8
+
+#EXTINF:-1 tvg-id="Austria - Football Bundesliga - Austria Wien vs Blau-Weiß Linz" tvg-name="17:00 Austria - Football Bundesliga : Austria Wien vs Blau-Weiß Linz - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Austria 3
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium10/mono.m3u8
+
+#EXTINF:-1 tvg-id="Austria - Football Bundesliga - Sturm Graz vs Wolfsberger AC" tvg-name="17:00 Austria - Football Bundesliga : Sturm Graz vs Wolfsberger AC - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Austria 2
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium11/mono.m3u8
+
+#EXTINF:-1 tvg-id="Austria - Football Bundesliga - Sturm Graz vs Wolfsberger AC" tvg-name="17:00 Austria - Football Bundesliga : Sturm Graz vs Wolfsberger AC - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Sport 4 Serbia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium581/mono.m3u8
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Bologna vs Genoa" tvg-name="18:00 Italy - Serie A : Bologna vs Genoa - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN Zona IT
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium877/mono.m3u8
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Bologna vs Genoa" tvg-name="18:00 Italy - Serie A : Bologna vs Genoa - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Paramount+
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium106/mono.m3u8
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Bologna vs Genoa" tvg-name="18:00 Italy - Serie A : Bologna vs Genoa - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", CBS Sports Network
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium308/mono.m3u8
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Bologna vs Genoa" tvg-name="18:00 Italy - Serie A : Bologna vs Genoa - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport TV2 Portugal
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium74/mono.m3u8
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Bologna vs Genoa" tvg-name="18:00 Italy - Serie A : Bologna vs Genoa - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Eleven Sports 2 Poland
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium72/mono.m3u8
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Bologna vs Genoa" tvg-name="18:00 Italy - Serie A : Bologna vs Genoa - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", MATCH! Futbol 1 Russia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium136/mono.m3u8
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Bologna vs Genoa" tvg-name="18:00 Italy - Serie A : Bologna vs Genoa - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN2 Mexico
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium926/mono.m3u8
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Bologna vs Genoa" tvg-name="18:00 Italy - Serie A : Bologna vs Genoa - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Cytavision Sports 6 Cyprus
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium916/mono.m3u8
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Bologna vs Genoa" tvg-name="18:00 Italy - Serie A : Bologna vs Genoa - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Premium 3 Serbia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium139/mono.m3u8
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Bologna vs Genoa" tvg-name="18:00 Italy - Serie A : Bologna vs Genoa - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Cosmote Sport 1 Greece
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium622/mono.m3u8
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Bologna vs Genoa" tvg-name="18:00 Italy - Serie A : Bologna vs Genoa - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Sport 4 Croatia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium580/mono.m3u8
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Bologna vs Genoa" tvg-name="18:00 Italy - Serie A : Bologna vs Genoa - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", MAX Sport 3 Bulgaria
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium474/mono.m3u8
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Bologna vs Genoa" tvg-name="18:00 Italy - Serie A : Bologna vs Genoa - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN2 Argentina
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium150/mono.m3u8
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Bologna vs Genoa" tvg-name="18:00 Italy - Serie A : Bologna vs Genoa - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TV4 Fotball
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium747/mono.m3u8
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Bologna vs Genoa" tvg-name="18:00 Italy - Serie A : Bologna vs Genoa - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport Football
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium56/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Leganés vs Real Valladolid" tvg-name="18:30 Spain - La Liga : Leganés vs Real Valladolid - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", M+ LALIGA TV
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium84/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Leganés vs Real Valladolid" tvg-name="18:30 Spain - La Liga : Leganés vs Real Valladolid - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN+ USA
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium109/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Leganés vs Real Valladolid" tvg-name="18:30 Spain - La Liga : Leganés vs Real Valladolid - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN Eleven 2 Portugal
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium456/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Leganés vs Real Valladolid" tvg-name="18:30 Spain - La Liga : Leganés vs Real Valladolid - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Eleven Sports 3 Poland
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium428/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Leganés vs Real Valladolid" tvg-name="18:30 Spain - La Liga : Leganés vs Real Valladolid - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Now Sports 3
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium26/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Leganés vs Real Valladolid" tvg-name="18:30 Spain - La Liga : Leganés vs Real Valladolid - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports MAX 6 France
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium496/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Leganés vs Real Valladolid" tvg-name="18:30 Spain - La Liga : Leganés vs Real Valladolid - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", MATCH! Futbol 3 Russia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium138/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Leganés vs Real Valladolid" tvg-name="18:30 Spain - La Liga : Leganés vs Real Valladolid - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TV4 Sport Live 2
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium704/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Leganés vs Real Valladolid" tvg-name="18:30 Spain - La Liga : Leganés vs Real Valladolid - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Digi Sport 2 Romania
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium401/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Leganés vs Real Valladolid" tvg-name="18:30 Spain - La Liga : Leganés vs Real Valladolid - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Nova Sports 1 Greece
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium631/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Leganés vs Real Valladolid" tvg-name="18:30 Spain - La Liga : Leganés vs Real Valladolid - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Nova Sports Start Greece
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium637/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Leganés vs Real Valladolid" tvg-name="18:30 Spain - La Liga : Leganés vs Real Valladolid - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports 3 Malaysia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium714/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Leganés vs Real Valladolid" tvg-name="18:30 Spain - La Liga : Leganés vs Real Valladolid - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN Deportes
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium375/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Espanyol vs Las Palmas" tvg-name="18:30 Spain - La Liga : Espanyol vs Las Palmas - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN LaLiga 2
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium23/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Espanyol vs Las Palmas" tvg-name="18:30 Spain - La Liga : Espanyol vs Las Palmas - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN+ USA
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium110/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Espanyol vs Las Palmas" tvg-name="18:30 Spain - La Liga : Espanyol vs Las Palmas - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN Eleven 3 Portugal
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium457/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Espanyol vs Las Palmas" tvg-name="18:30 Spain - La Liga : Espanyol vs Las Palmas - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Ziggo Sport 2 NL
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium398/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Espanyol vs Las Palmas" tvg-name="18:30 Spain - La Liga : Espanyol vs Las Palmas - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN1 DE
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium426/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Espanyol vs Las Palmas" tvg-name="18:30 Spain - La Liga : Espanyol vs Las Palmas - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Now Sports 2
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium27/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Espanyol vs Las Palmas" tvg-name="18:30 Spain - La Liga : Espanyol vs Las Palmas - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SportsMax
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium152/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Espanyol vs Las Palmas" tvg-name="18:30 Spain - La Liga : Espanyol vs Las Palmas - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", MATCH! Futbol 2 Russia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium137/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Espanyol vs Las Palmas" tvg-name="18:30 Spain - La Liga : Espanyol vs Las Palmas - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TV2 Sport X Denmark
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium808/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Espanyol vs Las Palmas" tvg-name="18:30 Spain - La Liga : Espanyol vs Las Palmas - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Premium 2 Serbia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium135/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Espanyol vs Las Palmas" tvg-name="18:30 Spain - La Liga : Espanyol vs Las Palmas - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports 2 Malaysia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium713/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Espanyol vs Las Palmas" tvg-name="18:30 Spain - La Liga : Espanyol vs Las Palmas - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports MAX 7 France
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium497/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Espanyol vs Las Palmas" tvg-name="18:30 Spain - La Liga : Espanyol vs Las Palmas - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN Brazil
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium81/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Espanyol vs Las Palmas" tvg-name="18:30 Spain - La Liga : Espanyol vs Las Palmas - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TV4 Sport Live 1
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium703/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Espanyol vs Las Palmas" tvg-name="18:30 Spain - La Liga : Espanyol vs Las Palmas - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Digi Sport 4 Romania
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium403/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Espanyol vs Las Palmas" tvg-name="18:30 Spain - La Liga : Espanyol vs Las Palmas - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", MAX Sport 4 Bulgaria
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium475/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Espanyol vs Las Palmas" tvg-name="18:30 Spain - La Liga : Espanyol vs Las Palmas - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport Laliga
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium415/mono.m3u8
+
+#EXTINF:-1 tvg-id="Canadian Premier League - HFX Wanderers vs Atlético Ottawa" tvg-name="20:00 Canadian Premier League : HFX Wanderers vs Atlético Ottawa - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TSN3
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium113/mono.m3u8
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Milan vs Monza" tvg-name="20:45 Italy - Serie A : Milan vs Monza - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN Zona IT
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium877/mono.m3u8
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Milan vs Monza" tvg-name="20:45 Italy - Serie A : Milan vs Monza - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Paramount+
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium107/mono.m3u8
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Milan vs Monza" tvg-name="20:45 Italy - Serie A : Milan vs Monza - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", CBS Sports Golazo USA
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium910/mono.m3u8
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Milan vs Monza" tvg-name="20:45 Italy - Serie A : Milan vs Monza - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport TV3 Portugal
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium454/mono.m3u8
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Milan vs Monza" tvg-name="20:45 Italy - Serie A : Milan vs Monza - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Eleven Sports 2 Poland
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium72/mono.m3u8
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Milan vs Monza" tvg-name="20:45 Italy - Serie A : Milan vs Monza - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN2 DE
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium427/mono.m3u8
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Milan vs Monza" tvg-name="20:45 Italy - Serie A : Milan vs Monza - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", MATCH! Futbol 1 Russia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium136/mono.m3u8
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Milan vs Monza" tvg-name="20:45 Italy - Serie A : Milan vs Monza - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Premium 2 Serbia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium135/mono.m3u8
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Milan vs Monza" tvg-name="20:45 Italy - Serie A : Milan vs Monza - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN2 Mexico
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium926/mono.m3u8
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Milan vs Monza" tvg-name="20:45 Italy - Serie A : Milan vs Monza - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Cytavision Sports 6 Cyprus
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium916/mono.m3u8
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Milan vs Monza" tvg-name="20:45 Italy - Serie A : Milan vs Monza - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Cosmote Sport 2 Greece
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium623/mono.m3u8
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Milan vs Monza" tvg-name="20:45 Italy - Serie A : Milan vs Monza - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Sport 4 Croatia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium580/mono.m3u8
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Milan vs Monza" tvg-name="20:45 Italy - Serie A : Milan vs Monza - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TV4 Fotball
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium747/mono.m3u8
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Milan vs Monza" tvg-name="20:45 Italy - Serie A : Milan vs Monza - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", MAX Sport 3 Bulgaria
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium474/mono.m3u8
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Milan vs Monza" tvg-name="20:45 Italy - Serie A : Milan vs Monza - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN2 Brazil
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium82/mono.m3u8
+
+#EXTINF:-1 tvg-id="Brazil - Serie B - Athletico-PR vs Athletic Club" tvg-name="21:00 Brazil - Serie B : Athletico-PR vs Athletic Club - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN Brazil
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium81/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Deportivo Alavés vs Osasuna" tvg-name="21:00 Spain - La Liga : Deportivo Alavés vs Osasuna - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", M+ LALIGA TV 2
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium8/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Deportivo Alavés vs Osasuna" tvg-name="21:00 Spain - La Liga : Deportivo Alavés vs Osasuna - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN+ USA
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium151/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Deportivo Alavés vs Osasuna" tvg-name="21:00 Spain - La Liga : Deportivo Alavés vs Osasuna - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN Eleven 2 Portugal
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium456/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Deportivo Alavés vs Osasuna" tvg-name="21:00 Spain - La Liga : Deportivo Alavés vs Osasuna - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", CANAL+ Sport Poland
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium48/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Deportivo Alavés vs Osasuna" tvg-name="21:00 Spain - La Liga : Deportivo Alavés vs Osasuna - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports MAX 4 France
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium494/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Deportivo Alavés vs Osasuna" tvg-name="21:00 Spain - La Liga : Deportivo Alavés vs Osasuna - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SportsMax
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium152/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Deportivo Alavés vs Osasuna" tvg-name="21:00 Spain - La Liga : Deportivo Alavés vs Osasuna - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Nova Sports 1 Greece
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium631/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Deportivo Alavés vs Osasuna" tvg-name="21:00 Spain - La Liga : Deportivo Alavés vs Osasuna - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TV4 Sport Live 2
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium704/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Deportivo Alavés vs Osasuna" tvg-name="21:00 Spain - La Liga : Deportivo Alavés vs Osasuna - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Sport 3 Serbia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium431/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Deportivo Alavés vs Osasuna" tvg-name="21:00 Spain - La Liga : Deportivo Alavés vs Osasuna - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Digi Sport 4 Romania
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium403/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Deportivo Alavés vs Osasuna" tvg-name="21:00 Spain - La Liga : Deportivo Alavés vs Osasuna - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports 3 Malaysia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium714/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Deportivo Alavés vs Osasuna" tvg-name="21:00 Spain - La Liga : Deportivo Alavés vs Osasuna - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport Variety 2
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium417/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Getafe vs Celta de Vigo" tvg-name="21:00 Spain - La Liga : Getafe vs Celta de Vigo - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", M+ LALIGA TV
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium108/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Getafe vs Celta de Vigo" tvg-name="21:00 Spain - La Liga : Getafe vs Celta de Vigo - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN+ USA
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium153/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Getafe vs Celta de Vigo" tvg-name="21:00 Spain - La Liga : Getafe vs Celta de Vigo - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Now Sports 2
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium27/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Getafe vs Celta de Vigo" tvg-name="21:00 Spain - La Liga : Getafe vs Celta de Vigo - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN Eleven 3 Portugal
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium457/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Getafe vs Celta de Vigo" tvg-name="21:00 Spain - La Liga : Getafe vs Celta de Vigo - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Eleven Sports 3 Poland
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium428/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Getafe vs Celta de Vigo" tvg-name="21:00 Spain - La Liga : Getafe vs Celta de Vigo - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports 2 France
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium117/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Getafe vs Celta de Vigo" tvg-name="21:00 Spain - La Liga : Getafe vs Celta de Vigo - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Ziggo Sport 2 NL
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium398/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Getafe vs Celta de Vigo" tvg-name="21:00 Spain - La Liga : Getafe vs Celta de Vigo - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", MATCH! Futbol 2 Russia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium137/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Getafe vs Celta de Vigo" tvg-name="21:00 Spain - La Liga : Getafe vs Celta de Vigo - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Sport 2 Serbia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium430/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Getafe vs Celta de Vigo" tvg-name="21:00 Spain - La Liga : Getafe vs Celta de Vigo - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Nova Sports Prime Greece
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium638/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Getafe vs Celta de Vigo" tvg-name="21:00 Spain - La Liga : Getafe vs Celta de Vigo - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", MAX Sport 4 Bulgaria
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium475/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Getafe vs Celta de Vigo" tvg-name="21:00 Spain - La Liga : Getafe vs Celta de Vigo - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Sport 2 Croatia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium433/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Getafe vs Celta de Vigo" tvg-name="21:00 Spain - La Liga : Getafe vs Celta de Vigo - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TV4 Sport Live 1
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium703/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Getafe vs Celta de Vigo" tvg-name="21:00 Spain - La Liga : Getafe vs Celta de Vigo - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports 2 Malaysia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium713/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Getafe vs Celta de Vigo" tvg-name="21:00 Spain - La Liga : Getafe vs Celta de Vigo - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport Variety 3
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium418/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Rayo Vallecano vs Mallorca" tvg-name="21:00 Spain - La Liga : Rayo Vallecano vs Mallorca - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN LaLiga
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium538/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Rayo Vallecano vs Mallorca" tvg-name="21:00 Spain - La Liga : Rayo Vallecano vs Mallorca - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN+ USA
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium154/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Rayo Vallecano vs Mallorca" tvg-name="21:00 Spain - La Liga : Rayo Vallecano vs Mallorca - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Now Sports 3
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium26/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Rayo Vallecano vs Mallorca" tvg-name="21:00 Spain - La Liga : Rayo Vallecano vs Mallorca - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN Eleven 1 Portugal
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium455/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Rayo Vallecano vs Mallorca" tvg-name="21:00 Spain - La Liga : Rayo Vallecano vs Mallorca - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN1 DE
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium426/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Rayo Vallecano vs Mallorca" tvg-name="21:00 Spain - La Liga : Rayo Vallecano vs Mallorca - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Canal+ Sport Poland
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium48/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Rayo Vallecano vs Mallorca" tvg-name="21:00 Spain - La Liga : Rayo Vallecano vs Mallorca - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Ziggo Sport 5 NL
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium383/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Rayo Vallecano vs Mallorca" tvg-name="21:00 Spain - La Liga : Rayo Vallecano vs Mallorca - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports MAX 5 France
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium495/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Rayo Vallecano vs Mallorca" tvg-name="21:00 Spain - La Liga : Rayo Vallecano vs Mallorca - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Digi Sport 2 Romania
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium401/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Rayo Vallecano vs Mallorca" tvg-name="21:00 Spain - La Liga : Rayo Vallecano vs Mallorca - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Sport 1 Serbia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium429/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Rayo Vallecano vs Mallorca" tvg-name="21:00 Spain - La Liga : Rayo Vallecano vs Mallorca - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", MATCH! Futbol 3 Russia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium138/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Rayo Vallecano vs Mallorca" tvg-name="21:00 Spain - La Liga : Rayo Vallecano vs Mallorca - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Nova Sports 2 Greece
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium632/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Rayo Vallecano vs Mallorca" tvg-name="21:00 Spain - La Liga : Rayo Vallecano vs Mallorca - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport Laliga
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium415/mono.m3u8
+
+#EXTINF:-1 tvg-id="Canadian Premier League - Pacific vs Forge" tvg-name="23:00 Canadian Premier League : Pacific vs Forge - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Fox Soccer Plus
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium756/mono.m3u8
+
+#EXTINF:-1 tvg-id="Hurkacz H. vs Djokovic N. - Hurkacz H. vs Djokovic N." tvg-name="15:00 Hurkacz H. vs Djokovic N. - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="ATP - GENEVA", Tennis Stream
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium40/mono.m3u8
+
+#EXTINF:-1 tvg-id="Samsonova L. vs Rybakina E. - Samsonova L. vs Rybakina E." tvg-name="14:00 Samsonova L. vs Rybakina E. - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="WTA - STRASBOURG", Tennis Stream
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium46/mono.m3u8
+
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Tennis Channel
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium40/mono.m3u8
+
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports Tennis UK
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium46/mono.m3u8
+
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN5
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium115/mono.m3u8
+
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports Tennis DE
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium884/mono.m3u8
+
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 2 Malaysia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium713/mono.m3u8
+
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS Australia 1
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium491/mono.m3u8
+
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS Australia 2
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium492/mono.m3u8
+
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TV4 Tennis
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium701/mono.m3u8
+
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Polsat Sport 1 Poland
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium47/mono.m3u8
+
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Cosmote Sport 7
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium628/mono.m3u8
+
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Nova Sports 6 Greece
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium636/mono.m3u8
+
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Movistar Deportes 2 Spain
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium438/mono.m3u8
+
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Cytavision Sports 5 Cyprus
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium915/mono.m3u8
+
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Max Sport 1 Bulgaria
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium472/mono.m3u8
+
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Arena Premium 3 Serbia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium139/mono.m3u8
+
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 1 NL
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium393/mono.m3u8
+
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 France
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium773/mono.m3u8
+
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 4 NL
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium396/mono.m3u8
+
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 5 NL
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium383/mono.m3u8
+
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub HD Croatia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium453/mono.m3u8
+
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Digi Sport 4 Romania
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium403/mono.m3u8
+
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Max Sport 3 Bulgaria
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium474/mono.m3u8
+
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 2 Croatia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium102/mono.m3u8
+
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 1 Croatia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium101/mono.m3u8
+
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport 5 Gold Israel
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium148/mono.m3u8
+
+#EXTINF:-1 tvg-id="ATP 500 Hamburg - Final" tvg-name="14:30 ATP 500 Hamburg: Final - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub HD Croatia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium453/mono.m3u8
+
+#EXTINF:-1 tvg-id="ATP 250 Geneva - FINALS" tvg-name="15:00 ATP 250 Geneva: FINALS - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 2 Croatia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium102/mono.m3u8
+
+#EXTINF:-1 tvg-id="Formula 3 - Tag Heuer Monaco Grand Prix - Sprint Race" tvg-name="10:00 Formula 3 : Tag Heuer Monaco Grand Prix - Sprint Race - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sports F1 UK
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium60/mono.m3u8
+
+#EXTINF:-1 tvg-id="Formula 3 - Tag Heuer Monaco Grand Prix - Sprint Race" tvg-name="10:00 Formula 3 : Tag Heuer Monaco Grand Prix - Sprint Race - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport F1 DE
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium274/mono.m3u8
+
+#EXTINF:-1 tvg-id="Formula 3 - Tag Heuer Monaco Grand Prix - Sprint Race" tvg-name="10:00 Formula 3 : Tag Heuer Monaco Grand Prix - Sprint Race - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", DAZN F1 ES
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium537/mono.m3u8
+
+#EXTINF:-1 tvg-id="Formula 3 - Tag Heuer Monaco Grand Prix - Sprint Race" tvg-name="10:00 Formula 3 : Tag Heuer Monaco Grand Prix - Sprint Race - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sports F1 Italy
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium577/mono.m3u8
+
+#EXTINF:-1 tvg-id="Formula 3 - Tag Heuer Monaco Grand Prix - Sprint Race" tvg-name="10:00 Formula 3 : Tag Heuer Monaco Grand Prix - Sprint Race - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", ANT+ F1 Greece
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium774/mono.m3u8
+
+#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Free Practice 2" tvg-name="10:30 MotoGP : Storbritanniens Grand Prix Free Practice 2 - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TNT Sports 2 UK
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium32/mono.m3u8
+
+#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Free Practice 2" tvg-name="10:30 MotoGP : Storbritanniens Grand Prix Free Practice 2 - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport MotoGP Italy
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium575/mono.m3u8
+
+#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Free Practice 2" tvg-name="10:30 MotoGP : Storbritanniens Grand Prix Free Practice 2 - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", CANAL+ MotoGP France
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium271/mono.m3u8
+
+#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Free Practice 2" tvg-name="10:30 MotoGP : Storbritanniens Grand Prix Free Practice 2 - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport Mix DE
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium557/mono.m3u8
+
+#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Free Practice 2" tvg-name="10:30 MotoGP : Storbritanniens Grand Prix Free Practice 2 - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Canal+ Sport 360
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium464/mono.m3u8
+
+#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Free Practice 2" tvg-name="10:30 MotoGP : Storbritanniens Grand Prix Free Practice 2 - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport Top Event DE
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium556/mono.m3u8
+
+#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Free Practice 2" tvg-name="10:30 MotoGP : Storbritanniens Grand Prix Free Practice 2 - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", DAZN1 ES
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium445/mono.m3u8
+
+#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Free Practice 2" tvg-name="10:30 MotoGP : Storbritanniens Grand Prix Free Practice 2 - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Canal+ Sport 360
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium464/mono.m3u8
+
+#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Free Practice 2" tvg-name="10:30 MotoGP : Storbritanniens Grand Prix Free Practice 2 - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sport TV4 Portugal
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium289/mono.m3u8
+
+#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Free Practice 2" tvg-name="10:30 MotoGP : Storbritanniens Grand Prix Free Practice 2 - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", ESPN Argentina
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium149/mono.m3u8
+
+#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Free Practice 2" tvg-name="10:30 MotoGP : Storbritanniens Grand Prix Free Practice 2 - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Cosmote Sport 5 Greece
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium626/mono.m3u8
+
+#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Free Practice 2" tvg-name="10:30 MotoGP : Storbritanniens Grand Prix Free Practice 2 - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Arena Premium 3 Serbia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium139/mono.m3u8
+
+#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Free Practice 2" tvg-name="10:30 MotoGP : Storbritanniens Grand Prix Free Practice 2 - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Cytavision Sports 6
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium916/mono.m3u8
+
+#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Free Practice 2" tvg-name="10:30 MotoGP : Storbritanniens Grand Prix Free Practice 2 - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sport Klub 3 Croatia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium103/mono.m3u8
+
+#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Free Practice 2" tvg-name="10:30 MotoGP : Storbritanniens Grand Prix Free Practice 2 - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Ziggo Sport 1 NL
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium393/mono.m3u8
+
+#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Free Practice 2" tvg-name="10:30 MotoGP : Storbritanniens Grand Prix Free Practice 2 - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", MAX Sport 2 Bulgaria
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium473/mono.m3u8
+
+#EXTINF:-1 tvg-id="Moto3 - Storbritanniens Grand Prix Free Practice 2" tvg-name="10:35 Moto3 : Storbritanniens Grand Prix Free Practice 2 - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport MotoGP Italy
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium575/mono.m3u8
+
+#EXTINF:-1 tvg-id="Moto3 - Storbritanniens Grand Prix Free Practice 2" tvg-name="10:35 Moto3 : Storbritanniens Grand Prix Free Practice 2 - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", CANAL+ MotoGP France
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium271/mono.m3u8
+
+#EXTINF:-1 tvg-id="Moto2 - Storbritanniens Grand Prix Free Practice 2" tvg-name="11:15 Moto2 : Storbritanniens Grand Prix Free Practice 2 - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport MotoGP Italy
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium575/mono.m3u8
+
+#EXTINF:-1 tvg-id="Moto2 - Storbritanniens Grand Prix Free Practice 2" tvg-name="11:15 Moto2 : Storbritanniens Grand Prix Free Practice 2 - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", CANAL+ MotoGP France
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium271/mono.m3u8
+
+#EXTINF:-1 tvg-id="Formula 1 - Tag Heuer Monaco Grand Prix - Practice 3" tvg-name="12:30 Formula 1 : Tag Heuer Monaco Grand Prix - Practice 3 - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sports F1 UK
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium60/mono.m3u8
+
+#EXTINF:-1 tvg-id="Formula 1 - Tag Heuer Monaco Grand Prix - Practice 3" tvg-name="12:30 Formula 1 : Tag Heuer Monaco Grand Prix - Practice 3 - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport F1 DE
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium274/mono.m3u8
+
+#EXTINF:-1 tvg-id="Formula 1 - Tag Heuer Monaco Grand Prix - Practice 3" tvg-name="12:30 Formula 1 : Tag Heuer Monaco Grand Prix - Practice 3 - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", DAZN F1 ES
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium537/mono.m3u8
+
+#EXTINF:-1 tvg-id="Formula 1 - Tag Heuer Monaco Grand Prix - Practice 3" tvg-name="12:30 Formula 1 : Tag Heuer Monaco Grand Prix - Practice 3 - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sports F1 Italy
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium577/mono.m3u8
+
+#EXTINF:-1 tvg-id="Formula 1 - Tag Heuer Monaco Grand Prix - Practice 3" tvg-name="12:30 Formula 1 : Tag Heuer Monaco Grand Prix - Practice 3 - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", ANT+ F1 Greece
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium774/mono.m3u8
+
+#EXTINF:-1 tvg-id="Formula 2 - Tag Heuer Monaco Grand Prix - Sprint Race" tvg-name="14:00 Formula 2 : Tag Heuer Monaco Grand Prix - Sprint Race - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sports F1 UK
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium60/mono.m3u8
+
+#EXTINF:-1 tvg-id="Formula 2 - Tag Heuer Monaco Grand Prix - Sprint Race" tvg-name="14:00 Formula 2 : Tag Heuer Monaco Grand Prix - Sprint Race - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport F1 DE
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium274/mono.m3u8
+
+#EXTINF:-1 tvg-id="Formula 2 - Tag Heuer Monaco Grand Prix - Sprint Race" tvg-name="14:00 Formula 2 : Tag Heuer Monaco Grand Prix - Sprint Race - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", DAZN F1 ES
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium537/mono.m3u8
+
+#EXTINF:-1 tvg-id="Formula 2 - Tag Heuer Monaco Grand Prix - Sprint Race" tvg-name="14:00 Formula 2 : Tag Heuer Monaco Grand Prix - Sprint Race - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sports F1 Italy
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium577/mono.m3u8
+
+#EXTINF:-1 tvg-id="Formula 2 - Tag Heuer Monaco Grand Prix - Sprint Race" tvg-name="14:00 Formula 2 : Tag Heuer Monaco Grand Prix - Sprint Race - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", ANT+ F1 Greece
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium774/mono.m3u8
+
+#EXTINF:-1 tvg-id="Moto3 - Storbritanniens Grand Prix Qualifying" tvg-name="14:45 Moto3 : Storbritanniens Grand Prix Qualifying - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport MotoGP Italy
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium575/mono.m3u8
+
+#EXTINF:-1 tvg-id="Moto3 - Storbritanniens Grand Prix Qualifying" tvg-name="14:45 Moto3 : Storbritanniens Grand Prix Qualifying - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", CANAL+ MotoGP France
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium271/mono.m3u8
+
+#EXTINF:-1 tvg-id="Moto2 - Storbritanniens Grand Prix Qualifying" tvg-name="15:40 Moto2 : Storbritanniens Grand Prix Qualifying - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport MotoGP Italy
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium575/mono.m3u8
+
+#EXTINF:-1 tvg-id="Moto2 - Storbritanniens Grand Prix Qualifying" tvg-name="15:40 Moto2 : Storbritanniens Grand Prix Qualifying - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", CANAL+ MotoGP France
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium271/mono.m3u8
+
+#EXTINF:-1 tvg-id="Formula 1 - Tag Heuer Monaco Grand Prix - Qualifying" tvg-name="16:00 Formula 1 : Tag Heuer Monaco Grand Prix - Qualifying - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sports F1 UK
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium60/mono.m3u8
+
+#EXTINF:-1 tvg-id="Formula 1 - Tag Heuer Monaco Grand Prix - Qualifying" tvg-name="16:00 Formula 1 : Tag Heuer Monaco Grand Prix - Qualifying - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport F1 DE
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium274/mono.m3u8
+
+#EXTINF:-1 tvg-id="Formula 1 - Tag Heuer Monaco Grand Prix - Qualifying" tvg-name="16:00 Formula 1 : Tag Heuer Monaco Grand Prix - Qualifying - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", DAZN F1 ES
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium537/mono.m3u8
+
+#EXTINF:-1 tvg-id="Formula 1 - Tag Heuer Monaco Grand Prix - Qualifying" tvg-name="16:00 Formula 1 : Tag Heuer Monaco Grand Prix - Qualifying - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sports F1 Italy
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium577/mono.m3u8
+
+#EXTINF:-1 tvg-id="Formula 1 - Tag Heuer Monaco Grand Prix - Qualifying" tvg-name="16:00 Formula 1 : Tag Heuer Monaco Grand Prix - Qualifying - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", ANT+ F1 Greece
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium774/mono.m3u8
+
+#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Sprint Race" tvg-name="17:00 MotoGP : Storbritanniens Grand Prix Sprint Race - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TNT Sports 2 UK
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium32/mono.m3u8
+
+#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Sprint Race" tvg-name="17:00 MotoGP : Storbritanniens Grand Prix Sprint Race - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Fox Sports 1 USA
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium39/mono.m3u8
+
+#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Sprint Race" tvg-name="17:00 MotoGP : Storbritanniens Grand Prix Sprint Race - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport MotoGP Italy
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium575/mono.m3u8
+
+#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Sprint Race" tvg-name="17:00 MotoGP : Storbritanniens Grand Prix Sprint Race - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", CANAL+ MotoGP France
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium271/mono.m3u8
+
+#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Sprint Race" tvg-name="17:00 MotoGP : Storbritanniens Grand Prix Sprint Race - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport Mix DE
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium557/mono.m3u8
+
+#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Sprint Race" tvg-name="17:00 MotoGP : Storbritanniens Grand Prix Sprint Race - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Canal+ Sport 360
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium464/mono.m3u8
+
+#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Sprint Race" tvg-name="17:00 MotoGP : Storbritanniens Grand Prix Sprint Race - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport Top Event DE
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium556/mono.m3u8
+
+#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Sprint Race" tvg-name="17:00 MotoGP : Storbritanniens Grand Prix Sprint Race - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", DAZN1 ES
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium445/mono.m3u8
+
+#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Sprint Race" tvg-name="17:00 MotoGP : Storbritanniens Grand Prix Sprint Race - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Canal+ Sport 360
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium464/mono.m3u8
+
+#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Sprint Race" tvg-name="17:00 MotoGP : Storbritanniens Grand Prix Sprint Race - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sport TV4 Portugal
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium289/mono.m3u8
+
+#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Sprint Race" tvg-name="17:00 MotoGP : Storbritanniens Grand Prix Sprint Race - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", ESPN Argentina
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium149/mono.m3u8
+
+#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Sprint Race" tvg-name="17:00 MotoGP : Storbritanniens Grand Prix Sprint Race - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Cosmote Sport 5 Greece
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium626/mono.m3u8
+
+#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Sprint Race" tvg-name="17:00 MotoGP : Storbritanniens Grand Prix Sprint Race - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Arena Premium 3 Serbia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium139/mono.m3u8
+
+#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Sprint Race" tvg-name="17:00 MotoGP : Storbritanniens Grand Prix Sprint Race - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Cytavision Sports 6
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium916/mono.m3u8
+
+#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Sprint Race" tvg-name="17:00 MotoGP : Storbritanniens Grand Prix Sprint Race - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sport Klub 3 Croatia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium103/mono.m3u8
+
+#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Sprint Race" tvg-name="17:00 MotoGP : Storbritanniens Grand Prix Sprint Race - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Ziggo Sport 1 NL
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium393/mono.m3u8
+
+#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Sprint Race" tvg-name="17:00 MotoGP : Storbritanniens Grand Prix Sprint Race - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", MAX Sport 2 Bulgaria
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium473/mono.m3u8
+
+#EXTINF:-1 tvg-id="Ferrari Challenge - Ferrari Challenge" tvg-name="23:00 Ferrari Challenge - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sports F1 UK
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium60/mono.m3u8
+
+#EXTINF:-1 tvg-id="FIBA 3x3 World Tour - Marseille, Dan 1" tvg-name="13:00 FIBA 3x3 World Tour : Marseille, Dan 1 - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena Sport 9 Serbia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium944/mono.m3u8
+
+#EXTINF:-1 tvg-id="Africa League - Mbb vs. Nairobi City Thunder" tvg-name="14:30 Africa League : Mbb vs. Nairobi City Thunder - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", NBA TV USA
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium404/mono.m3u8
+
+#EXTINF:-1 tvg-id="National Basketball Championship Betclic League Play Off - Semi-Finals - Game 2 - National Basketball Championship Betclic League Play Off - Semi-Finals - Game 2" tvg-name="15:55 National Basketball Championship Betclic League Play Off - Semi-Finals - Game 2 - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", RTP 2 Portugal
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium720/mono.m3u8
+
+#EXTINF:-1 tvg-id="Lithuanian League - Wolves vs Jonavos" tvg-name="15:50 Lithuanian League : Wolves vs Jonavos - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport Klub 7 Croatia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium25/mono.m3u8
+
+#EXTINF:-1 tvg-id="German League - Playoffs - 1/4 Final (G3) : Bayern vs Mitteldeutscher" tvg-name="16:30 German League: Playoffs - 1/4 Final (G3) : Bayern vs Mitteldeutscher - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport Klub 10 Croatia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium28/mono.m3u8
+
+#EXTINF:-1 tvg-id="Men's basketball - ORLEN Basket League quarter-final" tvg-name="17:30 Men's basketball: ORLEN Basket League quarter-final - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Polsat Sport 3 Poland
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium129/mono.m3u8
+
+#EXTINF:-1 tvg-id="Basketball Africa League - Al Ahli Tripoli vs Rwandan Patriotic Army" tvg-name="17:30 Basketball Africa League : Al Ahli Tripoli vs Rwandan Patriotic Army - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", NBA TV USA
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium404/mono.m3u8
+
+#EXTINF:-1 tvg-id="Italy Lega A - Olimpia Milano vs Trento" tvg-name="18:00 Italy Lega A : Olimpia Milano vs Trento - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Eurosport 2 IT
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium879/mono.m3u8
+
+#EXTINF:-1 tvg-id="Italy Lega A - Olimpia Milano vs Trento" tvg-name="18:00 Italy Lega A : Olimpia Milano vs Trento - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Cosmote Sport 4 Greece
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium625/mono.m3u8
+
+#EXTINF:-1 tvg-id="Italy Lega A - Olimpia Milano vs Trento" tvg-name="18:00 Italy Lega A : Olimpia Milano vs Trento - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 4 Israel
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium143/mono.m3u8
+
+#EXTINF:-1 tvg-id="ACB - Club Joventut Badalona vs. Basket Zaragoza 2002" tvg-name="18:00 ACB : Club Joventut Badalona vs. Basket Zaragoza 2002 - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Movistar Deportes Spain
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium436/mono.m3u8
+
+#EXTINF:-1 tvg-id="ACB - MoraBanc Andorra vs Manresa" tvg-name="18:00 ACB : MoraBanc Andorra vs Manresa - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Movistar Sports 2 Spain
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium438/mono.m3u8
+
+#EXTINF:-1 tvg-id="ACB - Baskonia Vitoria-Gasteiz vs. Bilbao Basket" tvg-name="18:00 ACB : Baskonia Vitoria-Gasteiz vs. Bilbao Basket - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", #Vamos Spain
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium521/mono.m3u8
+
+#EXTINF:-1 tvg-id="ACB - Baskonia Vitoria-Gasteiz vs. Bilbao Basket" tvg-name="18:00 ACB : Baskonia Vitoria-Gasteiz vs. Bilbao Basket - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Nova Sport Bulgaria
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium468/mono.m3u8
+
+#EXTINF:-1 tvg-id="ACB - Baskonia Vitoria-Gasteiz vs. Bilbao Basket" tvg-name="18:00 ACB : Baskonia Vitoria-Gasteiz vs. Bilbao Basket - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena Sport 4 Serbia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium581/mono.m3u8
+
+#EXTINF:-1 tvg-id="ACB - Baskonia Vitoria-Gasteiz vs. Bilbao Basket" tvg-name="18:00 ACB : Baskonia Vitoria-Gasteiz vs. Bilbao Basket - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Cosmote Sport 7
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium628/mono.m3u8
+
+#EXTINF:-1 tvg-id="ACB - Baskonia Vitoria-Gasteiz vs. Bilbao Basket" tvg-name="18:00 ACB : Baskonia Vitoria-Gasteiz vs. Bilbao Basket - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport Klub 2 Croatia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium102/mono.m3u8
+
+#EXTINF:-1 tvg-id="BBL - Ulm vs Alba Berlin" tvg-name="18:00 BBL : Ulm vs Alba Berlin - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 5 Plus Israel
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium145/mono.m3u8
+
+#EXTINF:-1 tvg-id="Bulgaria NBL - Rilski Sportist vs. Cherno More IG" tvg-name="18:15 Bulgaria NBL : Rilski Sportist vs. Cherno More IG - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Max Sport 2 Bulgaria
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium473/mono.m3u8
+
+#EXTINF:-1 tvg-id="WNBA - Indiana Fever W vs New York Liberty W" tvg-name="19:00 WNBA : Indiana Fever W vs New York Liberty W - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TNT Sports 3 UK
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium33/mono.m3u8
+
+#EXTINF:-1 tvg-id="WNBA - Indiana Fever W vs New York Liberty W" tvg-name="19:00 WNBA : Indiana Fever W vs New York Liberty W - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", CBS USA
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium52/mono.m3u8
+
+#EXTINF:-1 tvg-id="WNBA - Indiana Fever W vs New York Liberty W" tvg-name="19:00 WNBA : Indiana Fever W vs New York Liberty W - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", CBSNY USA
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium767/mono.m3u8
+
+#EXTINF:-1 tvg-id="WNBA - Indiana Fever W vs New York Liberty W" tvg-name="19:00 WNBA : Indiana Fever W vs New York Liberty W - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Cosmote Sport 8 Greece
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium629/mono.m3u8
+
+#EXTINF:-1 tvg-id="WNBA - Indiana Fever W vs New York Liberty W" tvg-name="19:00 WNBA : Indiana Fever W vs New York Liberty W - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TV4 Sportkanalen
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium707/mono.m3u8
+
+#EXTINF:-1 tvg-id="Basketball 3x3 Pro Tour - Trogir" tvg-name="19:00 Basketball 3x3 Pro Tour: Trogir - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport Klub 3 Croatia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium103/mono.m3u8
+
+#EXTINF:-1 tvg-id="Süper Ligi - Anadolu Efes SK vs. Besiktas JK" tvg-name="19:30 Süper Ligi : Anadolu Efes SK vs. Besiktas JK - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", beIN SPORTS 5 Turkey
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium16/mono.m3u8
+
+#EXTINF:-1 tvg-id="Süper Ligi - Anadolu Efes SK vs. Besiktas JK" tvg-name="19:30 Süper Ligi : Anadolu Efes SK vs. Besiktas JK - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Cosmote Sport 5 Greece
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium626/mono.m3u8
+
+#EXTINF:-1 tvg-id="Italy Lega A - BTrieste vs Brescia" tvg-name="20:40 Italy Lega A : BTrieste vs Brescia - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Eurosport 2 IT
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium879/mono.m3u8
+
+#EXTINF:-1 tvg-id="Italy Lega A - BTrieste vs Brescia" tvg-name="20:40 Italy Lega A : BTrieste vs Brescia - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena Sport 6 Serbia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium941/mono.m3u8
+
+#EXTINF:-1 tvg-id="ACB - Murcia vs Leyma Coruna" tvg-name="20:45 ACB : Murcia vs Leyma Coruna - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Movistar Deportes Spain
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium436/mono.m3u8
+
+#EXTINF:-1 tvg-id="ACB - Murcia vs Leyma Coruna" tvg-name="20:45 ACB : Murcia vs Leyma Coruna - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Cosmote Sport 7 Greece
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium628/mono.m3u8
+
+#EXTINF:-1 tvg-id="ACB - Murcia vs Leyma Coruna" tvg-name="20:45 ACB : Murcia vs Leyma Coruna - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Diema Sport 2 Bulgaria
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium466/mono.m3u8
+
+#EXTINF:-1 tvg-id="ACB - Murcia vs Leyma Coruna" tvg-name="20:45 ACB : Murcia vs Leyma Coruna - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport Klub 2 Croatia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium102/mono.m3u8
+
+#EXTINF:-1 tvg-id="WNBA - Atlanta Dream W vs Dallas Wings W" tvg-name="21:00 WNBA : Atlanta Dream W vs Dallas Wings W - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", CBS Sports Network USA
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium308/mono.m3u8
+
+#EXTINF:-1 tvg-id="WNBA - Atlanta Dream W vs Dallas Wings W" tvg-name="21:00 WNBA : Atlanta Dream W vs Dallas Wings W - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Cosmote Sport 8
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium629/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Home Feed
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium4/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Away Feed
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium5/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ABCNY USA
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium766/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ESPNews USA
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium288/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TNT Sports 1 UK
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium31/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ABC USA
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium51/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ESPNews USA
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium288/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TSN4
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium114/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TSN5
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium115/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TSN1
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium111/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Movistar Deportes Spain
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium436/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", M+ #Vamos ES
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium521/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport TV2 Portugal
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium74/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", CANAL+ Sport Poland
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium48/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", beIN Sports 1 France
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium116/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ESPN 1 NL
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium379/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ESPN 2 Mexico
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium926/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Cytavision Sports 6 Cyprus
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium916/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena 1 Premium Serbia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium134/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Cosmote Sport 4 Greece
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium625/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena Sport 1 Croatia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium432/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TV2 Sport X Denmark
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium808/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TV4 Sportkanalen
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium707/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ESPN2 Argentina
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium150/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Diema sport 3 Bulgaria
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium467/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ESPN BR
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium81/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 5 Israel
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium144/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 5 Plus Israel
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium145/mono.m3u8
+
+#EXTINF:-1 tvg-id="World Cup | Salt Lake City Women's Bouldering | Final - World Cup | Salt Lake City Women's Bouldering | Final" tvg-name="01:00 World Cup | Salt Lake City Women's Bouldering | Final - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Climbing", EuroSport 1 Italy
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium878/mono.m3u8
+
+#EXTINF:-1 tvg-id="Piazza di Siena 2025-Small Grand Prix - Piazza di Siena 2025-Small Grand Prix" tvg-name="14:00 Piazza di Siena 2025-Small Grand Prix - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Equestrian", RAI Sport 1 Italy
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium882/mono.m3u8
+
+#EXTINF:-1 tvg-id="Piazza di Siena 2025-Small Grand Prix - Piazza di Siena 2025-Small Grand Prix" tvg-name="19:00 Piazza di Siena 2025-Small Grand Prix - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Equestrian", Rai 2 Italy
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium851/mono.m3u8
+
+#EXTINF:-1 tvg-id="Handball-Bundesliga Women - Blomberg-Lippe W vs Ludwigsburg W" tvg-name="19:00 Handball-Bundesliga Women : Blomberg-Lippe W vs Ludwigsburg W - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Handball", Eurosport 1 DE
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium235/mono.m3u8
+
+#EXTINF:-1 tvg-id="Women's Friendly tournament in Koszalin - Bulgaria vs France" tvg-name="15:30 Women's Friendly tournament in Koszalin : Bulgaria vs France - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport 1 Poland
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium47/mono.m3u8
+
+#EXTINF:-1 tvg-id="Women's Friendly tournament in Koszalin - Poland vs Sweden" tvg-name="19:00 Women's Friendly tournament in Koszalin : Poland vs Sweden - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport 1 Poland
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium47/mono.m3u8
+
+#EXTINF:-1 tvg-id="AVP Beach Volleyball League Week 1 - Palm Beach Live - AVP Beach Volleyball League Week 1 - Palm Beach Live" tvg-name="02:00 AVP Beach Volleyball League Week 1 - Palm Beach Live - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", CW USA
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium300/mono.m3u8
+
+#EXTINF:-1 tvg-id="AVP Beach Volleyball League Week 1 - Palm Beach Live - AVP Beach Volleyball League Week 1 - Palm Beach Live" tvg-name="02:00 AVP Beach Volleyball League Week 1 - Palm Beach Live - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", CW PIX 11 USA
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium280/mono.m3u8
 
