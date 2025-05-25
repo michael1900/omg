@@ -329,6 +329,12 @@ https://zekonew.newkso.ru/zeko/premium447/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium152/mono.m3u8
 
+#EXTINF:-1 tvg-id="England - Premier League - Fulham vs Manchester City" tvg-name="17:00 England - Premier League : Fulham vs Manchester City - 25/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN2 Caribbean
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium193/mono.m3u8
+
 #EXTINF:-1 tvg-id="England - Premier League - Fulham vs Manchester City" tvg-name="17:00 England - Premier League : Fulham vs Manchester City - 25/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN Eleven 3 Portugal
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -1738,6 +1744,24 @@ https://dokko1new.newkso.ru/dokko1/premium589/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://dokko1new.newkso.ru/dokko1/premium592/mono.m3u8
+
+#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 1 - Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 1" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 1 - 25/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", SONY TEN 1
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium885/mono.m3u8
+
+#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 1 - Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 1" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 1 - 25/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", SONY TEN 2
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium886/mono.m3u8
+
+#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 1 - Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 1" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 1 - 25/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", SONY TEN 3
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium887/mono.m3u8
 
 #EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 1 - Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 1" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 1 - 25/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 2 Malaysia
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
