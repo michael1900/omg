@@ -1,763 +1,697 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Tanzania Premier League - Simba vs Singida Black Stars" tvg-name="15:00 Tanzania Premier League : Simba vs Singida Black Stars - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Azam Sports 1 HD
+#EXTINF:-1 tvg-id="Austrian Bundesliga - LASK Linz vs Rapid Wien" tvg-name="17:00 Austrian Bundesliga : LASK Linz vs Rapid Wien - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Austria 1
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium1/mono.m3u8
+https://ddy6new.newkso.ru/ddy6/premium559/mono.m3u8
 
-#EXTINF:-1 tvg-id="Egypt - Premier League - Al Ahly vs Pharco" tvg-name="19:00 Egypt - Premier League : Al Ahly vs Pharco - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ON Time Sports
+#EXTINF:-1 tvg-id="Austrian Bundesliga - LASK Linz vs Rapid Wien" tvg-name="17:00 Austrian Bundesliga : LASK Linz vs Rapid Wien - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Sport 1 Serbia
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium3/mono.m3u8
+https://windnew.newkso.ru/wind/premium429/mono.m3u8
 
-#EXTINF:-1 tvg-id="Egypt - Premier League - Ceramica Cleopatra vs Pyramids FC" tvg-name="19:00 Egypt - Premier League : Ceramica Cleopatra vs Pyramids FC - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ON Time Sports 2
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium4/mono.m3u8
-
-#EXTINF:-1 tvg-id="Italy - Serie C - Pescara vs Audace Cerignola" tvg-name="20:00 Italy - Serie C : Pescara vs Audace Cerignola - 28/05/25" tvg-logo="https://skystreaming.stream/content/thumbs/2f43bb88d71b35022964e9ddd8f70da4." group-title="Soccer", Sky Sport 253 IT
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium5/mono.m3u8
-
-#EXTINF:-1 tvg-id="Italy - Serie C - Pescara vs Audace Cerignola" tvg-name="20:00 Italy - Serie C : Pescara vs Audace Cerignola - 28/05/25" tvg-logo="https://skystreaming.stream/content/thumbs/2f43bb88d71b35022964e9ddd8f70da4." group-title="Soccer", Rai Sport 1 IT
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium882/mono.m3u8
-
-#EXTINF:-1 tvg-id="Italy - Serie C - Ternana vs Vicenza" tvg-name="20:00 Italy - Serie C : Ternana vs Vicenza - 28/05/25" tvg-logo="https://skystreaming.stream/content/thumbs/9a2ab4bf9e00d60de1173b0bcec4c905." group-title="Soccer", Sky Sport 252 IT
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium6/mono.m3u8
-
-#EXTINF:-1 tvg-id="UEFA Conference League Final - Real Betis vs Chelsea" tvg-name="21:00 UEFA Conference League Final : Real Betis vs Chelsea - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TNT Sports 1 UK
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium31/mono.m3u8
-
-#EXTINF:-1 tvg-id="UEFA Conference League Final - Real Betis vs Chelsea" tvg-name="21:00 UEFA Conference League Final : Real Betis vs Chelsea - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", CBS Sports Network USA
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium308/mono.m3u8
-
-#EXTINF:-1 tvg-id="UEFA Conference League Final - Real Betis vs Chelsea" tvg-name="21:00 UEFA Conference League Final : Real Betis vs Chelsea - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Movistar Liga de Campeones
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium435/mono.m3u8
-
-#EXTINF:-1 tvg-id="UEFA Conference League Final - Real Betis vs Chelsea" tvg-name="21:00 UEFA Conference League Final : Real Betis vs Chelsea - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Movistar+ Plus
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium437/mono.m3u8
-
-#EXTINF:-1 tvg-id="UEFA Conference League Final - Real Betis vs Chelsea" tvg-name="21:00 UEFA Conference League Final : Real Betis vs Chelsea - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SRF zwei
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium7/mono.m3u8
-
-#EXTINF:-1 tvg-id="UEFA Conference League Final - Real Betis vs Chelsea" tvg-name="21:00 UEFA Conference League Final : Real Betis vs Chelsea - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TUDN USA
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium66/mono.m3u8
-
-#EXTINF:-1 tvg-id="UEFA Conference League Final - Real Betis vs Chelsea" tvg-name="21:00 UEFA Conference League Final : Real Betis vs Chelsea - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport TV5 Portugal
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium290/mono.m3u8
-
-#EXTINF:-1 tvg-id="UEFA Conference League Final - Real Betis vs Chelsea" tvg-name="21:00 UEFA Conference League Final : Real Betis vs Chelsea - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Polsat Sport 1 Poland
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium47/mono.m3u8
-
-#EXTINF:-1 tvg-id="UEFA Conference League Final - Real Betis vs Chelsea" tvg-name="21:00 UEFA Conference League Final : Real Betis vs Chelsea - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TV8 IT
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium8/mono.m3u8
-
-#EXTINF:-1 tvg-id="UEFA Conference League Final - Real Betis vs Chelsea" tvg-name="21:00 UEFA Conference League Final : Real Betis vs Chelsea - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport 251 IT
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium9/mono.m3u8
-
-#EXTINF:-1 tvg-id="UEFA Conference League Final - Real Betis vs Chelsea" tvg-name="21:00 UEFA Conference League Final : Real Betis vs Chelsea - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Nitro DE
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium10/mono.m3u8
-
-#EXTINF:-1 tvg-id="UEFA Conference League Final - Real Betis vs Chelsea" tvg-name="21:00 UEFA Conference League Final : Real Betis vs Chelsea - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Canal+ Foot France
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium463/mono.m3u8
-
-#EXTINF:-1 tvg-id="UEFA Conference League Final - Real Betis vs Chelsea" tvg-name="21:00 UEFA Conference League Final : Real Betis vs Chelsea - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Vodafone Sport
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium260/mono.m3u8
-
-#EXTINF:-1 tvg-id="UEFA Conference League Final - Real Betis vs Chelsea" tvg-name="21:00 UEFA Conference League Final : Real Betis vs Chelsea - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TRT 1 Turkey
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium11/mono.m3u8
-
-#EXTINF:-1 tvg-id="UEFA Conference League Final - Real Betis vs Chelsea" tvg-name="21:00 UEFA Conference League Final : Real Betis vs Chelsea - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Ziggo Sport 1 NL
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium393/mono.m3u8
-
-#EXTINF:-1 tvg-id="UEFA Conference League Final - Real Betis vs Chelsea" tvg-name="21:00 UEFA Conference League Final : Real Betis vs Chelsea - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Digi Sport 1 Romania
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium400/mono.m3u8
-
-#EXTINF:-1 tvg-id="UEFA Conference League Final - Real Betis vs Chelsea" tvg-name="21:00 UEFA Conference League Final : Real Betis vs Chelsea - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Prima Sport 1 Romania
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium583/mono.m3u8
-
-#EXTINF:-1 tvg-id="UEFA Conference League Final - Real Betis vs Chelsea" tvg-name="21:00 UEFA Conference League Final : Real Betis vs Chelsea - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Tipik Belgium
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium12/mono.m3u8
-
-#EXTINF:-1 tvg-id="UEFA Conference League Final - Real Betis vs Chelsea" tvg-name="21:00 UEFA Conference League Final : Real Betis vs Chelsea - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", JOJ Sport Slovakia
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium13/mono.m3u8
-
-#EXTINF:-1 tvg-id="UEFA Conference League Final - Real Betis vs Chelsea" tvg-name="21:00 UEFA Conference League Final : Real Betis vs Chelsea - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ŠTV 1 Slovenia
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium14/mono.m3u8
-
-#EXTINF:-1 tvg-id="UEFA Conference League Final - Real Betis vs Chelsea" tvg-name="21:00 UEFA Conference League Final : Real Betis vs Chelsea - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN Mexico
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium925/mono.m3u8
-
-#EXTINF:-1 tvg-id="UEFA Conference League Final - Real Betis vs Chelsea" tvg-name="21:00 UEFA Conference League Final : Real Betis vs Chelsea - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Fox Sports Mexico
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium929/mono.m3u8
-
-#EXTINF:-1 tvg-id="UEFA Conference League Final - Real Betis vs Chelsea" tvg-name="21:00 UEFA Conference League Final : Real Betis vs Chelsea - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", M4 Sport Hungary
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium265/mono.m3u8
-
-#EXTINF:-1 tvg-id="UEFA Conference League Final - Real Betis vs Chelsea" tvg-name="21:00 UEFA Conference League Final : Real Betis vs Chelsea - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena 1 Premium Serbia
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium134/mono.m3u8
-
-#EXTINF:-1 tvg-id="UEFA Conference League Final - Real Betis vs Chelsea" tvg-name="21:00 UEFA Conference League Final : Real Betis vs Chelsea - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Cosmote Sport 1 Greece
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://dokko1new.newkso.ru/dokko1/premium622/mono.m3u8
-
-#EXTINF:-1 tvg-id="UEFA Conference League Final - Real Betis vs Chelsea" tvg-name="21:00 UEFA Conference League Final : Real Betis vs Chelsea - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Sport 1 Croatia
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium432/mono.m3u8
-
-#EXTINF:-1 tvg-id="UEFA Conference League Final - Real Betis vs Chelsea" tvg-name="21:00 UEFA Conference League Final : Real Betis vs Chelsea - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", VTM 2 Belgium HD
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium15/mono.m3u8
-
-#EXTINF:-1 tvg-id="UEFA Conference League Final - Real Betis vs Chelsea" tvg-name="21:00 UEFA Conference League Final : Real Betis vs Chelsea - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", MAX Sport 3 Bulgaria
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium474/mono.m3u8
-
-#EXTINF:-1 tvg-id="UEFA Conference League Final - Real Betis vs Chelsea" tvg-name="21:00 UEFA Conference League Final : Real Betis vs Chelsea - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", M4 Sports Hungary
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium265/mono.m3u8
-
-#EXTINF:-1 tvg-id="UEFA Conference League Final - Real Betis vs Chelsea" tvg-name="21:00 UEFA Conference League Final : Real Betis vs Chelsea - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport 2 Digitalb
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium25/mono.m3u8
-
-#EXTINF:-1 tvg-id="UEFA Conference League Final - Real Betis vs Chelsea" tvg-name="21:00 UEFA Conference League Final : Real Betis vs Chelsea - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Okko Sport Russia
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium26/mono.m3u8
-
-#EXTINF:-1 tvg-id="UEFA Conference League Final - Real Betis vs Chelsea" tvg-name="21:00 UEFA Conference League Final : Real Betis vs Chelsea - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", bTV Action Bulgaria
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium481/mono.m3u8
-
-#EXTINF:-1 tvg-id="UEFA Conference League Final - Real Betis vs Chelsea" tvg-name="21:00 UEFA Conference League Final : Real Betis vs Chelsea - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports 3 Malaysia
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium714/mono.m3u8
-
-#EXTINF:-1 tvg-id="UEFA Conference League Final - Real Betis vs Chelsea" tvg-name="21:00 UEFA Conference League Final : Real Betis vs Chelsea - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN Argentina
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium149/mono.m3u8
-
-#EXTINF:-1 tvg-id="UEFA Conference League Final - Real Betis vs Chelsea" tvg-name="21:00 UEFA Conference League Final : Real Betis vs Chelsea - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport Premier League
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium414/mono.m3u8
-
-#EXTINF:-1 tvg-id="UEFA Conference League Final - Real Betis vs Chelsea" tvg-name="21:00 UEFA Conference League Final : Real Betis vs Chelsea - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport MaXimo 1
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://dokko1new.newkso.ru/dokko1/premium572/mono.m3u8
-
-#EXTINF:-1 tvg-id="UEFA Conference League Final - Real Betis vs Chelsea" tvg-name="21:00 UEFA Conference League Final : Real Betis vs Chelsea - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport Grandstand
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium412/mono.m3u8
-
-#EXTINF:-1 tvg-id="UEFA Conference League Final - Real Betis vs Chelsea" tvg-name="21:00 UEFA Conference League Final : Real Betis vs Chelsea - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports MENA 1
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://dokko1new.newkso.ru/dokko1/premium91/mono.m3u8
-
-#EXTINF:-1 tvg-id="UEFA Conference League Final - Real Betis vs Chelsea" tvg-name="21:00 UEFA Conference League Final : Real Betis vs Chelsea - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports MENA English 1
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium61/mono.m3u8
-
-#EXTINF:-1 tvg-id="UEFA Conference League Final - Real Betis vs Chelsea" tvg-name="21:00 UEFA Conference League Final : Real Betis vs Chelsea - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport 1 Israel
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium140/mono.m3u8
-
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Day 4 - Roland-Garros Tennis Men's and Women's Singles | Day 4" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Day 4 - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TNT Sports 1 UK
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium31/mono.m3u8
-
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Day 4 - Roland-Garros Tennis Men's and Women's Singles | Day 4" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Day 4 - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TNT Sports 4 UK
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium34/mono.m3u8
-
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Day 4 - Roland-Garros Tennis Men's and Women's Singles | Day 4" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Day 4 - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TNT USA
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium338/mono.m3u8
-
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Day 4 - Roland-Garros Tennis Men's and Women's Singles | Day 4" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Day 4 - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", truTV USA
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://dokko1new.newkso.ru/dokko1/premium341/mono.m3u8
-
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Day 4 - Roland-Garros Tennis Men's and Women's Singles | Day 4" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Day 4 - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN1
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium111/mono.m3u8
-
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Day 4 - Roland-Garros Tennis Men's and Women's Singles | Day 4" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Day 4 - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN4
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium114/mono.m3u8
-
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Day 4 - Roland-Garros Tennis Men's and Women's Singles | Day 4" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Day 4 - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN5
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium115/mono.m3u8
-
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Day 4 - Roland-Garros Tennis Men's and Women's Singles | Day 4" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Day 4 - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TNT Sports 5 UK
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium211/mono.m3u8
-
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Day 4 - Roland-Garros Tennis Men's and Women's Singles | Day 4" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Day 4 - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TNT Sports 6 UK
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium212/mono.m3u8
-
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Day 4 - Roland-Garros Tennis Men's and Women's Singles | Day 4" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Day 4 - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TNT Sports 7 UK
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium213/mono.m3u8
-
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Day 4 - Roland-Garros Tennis Men's and Women's Singles | Day 4" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Day 4 - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TNT Sports 8 UK
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium214/mono.m3u8
-
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Day 4 - Roland-Garros Tennis Men's and Women's Singles | Day 4" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Day 4 - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", France 3
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://dokko1new.newkso.ru/dokko1/premium951/mono.m3u8
-
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Day 4 - Roland-Garros Tennis Men's and Women's Singles | Day 4" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Day 4 - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sport 2 NZ
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://dokko1new.newkso.ru/dokko1/premium589/mono.m3u8
-
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Day 4 - Roland-Garros Tennis Men's and Women's Singles | Day 4" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Day 4 - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sport 3 NZ
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://dokko1new.newkso.ru/dokko1/premium590/mono.m3u8
-
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Day 4 - Roland-Garros Tennis Men's and Women's Singles | Day 4" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Day 4 - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", SONY TEN 1
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium885/mono.m3u8
-
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Day 4 - Roland-Garros Tennis Men's and Women's Singles | Day 4" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Day 4 - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", SONY TEN 2
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium886/mono.m3u8
-
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Day 4 - Roland-Garros Tennis Men's and Women's Singles | Day 4" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Day 4 - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", SONY TEN 3
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium887/mono.m3u8
-
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Day 4 - Roland-Garros Tennis Men's and Women's Singles | Day 4" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Day 4 - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 2 Malaysia
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium713/mono.m3u8
-
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Day 4 - Roland-Garros Tennis Men's and Women's Singles | Day 4" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Day 4 - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 1 Malaysia
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium712/mono.m3u8
-
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Day 4 - Roland-Garros Tennis Men's and Women's Singles | Day 4" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Day 4 - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 3 Malaysia
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium714/mono.m3u8
-
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Day 4 - Roland-Garros Tennis Men's and Women's Singles | Day 4" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Day 4 - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 Poland
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium58/mono.m3u8
-
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Day 4 - Roland-Garros Tennis Men's and Women's Singles | Day 4" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Day 4 - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 1 Spain
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium524/mono.m3u8
-
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Day 4 - Roland-Garros Tennis Men's and Women's Singles | Day 4" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Day 4 - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Eurosport 1 SE
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium231/mono.m3u8
-
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Day 4 - Roland-Garros Tennis Men's and Women's Singles | Day 4" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Day 4 - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Eurosport 2 SE
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium232/mono.m3u8
-
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Day 4 - Roland-Garros Tennis Men's and Women's Singles | Day 4" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Day 4 - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 Italy
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium879/mono.m3u8
-
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Day 4 - Roland-Garros Tennis Men's and Women's Singles | Day 4" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Day 4 - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 France
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium773/mono.m3u8
-
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Day 4 - Roland-Garros Tennis Men's and Women's Singles | Day 4" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Day 4 - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 Greece
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium42/mono.m3u8
-
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Day 4 - Roland-Garros Tennis Men's and Women's Singles | Day 4" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Day 4 - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", ESPN2 Argentina
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium150/mono.m3u8
-
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Day 4 - Roland-Garros Tennis Men's and Women's Singles | Day 4" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Day 4 - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Eurosport 2 SE
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium232/mono.m3u8
-
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Day 4 - Roland-Garros Tennis Men's and Women's Singles | Day 4" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Day 4 - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", ESPN 2 Brasil
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium82/mono.m3u8
-
-#EXTINF:-1 tvg-id="NBL - Manawatu Jets vs Southland Sharks" tvg-name="08:00 NBL : Manawatu Jets vs Southland Sharks - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sky Sport 2 NZ
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://dokko1new.newkso.ru/dokko1/premium589/mono.m3u8
-
-#EXTINF:-1 tvg-id="Romania LNBM Mozzart - CSM Oradea vs CSO Voluntari" tvg-name="18:00 Romania LNBM Mozzart : CSM Oradea vs CSO Voluntari - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Digi Sport 3 Romania
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium402/mono.m3u8
-
-#EXTINF:-1 tvg-id="VTB United League - UNICS Kazan vs PBC Lokomotiv-Kuban" tvg-name="18:30 VTB United League : UNICS Kazan vs PBC Lokomotiv-Kuban - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Match Igra Russia
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium27/mono.m3u8
-
-#EXTINF:-1 tvg-id="VTB United League - UNICS Kazan vs PBC Lokomotiv-Kuban" tvg-name="18:30 VTB United League : UNICS Kazan vs PBC Lokomotiv-Kuban - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Match TV Russia
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium127/mono.m3u8
-
-#EXTINF:-1 tvg-id="LNB - JL Bourg vs Cholet" tvg-name="18:50 LNB : JL Bourg vs Cholet - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", DAZN2 France
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium24/mono.m3u8
-
-#EXTINF:-1 tvg-id="Super League - Hapoel M. Jerusalem vs Hapoel Tel-Aviv" tvg-name="19:30 Super League : Hapoel M. Jerusalem vs Hapoel Tel-Aviv - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport Klub 3 Croatia
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium103/mono.m3u8
-
-#EXTINF:-1 tvg-id="Super League - Hapoel M. Jerusalem vs Hapoel Tel-Aviv" tvg-name="19:30 Super League : Hapoel M. Jerusalem vs Hapoel Tel-Aviv - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 5 Israel
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium144/mono.m3u8
-
-#EXTINF:-1 tvg-id="LNB - Monaco vs Le Mans" tvg-name="20:50 LNB : Monaco vs Le Mans - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", DAZN1 France
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium28/mono.m3u8
-
-#EXTINF:-1 tvg-id="LNB - Monaco vs Le Mans" tvg-name="20:50 LNB : Monaco vs Le Mans - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport Klub 1 Croatia
+#EXTINF:-1 tvg-id="Austrian Bundesliga - LASK Linz vs Rapid Wien" tvg-name="17:00 Austrian Bundesliga : LASK Linz vs Rapid Wien - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport Klub 1 Croatia
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium101/mono.m3u8
 
-#EXTINF:-1 tvg-id="LNB - Monaco vs Le Mans" tvg-name="20:50 LNB : Monaco vs Le Mans - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 5 Live Israel
+#EXTINF:-1 tvg-id="Austrian Bundesliga - LASK Linz vs Rapid Wien" tvg-name="17:00 Austrian Bundesliga : LASK Linz vs Rapid Wien - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", 5 STARS Israel
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium146/mono.m3u8
+https://zekonew.newkso.ru/zeko/premium147/mono.m3u8
 
-#EXTINF:-1 tvg-id="NBB - Minas vs Bauru" tvg-name="00:00 NBB : Minas vs Bauru - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ESPN 3 Brasil
+#EXTINF:-1 tvg-id="Egypt - Premier League - Al Ittihad vs ENPPI" tvg-name="19:00 Egypt - Premier League : Al Ittihad vs ENPPI - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ON Time Sports 2 Egypt
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium83/mono.m3u8
+https://nfsnew.newkso.ru/nfs/premium10/mono.m3u8
 
-#EXTINF:-1 tvg-id="WNBA - Washington Mystics W vs Indiana Fever W" tvg-name="01:30 WNBA : Washington Mystics W vs Indiana Fever W - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Monumental Sports Network
+#EXTINF:-1 tvg-id="Egypt - Premier League - Ghazl El Mehalla vs Ismaily" tvg-name="19:00 Egypt - Premier League : Ghazl El Mehalla vs Ismaily - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ON Time Sports Egypt
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://dokko1new.newkso.ru/dokko1/premium778/mono.m3u8
+https://nfsnew.newkso.ru/nfs/premium11/mono.m3u8
 
-#EXTINF:-1 tvg-id="WNBA - Washington Mystics W vs Indiana Fever W" tvg-name="01:30 WNBA : Washington Mystics W vs Indiana Fever W - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", NBA TV USA
+#EXTINF:-1 tvg-id="Italy Serie B - Cremonese vs Spezia" tvg-name="20:30 Italy Serie B : Cremonese vs Spezia - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport IT
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium404/mono.m3u8
+https://nfsnew.newkso.ru/nfs/premium12/mono.m3u8
 
-#EXTINF:-1 tvg-id="WNBA - Washington Mystics W vs Indiana Fever W" tvg-name="01:30 WNBA : Washington Mystics W vs Indiana Fever W - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 5 Plus Israel
+#EXTINF:-1 tvg-id="Italy Serie B - Cremonese vs Spezia" tvg-name="20:30 Italy Serie B : Cremonese vs Spezia - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Fox Soccer Plus
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium145/mono.m3u8
+https://ddy6new.newkso.ru/ddy6/premium756/mono.m3u8
 
-#EXTINF:-1 tvg-id="NBA - Minnesota Timberwolves vs Oklahoma City Thunder" tvg-name="02:30 NBA : Minnesota Timberwolves vs Oklahoma City Thunder - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Home Feed
+#EXTINF:-1 tvg-id="Italy Serie B - Cremonese vs Spezia" tvg-name="20:30 Italy Serie B : Cremonese vs Spezia - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", 5 STARS Israel
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium2/mono.m3u8
+https://zekonew.newkso.ru/zeko/premium147/mono.m3u8
 
-#EXTINF:-1 tvg-id="NBA - Minnesota Timberwolves vs Oklahoma City Thunder" tvg-name="02:30 NBA : Minnesota Timberwolves vs Oklahoma City Thunder - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Away Feed
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium3/mono.m3u8
-
-#EXTINF:-1 tvg-id="NBA - Minnesota Timberwolves vs Oklahoma City Thunder" tvg-name="02:30 NBA : Minnesota Timberwolves vs Oklahoma City Thunder - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TNT Sports 1 UK
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium31/mono.m3u8
-
-#EXTINF:-1 tvg-id="NBA - Minnesota Timberwolves vs Oklahoma City Thunder" tvg-name="02:30 NBA : Minnesota Timberwolves vs Oklahoma City Thunder - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ESPN USA
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium44/mono.m3u8
-
-#EXTINF:-1 tvg-id="NBA - Minnesota Timberwolves vs Oklahoma City Thunder" tvg-name="02:30 NBA : Minnesota Timberwolves vs Oklahoma City Thunder - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sportsnet 360 CA
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium409/mono.m3u8
-
-#EXTINF:-1 tvg-id="NBA - Minnesota Timberwolves vs Oklahoma City Thunder" tvg-name="02:30 NBA : Minnesota Timberwolves vs Oklahoma City Thunder - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TSN4
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium114/mono.m3u8
-
-#EXTINF:-1 tvg-id="NBA - Minnesota Timberwolves vs Oklahoma City Thunder" tvg-name="02:30 NBA : Minnesota Timberwolves vs Oklahoma City Thunder - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", CANAL+ Sport Poland
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium48/mono.m3u8
-
-#EXTINF:-1 tvg-id="NBA - Minnesota Timberwolves vs Oklahoma City Thunder" tvg-name="02:30 NBA : Minnesota Timberwolves vs Oklahoma City Thunder - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", beIN Sports 1 France
+#EXTINF:-1 tvg-id="France - Ligue 1 - Reims vs Metz" tvg-name="20:30 France - Ligue 1 : Reims vs Metz - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports 1 France
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://zekonew.newkso.ru/zeko/premium116/mono.m3u8
 
-#EXTINF:-1 tvg-id="NBA - Minnesota Timberwolves vs Oklahoma City Thunder" tvg-name="02:30 NBA : Minnesota Timberwolves vs Oklahoma City Thunder - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ESPN Deportes
+#EXTINF:-1 tvg-id="France - Ligue 1 - Reims vs Metz" tvg-name="20:30 France - Ligue 1 : Reims vs Metz - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN SPORTS USA
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium375/mono.m3u8
+https://zekonew.newkso.ru/zeko/premium425/mono.m3u8
 
-#EXTINF:-1 tvg-id="NBA - Minnesota Timberwolves vs Oklahoma City Thunder" tvg-name="02:30 NBA : Minnesota Timberwolves vs Oklahoma City Thunder - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ESPN 1 NL
+#EXTINF:-1 tvg-id="France - Ligue 1 - Reims vs Metz" tvg-name="20:30 France - Ligue 1 : Reims vs Metz - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN SPORTS en Español
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium379/mono.m3u8
+https://zekonew.newkso.ru/zeko/premium372/mono.m3u8
 
-#EXTINF:-1 tvg-id="NBA - Minnesota Timberwolves vs Oklahoma City Thunder" tvg-name="02:30 NBA : Minnesota Timberwolves vs Oklahoma City Thunder - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena Sport 1 Croatia
+#EXTINF:-1 tvg-id="France - Ligue 1 - Reims vs Metz" tvg-name="20:30 France - Ligue 1 : Reims vs Metz - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN1 DE
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium432/mono.m3u8
+https://ddy6new.newkso.ru/ddy6/premium426/mono.m3u8
 
-#EXTINF:-1 tvg-id="NBA - Minnesota Timberwolves vs Oklahoma City Thunder" tvg-name="02:30 NBA : Minnesota Timberwolves vs Oklahoma City Thunder - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TV4 Sportkanalen
+#EXTINF:-1 tvg-id="France - Ligue 1 - Reims vs Metz" tvg-name="20:30 France - Ligue 1 : Reims vs Metz - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport TV1 Portugal
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium707/mono.m3u8
+https://windnew.newkso.ru/wind/premium49/mono.m3u8
 
-#EXTINF:-1 tvg-id="NBA - Minnesota Timberwolves vs Oklahoma City Thunder" tvg-name="02:30 NBA : Minnesota Timberwolves vs Oklahoma City Thunder - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena 1 Premium Serbia
+#EXTINF:-1 tvg-id="France - Ligue 1 - Reims vs Metz" tvg-name="20:30 France - Ligue 1 : Reims vs Metz - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Eleven Sports 2 Poland
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium134/mono.m3u8
+https://windnew.newkso.ru/wind/premium72/mono.m3u8
 
-#EXTINF:-1 tvg-id="NBA - Minnesota Timberwolves vs Oklahoma City Thunder" tvg-name="02:30 NBA : Minnesota Timberwolves vs Oklahoma City Thunder - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Diema sport 3 Bulgaria
+#EXTINF:-1 tvg-id="France - Ligue 1 - Reims vs Metz" tvg-name="20:30 France - Ligue 1 : Reims vs Metz - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Canal+ Sport 2 Afrique
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium467/mono.m3u8
+https://ddy6new.newkso.ru/ddy6/premium487/mono.m3u8
 
-#EXTINF:-1 tvg-id="NBA - Minnesota Timberwolves vs Oklahoma City Thunder" tvg-name="02:30 NBA : Minnesota Timberwolves vs Oklahoma City Thunder - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TV2 Sport X Denmark
+#EXTINF:-1 tvg-id="France - Ligue 1 - Reims vs Metz" tvg-name="20:30 France - Ligue 1 : Reims vs Metz - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Sport 4 Croatia
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://dokko1new.newkso.ru/dokko1/premium808/mono.m3u8
+https://windnew.newkso.ru/wind/premium580/mono.m3u8
 
-#EXTINF:-1 tvg-id="NBA - Minnesota Timberwolves vs Oklahoma City Thunder" tvg-name="02:30 NBA : Minnesota Timberwolves vs Oklahoma City Thunder - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Cosmote Sport 4 Greece
+#EXTINF:-1 tvg-id="France - Ligue 1 - Reims vs Metz" tvg-name="20:30 France - Ligue 1 : Reims vs Metz - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Diema Sport 2 Bulgaria
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://dokko1new.newkso.ru/dokko1/premium625/mono.m3u8
+https://windnew.newkso.ru/wind/premium466/mono.m3u8
 
-#EXTINF:-1 tvg-id="NBA - Minnesota Timberwolves vs Oklahoma City Thunder" tvg-name="02:30 NBA : Minnesota Timberwolves vs Oklahoma City Thunder - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ESPN BR
+#EXTINF:-1 tvg-id="France - Ligue 1 - Reims vs Metz" tvg-name="20:30 France - Ligue 1 : Reims vs Metz - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports MENA 4
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium81/mono.m3u8
+https://dokko1new.newkso.ru/dokko1/premium94/mono.m3u8
 
-#EXTINF:-1 tvg-id="NBA - Minnesota Timberwolves vs Oklahoma City Thunder" tvg-name="02:30 NBA : Minnesota Timberwolves vs Oklahoma City Thunder - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ESPN2 Argentina
+#EXTINF:-1 tvg-id="France - Ligue 1 - Reims vs Metz" tvg-name="20:30 France - Ligue 1 : Reims vs Metz - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", 5 PLUS Israel
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium145/mono.m3u8
+
+#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Day 5 - Roland-Garros Tennis Men's and Women's Singles | Day 5" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Day 5 - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TNT Sports 1 UK
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium31/mono.m3u8
+
+#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Day 5 - Roland-Garros Tennis Men's and Women's Singles | Day 5" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Day 5 - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TNT Sports 4 UK
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium34/mono.m3u8
+
+#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Day 5 - Roland-Garros Tennis Men's and Women's Singles | Day 5" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Day 5 - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TNT USA
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium338/mono.m3u8
+
+#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Day 5 - Roland-Garros Tennis Men's and Women's Singles | Day 5" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Day 5 - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", truTV USA
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium341/mono.m3u8
+
+#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Day 5 - Roland-Garros Tennis Men's and Women's Singles | Day 5" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Day 5 - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN1
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium111/mono.m3u8
+
+#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Day 5 - Roland-Garros Tennis Men's and Women's Singles | Day 5" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Day 5 - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN4
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium114/mono.m3u8
+
+#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Day 5 - Roland-Garros Tennis Men's and Women's Singles | Day 5" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Day 5 - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN5
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium115/mono.m3u8
+
+#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Day 5 - Roland-Garros Tennis Men's and Women's Singles | Day 5" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Day 5 - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TNT Sports 5 UK
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium211/mono.m3u8
+
+#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Day 5 - Roland-Garros Tennis Men's and Women's Singles | Day 5" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Day 5 - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TNT Sports 6 UK
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium212/mono.m3u8
+
+#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Day 5 - Roland-Garros Tennis Men's and Women's Singles | Day 5" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Day 5 - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TNT Sports 7 UK
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium213/mono.m3u8
+
+#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Day 5 - Roland-Garros Tennis Men's and Women's Singles | Day 5" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Day 5 - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TNT Sports 8 UK
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium214/mono.m3u8
+
+#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Day 5 - Roland-Garros Tennis Men's and Women's Singles | Day 5" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Day 5 - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", France 3
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium951/mono.m3u8
+
+#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Day 5 - Roland-Garros Tennis Men's and Women's Singles | Day 5" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Day 5 - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sport 3 NZ
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium590/mono.m3u8
+
+#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Day 5 - Roland-Garros Tennis Men's and Women's Singles | Day 5" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Day 5 - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sport 2 NZ
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium589/mono.m3u8
+
+#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Day 5 - Roland-Garros Tennis Men's and Women's Singles | Day 5" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Day 5 - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", SONY TEN 1
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium885/mono.m3u8
+
+#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Day 5 - Roland-Garros Tennis Men's and Women's Singles | Day 5" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Day 5 - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", SONY TEN 2
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium886/mono.m3u8
+
+#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Day 5 - Roland-Garros Tennis Men's and Women's Singles | Day 5" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Day 5 - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", SONY TEN 3
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium887/mono.m3u8
+
+#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Day 5 - Roland-Garros Tennis Men's and Women's Singles | Day 5" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Day 5 - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 2 Malaysia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium713/mono.m3u8
+
+#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Day 5 - Roland-Garros Tennis Men's and Women's Singles | Day 5" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Day 5 - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 1 Malaysia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium712/mono.m3u8
+
+#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Day 5 - Roland-Garros Tennis Men's and Women's Singles | Day 5" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Day 5 - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 3 Malaysia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium714/mono.m3u8
+
+#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Day 5 - Roland-Garros Tennis Men's and Women's Singles | Day 5" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Day 5 - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 Poland
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium58/mono.m3u8
+
+#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Day 5 - Roland-Garros Tennis Men's and Women's Singles | Day 5" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Day 5 - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 1 Spain
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium524/mono.m3u8
+
+#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Day 5 - Roland-Garros Tennis Men's and Women's Singles | Day 5" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Day 5 - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Eurosport 2 SE
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium232/mono.m3u8
+
+#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Day 5 - Roland-Garros Tennis Men's and Women's Singles | Day 5" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Day 5 - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 France
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium773/mono.m3u8
+
+#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Day 5 - Roland-Garros Tennis Men's and Women's Singles | Day 5" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Day 5 - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Eurosport 1 SE
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium231/mono.m3u8
+
+#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Day 5 - Roland-Garros Tennis Men's and Women's Singles | Day 5" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Day 5 - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Eurosport 2 SE
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium232/mono.m3u8
+
+#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Day 5 - Roland-Garros Tennis Men's and Women's Singles | Day 5" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Day 5 - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 Italy
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium879/mono.m3u8
+
+#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Day 5 - Roland-Garros Tennis Men's and Women's Singles | Day 5" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Day 5 - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 Greece
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium42/mono.m3u8
+
+#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Day 5 - Roland-Garros Tennis Men's and Women's Singles | Day 5" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Day 5 - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", ESPN2 Argentina
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://windnew.newkso.ru/wind/premium150/mono.m3u8
 
-#EXTINF:-1 tvg-id="NBA - Minnesota Timberwolves vs Oklahoma City Thunder" tvg-name="02:30 NBA : Minnesota Timberwolves vs Oklahoma City Thunder - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", beIN SPORTS MENA 1
+#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Day 5 - Roland-Garros Tennis Men's and Women's Singles | Day 5" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Day 5 - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Eurosport 2 SE
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://dokko1new.newkso.ru/dokko1/premium91/mono.m3u8
+https://windnew.newkso.ru/wind/premium232/mono.m3u8
 
-#EXTINF:-1 tvg-id="NBA - Minnesota Timberwolves vs Oklahoma City Thunder" tvg-name="02:30 NBA : Minnesota Timberwolves vs Oklahoma City Thunder - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", beIN SPORTS MENA English 1
+#EXTINF:-1 tvg-id="NBL - Sal's NBL: Whai vs Bulls" tvg-name="09:00 NBL : Sal's NBL: Whai vs Bulls - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sky Sport 2 NZ
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium61/mono.m3u8
+https://dokko1new.newkso.ru/dokko1/premium589/mono.m3u8
 
-#EXTINF:-1 tvg-id="NBA - Minnesota Timberwolves vs Oklahoma City Thunder" tvg-name="02:30 NBA : Minnesota Timberwolves vs Oklahoma City Thunder - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ESPN 2 Brasil
+#EXTINF:-1 tvg-id="Süper Ligi - Tofas vs Bahcesehir Koleji" tvg-name="17:00 Süper Ligi : Tofas vs Bahcesehir Koleji - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", beIN SPORTS 5 Turkey
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium82/mono.m3u8
+https://nfsnew.newkso.ru/nfs/premium14/mono.m3u8
 
-#EXTINF:-1 tvg-id="Germany Bundesliga - HC Erlangen vs SC Magdeburg" tvg-name="19:00 Germany Bundesliga : HC Erlangen vs SC Magdeburg - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Handball", DYN DE
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium55/mono.m3u8
-
-#EXTINF:-1 tvg-id="Germany Bundesliga - HSG Wetzlar vs TBV Lemgo" tvg-name="19:00 Germany Bundesliga : HSG Wetzlar vs TBV Lemgo - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Handball", DYN DE
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium59/mono.m3u8
-
-#EXTINF:-1 tvg-id="Germany Bundesliga - HSV Hamburg vs ThSV Eisenach" tvg-name="19:00 Germany Bundesliga : HSV Hamburg vs ThSV Eisenach - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Handball", DYN DE
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium68/mono.m3u8
-
-#EXTINF:-1 tvg-id="Germany Bundesliga - TSV Hannover Burgdorf vs 1. VfL Potsdam" tvg-name="19:00 Germany Bundesliga : TSV Hannover Burgdorf vs 1. VfL Potsdam - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Handball", DYN DE
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium69/mono.m3u8
-
-#EXTINF:-1 tvg-id="Germany Bundesliga - VfL Gummersbach vs Frisch Auf Goppingen" tvg-name="19:00 Germany Bundesliga : VfL Gummersbach vs Frisch Auf Goppingen - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Handball", DYN DE
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium76/mono.m3u8
-
-#EXTINF:-1 tvg-id="Bundesliga - THW Kiel vs. SC DHfK Leipzig" tvg-name="20:00 Bundesliga : THW Kiel vs. SC DHfK Leipzig - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Handball", DYN DE
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium107/mono.m3u8
-
-#EXTINF:-1 tvg-id="Bundesliga - THW Kiel vs. SC DHfK Leipzig" tvg-name="20:00 Bundesliga : THW Kiel vs. SC DHfK Leipzig - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Handball", Sport 1 Hungary
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium18/mono.m3u8
-
-#EXTINF:-1 tvg-id="Bundesliga - THW Kiel vs. SC DHfK Leipzig" tvg-name="20:00 Bundesliga : THW Kiel vs. SC DHfK Leipzig - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Handball", TV3 Sport Denmark
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium809/mono.m3u8
-
-#EXTINF:-1 tvg-id="Bundesliga - THW Kiel vs. SC DHfK Leipzig" tvg-name="20:00 Bundesliga : THW Kiel vs. SC DHfK Leipzig - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Handball", Arena Premium 2 Serbia
+#EXTINF:-1 tvg-id="Süper Ligi - Tofas vs Bahcesehir Koleji" tvg-name="17:00 Süper Ligi : Tofas vs Bahcesehir Koleji - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena 2 Premium Serbia
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium135/mono.m3u8
 
-#EXTINF:-1 tvg-id="Bundesliga - THW Kiel vs. SC DHfK Leipzig" tvg-name="20:00 Bundesliga : THW Kiel vs. SC DHfK Leipzig - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Handball", Sport Klub HD Croatia
+#EXTINF:-1 tvg-id="Süper Ligi - Tofas vs Bahcesehir Koleji" tvg-name="17:00 Süper Ligi : Tofas vs Bahcesehir Koleji - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 2 Israel
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium453/mono.m3u8
+https://zekonew.newkso.ru/zeko/premium141/mono.m3u8
 
-#EXTINF:-1 tvg-id="Bundesliga - THW Kiel vs. SC DHfK Leipzig" tvg-name="20:00 Bundesliga : THW Kiel vs. SC DHfK Leipzig - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Handball", Sport 3 Israel
+#EXTINF:-1 tvg-id="ABA League - BC Dubai vs. KK Partizan Nis Belgrade" tvg-name="17:30 ABA League : BC Dubai vs. KK Partizan Nis Belgrade - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena 1 Premium Serbia
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium142/mono.m3u8
+https://windnew.newkso.ru/wind/premium134/mono.m3u8
 
-#EXTINF:-1 tvg-id="Beach volleyball - Pro Tour - Ostrava" tvg-name="08:00 Beach volleyball: Pro Tour - Ostrava - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sport Klub 2 Croatia
+#EXTINF:-1 tvg-id="ABA League - BC Dubai vs. KK Partizan Nis Belgrade" tvg-name="17:30 ABA League : BC Dubai vs. KK Partizan Nis Belgrade - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena Sport 9 Serbia
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium102/mono.m3u8
+https://nfsnew.newkso.ru/nfs/premium944/mono.m3u8
 
-#EXTINF:-1 tvg-id="Beach volleyball - Pro Tour - Ostrava" tvg-name="08:00 Beach volleyball: Pro Tour - Ostrava - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sport Klub HD Croatia
+#EXTINF:-1 tvg-id="ABA League - BC Dubai vs. KK Partizan Nis Belgrade" tvg-name="17:30 ABA League : BC Dubai vs. KK Partizan Nis Belgrade - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena Sport 1 Croatia
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium453/mono.m3u8
+https://ddy6new.newkso.ru/ddy6/premium432/mono.m3u8
 
-#EXTINF:-1 tvg-id="Friendly Games - Bulgaria vs. Germany" tvg-name="16:00 Friendly Games : Bulgaria vs. Germany - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport 1 Poland
+#EXTINF:-1 tvg-id="Bulgaria NBL - Cherno More IG vs. Rilski Sportist" tvg-name="18:15 Bulgaria NBL : Cherno More IG vs. Rilski Sportist - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Max Sport 2 Bulgaria
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium473/mono.m3u8
+
+#EXTINF:-1 tvg-id="VTB United League - Zenit Petersburg vs CSKA Moscow" tvg-name="18:30 VTB United League : Zenit Petersburg vs CSKA Moscow - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Match Igra Russia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium15/mono.m3u8
+
+#EXTINF:-1 tvg-id="VTB United League - Zenit Petersburg vs CSKA Moscow" tvg-name="18:30 VTB United League : Zenit Petersburg vs CSKA Moscow - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Match TV Russia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium127/mono.m3u8
+
+#EXTINF:-1 tvg-id="VTB United League - Zenit Petersburg vs CSKA Moscow" tvg-name="18:30 VTB United League : Zenit Petersburg vs CSKA Moscow - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena 3 Premium Serbia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium139/mono.m3u8
+
+#EXTINF:-1 tvg-id="Liga Leumit - Maccabi Rishon vs Hapoel Eilat" tvg-name="18:30 Liga Leumit : Maccabi Rishon vs Hapoel Eilat - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 5 Plus Israel
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium145/mono.m3u8
+
+#EXTINF:-1 tvg-id="LNB - Chalon/Saone vs Lyon-Villeurbanne" tvg-name="18:50 LNB : Chalon/Saone vs Lyon-Villeurbanne - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", DAZN2 France
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium16/mono.m3u8
+
+#EXTINF:-1 tvg-id="LNB - Chalon/Saone vs Lyon-Villeurbanne" tvg-name="18:50 LNB : Chalon/Saone vs Lyon-Villeurbanne - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport Klub 4 Croatia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium104/mono.m3u8
+
+#EXTINF:-1 tvg-id="ABA LIGA - KK Cibona vs. KD Ilirija" tvg-name="19:00 ABA LIGA : KK Cibona vs. KD Ilirija - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena Sport 2 Croatia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium433/mono.m3u8
+
+#EXTINF:-1 tvg-id="ABA LIGA - KK Cibona vs. KD Ilirija" tvg-name="19:00 ABA LIGA : KK Cibona vs. KD Ilirija - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena Sport 2 Serbia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium430/mono.m3u8
+
+#EXTINF:-1 tvg-id="Süper Ligi - Fenerbahce vs Turk Telekom" tvg-name="19:30 Süper Ligi : Fenerbahce vs Turk Telekom - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", beIN SPORTS 5 Turkey
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium14/mono.m3u8
+
+#EXTINF:-1 tvg-id="Süper Ligi - Fenerbahce vs Turk Telekom" tvg-name="19:30 Süper Ligi : Fenerbahce vs Turk Telekom - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena Sport 3 Croatia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium434/mono.m3u8
+
+#EXTINF:-1 tvg-id="Süper Ligi - Fenerbahce vs Turk Telekom" tvg-name="19:30 Süper Ligi : Fenerbahce vs Turk Telekom - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena 2 Premium Serbia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium135/mono.m3u8
+
+#EXTINF:-1 tvg-id="Süper Ligi - Fenerbahce vs Turk Telekom" tvg-name="19:30 Süper Ligi : Fenerbahce vs Turk Telekom - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 2 Israel
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium141/mono.m3u8
+
+#EXTINF:-1 tvg-id="Basket-ball Betclic Elite 2024-2025 - Basket-ball Betclic Elite 2024-2025" tvg-name="20:00 Basket-ball Betclic Elite 2024-2025 - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", DAZN1 France
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium17/mono.m3u8
+
+#EXTINF:-1 tvg-id="Polish Basketball League - Anwil Wroclawek vs. Legia Warszawa" tvg-name="20:00 Polish Basketball League : Anwil Wroclawek vs. Legia Warszawa - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Polsat Sport 1 Poland
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://windnew.newkso.ru/wind/premium47/mono.m3u8
 
-#EXTINF:-1 tvg-id="Friendly Games - Poland vs. Ukraine" tvg-name="19:00 Friendly Games : Poland vs. Ukraine - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport 2 Poland
+#EXTINF:-1 tvg-id="LPB - Ovarense Basquetebol vs. Benfica Lisboa" tvg-name="19:55 LPB : Ovarense Basquetebol vs. Benfica Lisboa - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", RTP 2 Portugal
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium50/mono.m3u8
+https://ddy6new.newkso.ru/ddy6/premium720/mono.m3u8
 
-#EXTINF:-1 tvg-id="Friendly Games - France vs Czech Republic" tvg-name="20:30 Friendly Games : France vs Czech Republic - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sport en France
+#EXTINF:-1 tvg-id="GERMAN LEAGUE - Braunschweig vs Wurzburg" tvg-name="20:00 GERMAN LEAGUE : Braunschweig vs Wurzburg - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", DYN DE
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium30/mono.m3u8
+https://nfsnew.newkso.ru/nfs/premium9/mono.m3u8
+
+#EXTINF:-1 tvg-id="ABA League - KK Crvena zvezda Belgrade vs. KK Buducnost Voli" tvg-name="20:00 ABA League : KK Crvena zvezda Belgrade vs. KK Buducnost Voli - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena 1 Premium Serbia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium134/mono.m3u8
+
+#EXTINF:-1 tvg-id="ABA League - KK Crvena zvezda Belgrade vs. KK Buducnost Voli" tvg-name="20:00 ABA League : KK Crvena zvezda Belgrade vs. KK Buducnost Voli - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena Sport 9 Serbia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium944/mono.m3u8
+
+#EXTINF:-1 tvg-id="ABA League - KK Crvena zvezda Belgrade vs. KK Buducnost Voli" tvg-name="20:00 ABA League : KK Crvena zvezda Belgrade vs. KK Buducnost Voli - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena Sport 1 Croatia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium432/mono.m3u8
+
+#EXTINF:-1 tvg-id="ACB - Basquet Girona vs Forca Lleida" tvg-name="20:30 ACB : Basquet Girona vs Forca Lleida - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Movistar Deportes Spain
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium436/mono.m3u8
+
+#EXTINF:-1 tvg-id="LNB - Dijon vs Paris" tvg-name="21:00 LNB : Dijon vs Paris - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", DAZN3 France
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium8/mono.m3u8
+
+#EXTINF:-1 tvg-id="LNB - Dijon vs Paris" tvg-name="21:00 LNB : Dijon vs Paris - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena 3 Premium Serbia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium139/mono.m3u8
+
+#EXTINF:-1 tvg-id="LNB - Dijon vs Paris" tvg-name="21:00 LNB : Dijon vs Paris - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport Klub 2 Croatia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium102/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBB - Franca vs Flamengo" tvg-name="00:45 NBB : Franca vs Flamengo - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", SporTV2 Brasil
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium79/mono.m3u8
+
+#EXTINF:-1 tvg-id="WNBA - New York Liberty W vs Golden State Valkyries W" tvg-name="02:00 WNBA : New York Liberty W vs Golden State Valkyries W - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", MY9TV USA
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium654/mono.m3u8
+
+#EXTINF:-1 tvg-id="WNBA - Dallas Wings vs Chicago Sky" tvg-name="02:00 WNBA : Dallas Wings vs Chicago Sky - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", WNBA League Pass
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium10/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Home Feed
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium4/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Away Feed
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium5/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TNT Sports 1 UK
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium31/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TNT USA
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium338/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", truTV USA
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium341/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TSN1
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium111/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TSN3
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium113/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", RDS 2 CA
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium840/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TSN4
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium114/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TSN5
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium115/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ESPN 1 NL
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium379/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", beIN Sports 1 France
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium116/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena 1 Premium Serbia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium134/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Canal+ Sport Poland
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium48/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Cosmote Sport 4 Greece
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium625/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena Sport 1 Croatia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium432/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Diema Sport 2 Bulgaria
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium466/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TV4 Sportkanalen
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium707/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ESPN2 Argentina
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium150/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TV2 Sport X Denmark
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium808/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", beIN SPORTS MENA English 1
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium61/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", beIN SPORTS MENA 6
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium96/mono.m3u8
+
+#EXTINF:-1 tvg-id="Handball-Bundesliga - Fuchse Berlin vs MT Melsungen" tvg-name="20:00 Handball-Bundesliga : Fuchse Berlin vs MT Melsungen - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Handball", TV3 Max Denmark
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium223/mono.m3u8
+
+#EXTINF:-1 tvg-id="Handball-Bundesliga - Fuchse Berlin vs MT Melsungen" tvg-name="20:00 Handball-Bundesliga : Fuchse Berlin vs MT Melsungen - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Handball", Sport 1 Hungary
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium7/mono.m3u8
+
+#EXTINF:-1 tvg-id="Handball-Bundesliga - Fuchse Berlin vs MT Melsungen" tvg-name="20:00 Handball-Bundesliga : Fuchse Berlin vs MT Melsungen - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Handball", Cosmote Sport 6 Greece
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium627/mono.m3u8
+
+#EXTINF:-1 tvg-id="Handball-Bundesliga - Fuchse Berlin vs MT Melsungen" tvg-name="20:00 Handball-Bundesliga : Fuchse Berlin vs MT Melsungen - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Handball", Arena Sport 1 Serbia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium429/mono.m3u8
+
+#EXTINF:-1 tvg-id="Handball-Bundesliga - Fuchse Berlin vs MT Melsungen" tvg-name="20:00 Handball-Bundesliga : Fuchse Berlin vs MT Melsungen - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Handball", Sport Klub 1 Croatia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium101/mono.m3u8
+
+#EXTINF:-1 tvg-id="Handball-Bundesliga - Fuchse Berlin vs MT Melsungen" tvg-name="20:00 Handball-Bundesliga : Fuchse Berlin vs MT Melsungen - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Handball", Sport 1 Israel
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium140/mono.m3u8
+
+#EXTINF:-1 tvg-id="Beach Volleyball Pro Tour (Women) - Ostrava (Women)" tvg-name="08:00 Beach Volleyball Pro Tour (Women): Ostrava (Women) - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sport Klub HD Croatia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium453/mono.m3u8
+
+#EXTINF:-1 tvg-id="Golden League W - Portugal W vs Sweden W" tvg-name="16:00 Golden League W : Portugal W vs Sweden W - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", svt2 Sweden
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium13/mono.m3u8
+
+#EXTINF:-1 tvg-id="Golden League W - Portugal W vs Sweden W" tvg-name="16:00 Golden League W : Portugal W vs Sweden W - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sport TV1 Portugal
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium49/mono.m3u8
+
+#EXTINF:-1 tvg-id="Golden League W - Portugal W vs Sweden W" tvg-name="16:00 Golden League W : Portugal W vs Sweden W - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Arena Sport 3 Croatia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium434/mono.m3u8
 

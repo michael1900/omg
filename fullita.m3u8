@@ -1,31 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Italy - Serie C - Pescara vs Audace Cerignola" tvg-name="19:00 Italy - Serie C : Pescara vs Audace Cerignola - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport 253 IT
+#EXTINF:-1 tvg-id="Italy Serie B - Cremonese vs Spezia" tvg-name="19:30 Italy Serie B : Cremonese vs Spezia - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport IT
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium5/mono.m3u8
-
-#EXTINF:-1 tvg-id="Italy - Serie C - Pescara vs Audace Cerignola" tvg-name="19:00 Italy - Serie C : Pescara vs Audace Cerignola - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Rai Sport 1 IT
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium882/mono.m3u8
-
-#EXTINF:-1 tvg-id="Italy - Serie C - Ternana vs Vicenza" tvg-name="19:00 Italy - Serie C : Ternana vs Vicenza - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport 252 IT
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium6/mono.m3u8
-
-#EXTINF:-1 tvg-id="UEFA Conference League Final - Real Betis vs Chelsea" tvg-name="20:00 UEFA Conference League Final : Real Betis vs Chelsea - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TV8 IT
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium8/mono.m3u8
-
-#EXTINF:-1 tvg-id="UEFA Conference League Final - Real Betis vs Chelsea" tvg-name="20:00 UEFA Conference League Final : Real Betis vs Chelsea - 28/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport 251 IT
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium9/mono.m3u8
+https://nfsnew.newkso.ru/nfs/premium12/mono.m3u8
 
