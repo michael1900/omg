@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Italy Serie B - Cremonese vs Spezia" tvg-name="19:30 Italy Serie B : Cremonese vs Spezia - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport IT
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium12/mono.m3u8
-
 #EXTINF:-1 tvg-id="Ireland Republic - Premier Division - Bohemians vs Derry City" tvg-name="19:45 Ireland Republic - Premier Division : Bohemians vs Derry City - 30/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", LOITV
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
