@@ -1,391 +1,571 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Kenya - Kenyan Premier League - Gor Mahia vs Leopards" tvg-name="14:00 Kenya - Kenyan Premier League : Gor Mahia vs Leopards - 02/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Azam Sports 3 HD
+#EXTINF:-1 tvg-id="UEFA Women's Nations League - Spain vs England" tvg-name="19:00 UEFA Women's Nations League : Spain vs England - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport Premier League
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium1/mono.m3u8
+https://ddy6new.newkso.ru/ddy6/premium414/mono.m3u8
 
-#EXTINF:-1 tvg-id="Italy - Serie C - Ternana vs Pescara" tvg-name="21:15 Italy - Serie C : Ternana vs Pescara - 02/06/25" tvg-logo="https://skystreaming.yoga/content/thumbs/5ea159423c45c65222123e479e1a4fd7." group-title="Soccer", Sky Sport 251 IT
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium2/mono.m3u8
-
-#EXTINF:-1 tvg-id="Brazil - Serie B - Chapecoense vs Amazonas" tvg-name="00:00 Brazil - Serie B : Chapecoense vs Amazonas - 02/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN Brazil
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium81/mono.m3u8
-
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | 4th Round - Roland-Garros Tennis Men's and Women's Singles | 4th Round" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | 4th Round - 02/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TNT Sports 1 UK
+#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TNT Sports 1 UK
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://nfsnew.newkso.ru/nfs/premium31/mono.m3u8
 
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | 4th Round - Roland-Garros Tennis Men's and Women's Singles | 4th Round" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | 4th Round - 02/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TNT Sports 4 UK
+#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TNT Sports 4 UK
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://nfsnew.newkso.ru/nfs/premium34/mono.m3u8
 
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | 4th Round - Roland-Garros Tennis Men's and Women's Singles | 4th Round" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | 4th Round - 02/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TNT USA
+#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TNT USA
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://zekonew.newkso.ru/zeko/premium338/mono.m3u8
 
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | 4th Round - Roland-Garros Tennis Men's and Women's Singles | 4th Round" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | 4th Round - 02/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", truTV USA
+#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", truTV USA
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://dokko1new.newkso.ru/dokko1/premium341/mono.m3u8
 
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | 4th Round - Roland-Garros Tennis Men's and Women's Singles | 4th Round" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | 4th Round - 02/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN1
+#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN1
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://zekonew.newkso.ru/zeko/premium111/mono.m3u8
 
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | 4th Round - Roland-Garros Tennis Men's and Women's Singles | 4th Round" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | 4th Round - 02/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN4
+#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN4
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://zekonew.newkso.ru/zeko/premium114/mono.m3u8
 
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | 4th Round - Roland-Garros Tennis Men's and Women's Singles | 4th Round" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | 4th Round - 02/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN5
+#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN5
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://zekonew.newkso.ru/zeko/premium115/mono.m3u8
 
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | 4th Round - Roland-Garros Tennis Men's and Women's Singles | 4th Round" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | 4th Round - 02/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TNT Sports 5 UK
+#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TNT Sports 5 UK
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium211/mono.m3u8
 
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | 4th Round - Roland-Garros Tennis Men's and Women's Singles | 4th Round" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | 4th Round - 02/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TNT Sports 6 UK
+#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TNT Sports 6 UK
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium212/mono.m3u8
 
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | 4th Round - Roland-Garros Tennis Men's and Women's Singles | 4th Round" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | 4th Round - 02/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TNT Sports 7 UK
+#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TNT Sports 7 UK
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://zekonew.newkso.ru/zeko/premium213/mono.m3u8
 
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | 4th Round - Roland-Garros Tennis Men's and Women's Singles | 4th Round" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | 4th Round - 02/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TNT Sports 8 UK
+#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TNT Sports 8 UK
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://zekonew.newkso.ru/zeko/premium214/mono.m3u8
 
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | 4th Round - Roland-Garros Tennis Men's and Women's Singles | 4th Round" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | 4th Round - 02/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", France 3
+#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", France 3
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://dokko1new.newkso.ru/dokko1/premium951/mono.m3u8
 
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | 4th Round - Roland-Garros Tennis Men's and Women's Singles | 4th Round" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | 4th Round - 02/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sport 2 NZ
+#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sport 1 NZ
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium588/mono.m3u8
+
+#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sport 2 NZ
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://dokko1new.newkso.ru/dokko1/premium589/mono.m3u8
 
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | 4th Round - Roland-Garros Tennis Men's and Women's Singles | 4th Round" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | 4th Round - 02/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sport 3 NZ
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://dokko1new.newkso.ru/dokko1/premium590/mono.m3u8
-
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | 4th Round - Roland-Garros Tennis Men's and Women's Singles | 4th Round" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | 4th Round - 02/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", SONY TEN 1
+#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", SONY TEN 1
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://windnew.newkso.ru/wind/premium885/mono.m3u8
 
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | 4th Round - Roland-Garros Tennis Men's and Women's Singles | 4th Round" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | 4th Round - 02/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", SONY TEN 2
+#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", SONY TEN 2
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://windnew.newkso.ru/wind/premium886/mono.m3u8
 
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | 4th Round - Roland-Garros Tennis Men's and Women's Singles | 4th Round" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | 4th Round - 02/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", SONY TEN 3
+#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", SONY TEN 3
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://windnew.newkso.ru/wind/premium887/mono.m3u8
 
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | 4th Round - Roland-Garros Tennis Men's and Women's Singles | 4th Round" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | 4th Round - 02/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 2 Malaysia
+#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 2 Malaysia
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://nfsnew.newkso.ru/nfs/premium713/mono.m3u8
 
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | 4th Round - Roland-Garros Tennis Men's and Women's Singles | 4th Round" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | 4th Round - 02/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 1 Malaysia
+#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 1 Malaysia
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://nfsnew.newkso.ru/nfs/premium712/mono.m3u8
 
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | 4th Round - Roland-Garros Tennis Men's and Women's Singles | 4th Round" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | 4th Round - 02/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 3 Malaysia
+#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 3 Malaysia
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://nfsnew.newkso.ru/nfs/premium714/mono.m3u8
 
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | 4th Round - Roland-Garros Tennis Men's and Women's Singles | 4th Round" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | 4th Round - 02/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 Poland
+#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 Poland
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://windnew.newkso.ru/wind/premium58/mono.m3u8
 
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | 4th Round - Roland-Garros Tennis Men's and Women's Singles | 4th Round" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | 4th Round - 02/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 1 Spain
+#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 1 Spain
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://zekonew.newkso.ru/zeko/premium524/mono.m3u8
 
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | 4th Round - Roland-Garros Tennis Men's and Women's Singles | 4th Round" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | 4th Round - 02/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 France
+#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Eurosport 2 SE
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium232/mono.m3u8
+
+#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 France
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium773/mono.m3u8
 
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | 4th Round - Roland-Garros Tennis Men's and Women's Singles | 4th Round" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | 4th Round - 02/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Eurosport 1 SE
+#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Eurosport 1 SE
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://windnew.newkso.ru/wind/premium231/mono.m3u8
 
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | 4th Round - Roland-Garros Tennis Men's and Women's Singles | 4th Round" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | 4th Round - 02/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Eurosport 2 SE
+#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Eurosport 2 SE
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://windnew.newkso.ru/wind/premium232/mono.m3u8
 
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | 4th Round - Roland-Garros Tennis Men's and Women's Singles | 4th Round" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | 4th Round - 02/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 Italy
+#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 Italy
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://windnew.newkso.ru/wind/premium879/mono.m3u8
 
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | 4th Round - Roland-Garros Tennis Men's and Women's Singles | 4th Round" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | 4th Round - 02/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 France
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium773/mono.m3u8
-
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | 4th Round - Roland-Garros Tennis Men's and Women's Singles | 4th Round" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | 4th Round - 02/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 Greece
+#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 Greece
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://windnew.newkso.ru/wind/premium42/mono.m3u8
 
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | 4th Round - Roland-Garros Tennis Men's and Women's Singles | 4th Round" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | 4th Round - 02/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", ESPN2 Argentina
+#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", ESPN2 Argentina
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://windnew.newkso.ru/wind/premium150/mono.m3u8
 
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | 4th Round - Roland-Garros Tennis Men's and Women's Singles | 4th Round" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | 4th Round - 02/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Eurosport 2 SE
+#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Eurosport 2 SE
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://windnew.newkso.ru/wind/premium232/mono.m3u8
 
-#EXTINF:-1 tvg-id="Poland PLK - MKS Start Lublin vs. Trefl Sopot" tvg-name="17:30 Poland PLK : MKS Start Lublin vs. Trefl Sopot - 02/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Polsat Sport 1 Poland
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium47/mono.m3u8
-
-#EXTINF:-1 tvg-id="Romania LNBM Mozzart - CSM Oradea vs U-Banca Transilvania Cluj-Napoca" tvg-name="18:00 Romania LNBM Mozzart : CSM Oradea vs U-Banca Transilvania Cluj-Napoca - 02/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Digi Sport 2 Romania
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium401/mono.m3u8
-
-#EXTINF:-1 tvg-id="Russia United League - PBC Lokomotiv-Kuban vs UNICS Kazan" tvg-name="18:30 Russia United League : PBC Lokomotiv-Kuban vs UNICS Kazan - 02/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Match Igra Russia
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium4/mono.m3u8
-
-#EXTINF:-1 tvg-id="Russia United League - PBC Lokomotiv-Kuban vs UNICS Kazan" tvg-name="18:30 Russia United League : PBC Lokomotiv-Kuban vs UNICS Kazan - 02/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Match TV Russia
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium127/mono.m3u8
-
-#EXTINF:-1 tvg-id="Spain Liga ACB - Valencia Basket vs Gran Canaria" tvg-name="19:00 Spain Liga ACB : Valencia Basket vs Gran Canaria - 02/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Movistar Deportes Spain
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium436/mono.m3u8
-
-#EXTINF:-1 tvg-id="Spain Liga ACB - Valencia Basket vs Gran Canaria" tvg-name="19:00 Spain Liga ACB : Valencia Basket vs Gran Canaria - 02/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sportdigital+ DE
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://dokko1new.newkso.ru/dokko1/premium640/mono.m3u8
-
-#EXTINF:-1 tvg-id="Spain Liga ACB - Valencia Basket vs Gran Canaria" tvg-name="19:00 Spain Liga ACB : Valencia Basket vs Gran Canaria - 02/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Cosmote Sport 4 Greece
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://dokko1new.newkso.ru/dokko1/premium625/mono.m3u8
-
-#EXTINF:-1 tvg-id="Spain Liga ACB - Valencia Basket vs Gran Canaria" tvg-name="19:00 Spain Liga ACB : Valencia Basket vs Gran Canaria - 02/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport Klub 1 Croatia
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium101/mono.m3u8
-
-#EXTINF:-1 tvg-id="Spain Liga ACB - Valencia Basket vs Gran Canaria" tvg-name="19:00 Spain Liga ACB : Valencia Basket vs Gran Canaria - 02/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 1 Israel
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium140/mono.m3u8
-
-#EXTINF:-1 tvg-id="Poland PLK - Legia Warszawa vs. Anwil Wroclawek" tvg-name="20:00 Poland PLK : Legia Warszawa vs. Anwil Wroclawek - 02/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Polsat Sport 1 Poland
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium47/mono.m3u8
-
-#EXTINF:-1 tvg-id="Lega A - Virtus Bologna vs Olimpia Milano" tvg-name="20:45 Lega A : Virtus Bologna vs Olimpia Milano - 02/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Eurosport 2 IT
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium879/mono.m3u8
-
-#EXTINF:-1 tvg-id="Lega A - Virtus Bologna vs Olimpia Milano" tvg-name="20:45 Lega A : Virtus Bologna vs Olimpia Milano - 02/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Polsat Sport 3 Poland
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium129/mono.m3u8
-
-#EXTINF:-1 tvg-id="Lega A - Virtus Bologna vs Olimpia Milano" tvg-name="20:45 Lega A : Virtus Bologna vs Olimpia Milano - 02/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena Sport 2 Croatia
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium433/mono.m3u8
-
-#EXTINF:-1 tvg-id="Lega A - Virtus Bologna vs Olimpia Milano" tvg-name="20:45 Lega A : Virtus Bologna vs Olimpia Milano - 02/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena 1 Premium Serbia
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium134/mono.m3u8
-
-#EXTINF:-1 tvg-id="Lega A - Virtus Bologna vs Olimpia Milano" tvg-name="20:45 Lega A : Virtus Bologna vs Olimpia Milano - 02/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Cosmote Sport 8 Greece
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://dokko1new.newkso.ru/dokko1/premium629/mono.m3u8
-
-#EXTINF:-1 tvg-id="Lega A - Virtus Bologna vs Olimpia Milano" tvg-name="20:45 Lega A : Virtus Bologna vs Olimpia Milano - 02/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 2 Israel
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium141/mono.m3u8
-
-#EXTINF:-1 tvg-id="Spain Liga ACB - La Laguna Tenerife vs Club Joventut de Badalona" tvg-name="21:15 Spain Liga ACB : La Laguna Tenerife vs Club Joventut de Badalona - 02/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Movistar Deportes Spain
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium436/mono.m3u8
-
-#EXTINF:-1 tvg-id="Spain Liga ACB - La Laguna Tenerife vs Club Joventut de Badalona" tvg-name="21:15 Spain Liga ACB : La Laguna Tenerife vs Club Joventut de Badalona - 02/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", M+ #Vamos Spain
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium521/mono.m3u8
-
-#EXTINF:-1 tvg-id="Spain Liga ACB - La Laguna Tenerife vs Club Joventut de Badalona" tvg-name="21:15 Spain Liga ACB : La Laguna Tenerife vs Club Joventut de Badalona - 02/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sportdigital+ DE
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://dokko1new.newkso.ru/dokko1/premium640/mono.m3u8
-
-#EXTINF:-1 tvg-id="Spain Liga ACB - La Laguna Tenerife vs Club Joventut de Badalona" tvg-name="21:15 Spain Liga ACB : La Laguna Tenerife vs Club Joventut de Badalona - 02/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Cosmote Sport 7 Greece
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://dokko1new.newkso.ru/dokko1/premium628/mono.m3u8
-
-#EXTINF:-1 tvg-id="Spain Liga ACB - La Laguna Tenerife vs Club Joventut de Badalona" tvg-name="21:15 Spain Liga ACB : La Laguna Tenerife vs Club Joventut de Badalona - 02/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport Klub 1 Croatia
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium101/mono.m3u8
-
-#EXTINF:-1 tvg-id="Spain Liga ACB - La Laguna Tenerife vs Club Joventut de Badalona" tvg-name="21:15 Spain Liga ACB : La Laguna Tenerife vs Club Joventut de Badalona - 02/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 1 Israel
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium140/mono.m3u8
-
-#EXTINF:-1 tvg-id="WNBA Game - Washington Mystics vs Indiana Fever - WNBA Game - Washington Mystics vs Indiana Fever" tvg-name="01:00 WNBA Game - Washington Mystics vs Indiana Fever - 02/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", NBA TV USA
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium404/mono.m3u8
-
-#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 02/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Home Feed
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium3/mono.m3u8
-
-#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 02/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Away Feed
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium4/mono.m3u8
-
-#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 02/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TSN3
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium113/mono.m3u8
-
-#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 02/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TSN4
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium114/mono.m3u8
-
-#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 02/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TNT Sports 1 UK
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TNT Sports 1 UK
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://nfsnew.newkso.ru/nfs/premium31/mono.m3u8
 
-#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 02/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", beIN Sports 1 France
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TNT Sports 4 UK
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium116/mono.m3u8
+https://nfsnew.newkso.ru/nfs/premium34/mono.m3u8
 
-#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 02/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena 1 Premium Serbia
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TNT USA
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium338/mono.m3u8
+
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", truTV USA
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium341/mono.m3u8
+
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN1
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium111/mono.m3u8
+
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN4
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium114/mono.m3u8
+
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN5
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium115/mono.m3u8
+
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TNT Sports 5 UK
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium211/mono.m3u8
+
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TNT Sports 6 UK
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium212/mono.m3u8
+
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TNT Sports 7 UK
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium213/mono.m3u8
+
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TNT Sports 8 UK
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium214/mono.m3u8
+
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", France 3
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium951/mono.m3u8
+
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sport 1 NZ
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium588/mono.m3u8
+
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sport 2 NZ
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium589/mono.m3u8
+
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", SONY TEN 1
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium885/mono.m3u8
+
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", SONY TEN 2
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium886/mono.m3u8
+
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", SONY TEN 3
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium887/mono.m3u8
+
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 2 Malaysia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium713/mono.m3u8
+
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 1 Malaysia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium712/mono.m3u8
+
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 3 Malaysia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium714/mono.m3u8
+
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 Poland
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium58/mono.m3u8
+
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 1 Spain
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium524/mono.m3u8
+
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Eurosport 2 SE
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium232/mono.m3u8
+
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 France
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium773/mono.m3u8
+
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Eurosport 1 SE
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium231/mono.m3u8
+
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Eurosport 2 SE
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium232/mono.m3u8
+
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 Italy
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium879/mono.m3u8
+
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 Greece
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium42/mono.m3u8
+
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", ESPN2 Argentina
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium150/mono.m3u8
+
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Eurosport 2 SE
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium232/mono.m3u8
+
+#EXTINF:-1 tvg-id="Lithuanian League - Playoff - 1/2 Final (G3) : Zalgiris vs Jonavos" tvg-name="17:50 Lithuanian League: Playoff - 1/2 Final (G3) : Zalgiris vs Jonavos - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport Klub 2 Croatia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium102/mono.m3u8
+
+#EXTINF:-1 tvg-id="FRENCH LEAGUE - Semi-finals" tvg-name="18:00 FRENCH LEAGUE : Semi-finals - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena Sport 2 Serbia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium430/mono.m3u8
+
+#EXTINF:-1 tvg-id="VTB United League - CSKA Moscow vs Zenit Petersburg" tvg-name="18:30 VTB United League : CSKA Moscow vs Zenit Petersburg - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Match Igra Russia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium17/mono.m3u8
+
+#EXTINF:-1 tvg-id="VTB United League - CSKA Moscow vs Zenit Petersburg" tvg-name="18:30 VTB United League : CSKA Moscow vs Zenit Petersburg - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Match TV Russia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium127/mono.m3u8
+
+#EXTINF:-1 tvg-id="VTB United League - CSKA Moscow vs Zenit Petersburg" tvg-name="18:30 VTB United League : CSKA Moscow vs Zenit Petersburg - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena 2 Premium Serbia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium135/mono.m3u8
+
+#EXTINF:-1 tvg-id="ACB - Real Madrid vs Baskonia" tvg-name="19:00 ACB : Real Madrid vs Baskonia - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Movistar Deportes Spain
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium436/mono.m3u8
+
+#EXTINF:-1 tvg-id="ACB - Real Madrid vs Baskonia" tvg-name="19:00 ACB : Real Madrid vs Baskonia - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena 1 Premium Serbia
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://windnew.newkso.ru/wind/premium134/mono.m3u8
 
-#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 02/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Cosmote Sport 4 Greece
+#EXTINF:-1 tvg-id="ACB - Real Madrid vs Baskonia" tvg-name="19:00 ACB : Real Madrid vs Baskonia - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", DAZN Eleven 1 Portugal
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://dokko1new.newkso.ru/dokko1/premium625/mono.m3u8
+https://ddy6new.newkso.ru/ddy6/premium455/mono.m3u8
 
-#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 02/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TV4 Sportkanalen
+#EXTINF:-1 tvg-id="ACB - Real Madrid vs Baskonia" tvg-name="19:00 ACB : Real Madrid vs Baskonia - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Cosmote Sport 5 Greece
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium707/mono.m3u8
+https://dokko1new.newkso.ru/dokko1/premium626/mono.m3u8
+
+#EXTINF:-1 tvg-id="ACB - Real Madrid vs Baskonia" tvg-name="19:00 ACB : Real Madrid vs Baskonia - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sportdigital+ DE
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium640/mono.m3u8
+
+#EXTINF:-1 tvg-id="ACB - Real Madrid vs Baskonia" tvg-name="19:00 ACB : Real Madrid vs Baskonia - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport Klub 1 Croatia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium101/mono.m3u8
+
+#EXTINF:-1 tvg-id="ACB - Real Madrid vs Baskonia" tvg-name="19:00 ACB : Real Madrid vs Baskonia - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 4 Israel
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium143/mono.m3u8
+
+#EXTINF:-1 tvg-id="Super League - Hapoel Tel-Aviv vs Hapoel M. Jerusalem" tvg-name="19:50 Super League : Hapoel Tel-Aviv vs Hapoel M. Jerusalem - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport Klub 3 Croatia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium103/mono.m3u8
+
+#EXTINF:-1 tvg-id="Super League - Hapoel Tel-Aviv vs Hapoel M. Jerusalem" tvg-name="19:50 Super League : Hapoel Tel-Aviv vs Hapoel M. Jerusalem - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 5 Israel
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium144/mono.m3u8
+
+#EXTINF:-1 tvg-id="French League - Playoffs - 1/2 Final A (G1)" tvg-name="21:00 French League: Playoffs - 1/2 Final A (G1) - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport Klub 2 Croatia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium102/mono.m3u8
+
+#EXTINF:-1 tvg-id="ACB - Unicaja vs Barcelona" tvg-name="21:15 ACB : Unicaja vs Barcelona - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Movistar Deportes Spain
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium436/mono.m3u8
+
+#EXTINF:-1 tvg-id="ACB - Unicaja vs Barcelona" tvg-name="21:15 ACB : Unicaja vs Barcelona - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", M+ #Vamos ES
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium521/mono.m3u8
+
+#EXTINF:-1 tvg-id="ACB - Unicaja vs Barcelona" tvg-name="21:15 ACB : Unicaja vs Barcelona - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena 1 Premium Serbia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium134/mono.m3u8
+
+#EXTINF:-1 tvg-id="ACB - Unicaja vs Barcelona" tvg-name="21:15 ACB : Unicaja vs Barcelona - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", DAZN Eleven 1 Portugal
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium455/mono.m3u8
+
+#EXTINF:-1 tvg-id="ACB - Unicaja vs Barcelona" tvg-name="21:15 ACB : Unicaja vs Barcelona - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Cosmote Sport 7 Greece
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium628/mono.m3u8
+
+#EXTINF:-1 tvg-id="ACB - Unicaja vs Barcelona" tvg-name="21:15 ACB : Unicaja vs Barcelona - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport Klub 1 Croatia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium101/mono.m3u8
+
+#EXTINF:-1 tvg-id="ACB - Unicaja vs Barcelona" tvg-name="21:15 ACB : Unicaja vs Barcelona - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sportdigital+ DE
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium640/mono.m3u8
+
+#EXTINF:-1 tvg-id="ACB - Unicaja vs Barcelona" tvg-name="21:15 ACB : Unicaja vs Barcelona - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 4 Israel
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium143/mono.m3u8
+
+#EXTINF:-1 tvg-id="Brazil NBB - Flamengo vs Sesi Franca Basquete" tvg-name="01:00 Brazil NBB : Flamengo vs Sesi Franca Basquete - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sportv2 Brazil
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium79/mono.m3u8
+
+#EXTINF:-1 tvg-id="WNBA - Indiana Fever W vs Washington Mystics W" tvg-name="01:00 WNBA : Indiana Fever W vs Washington Mystics W - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Monumental Sports Network
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium778/mono.m3u8
+
+#EXTINF:-1 tvg-id="WNBA - Indiana Fever W vs Washington Mystics W" tvg-name="01:00 WNBA : Indiana Fever W vs Washington Mystics W - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", NBA TV USA
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium404/mono.m3u8
+
+#EXTINF:-1 tvg-id="WNBA - Indiana Fever W vs Washington Mystics W" tvg-name="01:00 WNBA : Indiana Fever W vs Washington Mystics W - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sportsnet 360 CA
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium409/mono.m3u8
+
+#EXTINF:-1 tvg-id="WNBA - Indiana Fever W vs Washington Mystics W" tvg-name="01:00 WNBA : Indiana Fever W vs Washington Mystics W - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 5 Israel
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium144/mono.m3u8
+
+#EXTINF:-1 tvg-id="WNBA - Phoenix Mercury W vs Minnesota Lynx W" tvg-name="02:00 WNBA : Phoenix Mercury W vs Minnesota Lynx W - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", WNBA League Pass
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium18/mono.m3u8
+
+#EXTINF:-1 tvg-id="WNBA - Seattle Storm W vs Dallas Wings W" tvg-name="03:30 WNBA : Seattle Storm W vs Dallas Wings W - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ESPN USA
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium44/mono.m3u8
+
+#EXTINF:-1 tvg-id="WNBA - Seattle Storm W vs Dallas Wings W" tvg-name="03:30 WNBA : Seattle Storm W vs Dallas Wings W - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TSN4
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium114/mono.m3u8
+
+#EXTINF:-1 tvg-id="WNBA - Seattle Storm W vs Dallas Wings W" tvg-name="03:30 WNBA : Seattle Storm W vs Dallas Wings W - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TSN5
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium115/mono.m3u8
+
+#EXTINF:-1 tvg-id="WNBA - Seattle Storm W vs Dallas Wings W" tvg-name="03:30 WNBA : Seattle Storm W vs Dallas Wings W - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ESPN2 Argentina
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium150/mono.m3u8
+
+#EXTINF:-1 tvg-id="WNBA - Seattle Storm W vs Dallas Wings W" tvg-name="03:30 WNBA : Seattle Storm W vs Dallas Wings W - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ESPN Deportes
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium375/mono.m3u8
 
