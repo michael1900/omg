@@ -1,1 +1,19 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="UEFA Nations League - Spain vs France" tvg-name="20:00 UEFA Nations League : Spain vs France - 05/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Uno IT
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium461/mono.m3u8
+
+#EXTINF:-1 tvg-id="UEFA Nations League - Spain vs France" tvg-name="20:00 UEFA Nations League : Spain vs France - 05/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Calcio IT
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium870/mono.m3u8
+
+#EXTINF:-1 tvg-id="Lega A - Olimpia Milano vs. Virtus Bologna" tvg-name="19:45 Lega A : Olimpia Milano vs. Virtus Bologna - 05/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Eurosport 2 IT
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium879/mono.m3u8
+
